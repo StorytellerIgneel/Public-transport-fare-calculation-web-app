@@ -16,10 +16,12 @@ def get_db_connection():
 def seed_db():
     fares = pd.read_csv("src/components/backend/db_scripts/Fare_melted.csv")
     times = pd.read_csv("src/components/backend/db_scripts/Time_melted.csv")
+    stations = pd.read_csv("src/components/backend/db_scripts/Stations.csv")
     with closing(get_db_connection()) as conn:
         cursor = conn.cursor()
         fares.to_sql("fares", conn, if_exists="append", index=False)
         times.to_sql("times", conn, if_exists="append", index=False)
+        stations.to_sql("stations", conn, if_exists="append", index=False)
         conn.commit()
         return cursor.rowcount  # Number of rows affected
 
@@ -35,6 +37,16 @@ def fetch_one(query, params=()):
         cur = conn.cursor()
         cur.execute(query, params)
         return cur.fetchone()
+    
+# example for fetch one usage 
+# def get_fare(origin, destination):
+#     query = """
+#         SELECT fare 
+#         FROM fares 
+#         WHERE origin_station = ? AND destination_station = ?
+#     """
+#     row = fetch_one(query, (origin, destination))
+#     return row[0] if row else None
     
 def fetch_all(query, params=()):
     with closing(get_db_connection()) as conn:
