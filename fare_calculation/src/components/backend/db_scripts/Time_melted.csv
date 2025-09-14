@@ -1,0 +1,4625 @@
+origin_station,destination,time
+Gombak,Gombak,0
+Taman Melati,Gombak,3
+Wangsa Maju,Gombak,7
+Sri Rampai,Gombak,9
+Setiawangsa,Gombak,15
+Jelatek,Gombak,17
+Dato' Keramat,Gombak,18
+Damai,Gombak,19
+Ampang Park,Gombak,21
+KLCC,Gombak,22
+Kampung Baru,Gombak,24
+Dang Wangi,Gombak,26
+Masjid Jamek (KJL),Gombak,28
+Pasar Seni (KJL),Gombak,29
+KL Sentral (KJL),Gombak,32
+Bangsar,Gombak,34
+Abdullah Hukum,Gombak,37
+Kerinchi,Gombak,38
+Universiti,Gombak,40
+Taman Jaya,Gombak,44
+Asia Jaya,Gombak,46
+Taman Paramount,Gombak,49
+Taman Bahagia,Gombak,52
+Kelana Jaya,Gombak,54
+Lembah Subang,Gombak,57
+Ara Damansara,Gombak,59
+Glenmarie,Gombak,62
+Subang Jaya,Gombak,63
+SS 15,Gombak,67
+SS 18,Gombak,69
+USJ 7 (KJL),Gombak,72
+Taipan,Gombak,73
+Wawasan,Gombak,76
+USJ 21,Gombak,78
+Alam Megah,Gombak,81
+Subang Alam,Gombak,84
+Putra Heights (KJL),Gombak,88
+Sungai Buloh,Gombak,62
+Kampung Selamat,Gombak,59
+Kwasa Damansara,Gombak,54
+Kwasa Sentral,Gombak,52
+Kota Damansara,Gombak,48
+Surian,Gombak,46
+Mutiara Damansara,Gombak,44
+Bandar Utama,Gombak,42
+TTDI,Gombak,38
+Phileo Damansara,Gombak,34
+Pusat Bandar Damansara,Gombak,63
+Semantan,Gombak,60
+Muzium Negara,Gombak,55
+Pasar Seni (SBK),Gombak,53
+Merdeka,Gombak,49
+Bukit Bintang,Gombak,47
+Tun Razak Exchange (TRX),Gombak,45
+Cochrane,Gombak,43
+Maluri (SBK),Gombak,39
+Taman Pertama,Gombak,35
+Taman Midah,Gombak,64
+Taman Mutiara,Gombak,61
+Taman Connaught,Gombak,56
+Taman Suntex,Gombak,54
+Sri Raya,Gombak,50
+Bandar Tun Hussein Onn,Gombak,48
+Batu 11 Cheras,Gombak,46
+Bukit Dukung,Gombak,44
+Sungai Jernih,Gombak,40
+Stadium Kajang,Gombak,36
+Kajang,Gombak,65
+Gombak,Taman Melati,3
+Taman Melati,Taman Melati,0
+Wangsa Maju,Taman Melati,4
+Sri Rampai,Taman Melati,6
+Setiawangsa,Taman Melati,12
+Jelatek,Taman Melati,14
+Dato' Keramat,Taman Melati,15
+Damai,Taman Melati,16
+Ampang Park,Taman Melati,18
+KLCC,Taman Melati,19
+Kampung Baru,Taman Melati,21
+Dang Wangi,Taman Melati,23
+Masjid Jamek (KJL),Taman Melati,25
+Pasar Seni (KJL),Taman Melati,26
+KL Sentral (KJL),Taman Melati,29
+Bangsar,Taman Melati,31
+Abdullah Hukum,Taman Melati,34
+Kerinchi,Taman Melati,35
+Universiti,Taman Melati,37
+Taman Jaya,Taman Melati,41
+Asia Jaya,Taman Melati,43
+Taman Paramount,Taman Melati,46
+Taman Bahagia,Taman Melati,49
+Kelana Jaya,Taman Melati,51
+Lembah Subang,Taman Melati,54
+Ara Damansara,Taman Melati,56
+Glenmarie,Taman Melati,59
+Subang Jaya,Taman Melati,60
+SS 15,Taman Melati,64
+SS 18,Taman Melati,66
+USJ 7 (KJL),Taman Melati,69
+Taipan,Taman Melati,70
+Wawasan,Taman Melati,73
+USJ 21,Taman Melati,75
+Alam Megah,Taman Melati,78
+Subang Alam,Taman Melati,81
+Putra Heights (KJL),Taman Melati,85
+Sungai Buloh,Taman Melati,59
+Kampung Selamat,Taman Melati,56
+Kwasa Damansara,Taman Melati,51
+Kwasa Sentral,Taman Melati,49
+Kota Damansara,Taman Melati,45
+Surian,Taman Melati,43
+Mutiara Damansara,Taman Melati,41
+Bandar Utama,Taman Melati,39
+TTDI,Taman Melati,35
+Phileo Damansara,Taman Melati,31
+Pusat Bandar Damansara,Taman Melati,60
+Semantan,Taman Melati,57
+Muzium Negara,Taman Melati,52
+Pasar Seni (SBK),Taman Melati,50
+Merdeka,Taman Melati,46
+Bukit Bintang,Taman Melati,44
+Tun Razak Exchange (TRX),Taman Melati,42
+Cochrane,Taman Melati,40
+Maluri (SBK),Taman Melati,36
+Taman Pertama,Taman Melati,32
+Taman Midah,Taman Melati,61
+Taman Mutiara,Taman Melati,58
+Taman Connaught,Taman Melati,53
+Taman Suntex,Taman Melati,51
+Sri Raya,Taman Melati,47
+Bandar Tun Hussein Onn,Taman Melati,45
+Batu 11 Cheras,Taman Melati,43
+Bukit Dukung,Taman Melati,41
+Sungai Jernih,Taman Melati,37
+Stadium Kajang,Taman Melati,33
+Kajang,Taman Melati,62
+Gombak,Wangsa Maju,7
+Taman Melati,Wangsa Maju,4
+Wangsa Maju,Wangsa Maju,0
+Sri Rampai,Wangsa Maju,2
+Setiawangsa,Wangsa Maju,8
+Jelatek,Wangsa Maju,10
+Dato' Keramat,Wangsa Maju,11
+Damai,Wangsa Maju,12
+Ampang Park,Wangsa Maju,14
+KLCC,Wangsa Maju,15
+Kampung Baru,Wangsa Maju,17
+Dang Wangi,Wangsa Maju,19
+Masjid Jamek (KJL),Wangsa Maju,21
+Pasar Seni (KJL),Wangsa Maju,22
+KL Sentral (KJL),Wangsa Maju,25
+Bangsar,Wangsa Maju,27
+Abdullah Hukum,Wangsa Maju,30
+Kerinchi,Wangsa Maju,31
+Universiti,Wangsa Maju,33
+Taman Jaya,Wangsa Maju,37
+Asia Jaya,Wangsa Maju,39
+Taman Paramount,Wangsa Maju,42
+Taman Bahagia,Wangsa Maju,45
+Kelana Jaya,Wangsa Maju,47
+Lembah Subang,Wangsa Maju,50
+Ara Damansara,Wangsa Maju,52
+Glenmarie,Wangsa Maju,55
+Subang Jaya,Wangsa Maju,56
+SS 15,Wangsa Maju,60
+SS 18,Wangsa Maju,62
+USJ 7 (KJL),Wangsa Maju,65
+Taipan,Wangsa Maju,66
+Wawasan,Wangsa Maju,69
+USJ 21,Wangsa Maju,71
+Alam Megah,Wangsa Maju,74
+Subang Alam,Wangsa Maju,77
+Putra Heights (KJL),Wangsa Maju,81
+Sungai Buloh,Wangsa Maju,56
+Kampung Selamat,Wangsa Maju,53
+Kwasa Damansara,Wangsa Maju,48
+Kwasa Sentral,Wangsa Maju,46
+Kota Damansara,Wangsa Maju,42
+Surian,Wangsa Maju,40
+Mutiara Damansara,Wangsa Maju,38
+Bandar Utama,Wangsa Maju,36
+TTDI,Wangsa Maju,32
+Phileo Damansara,Wangsa Maju,28
+Pusat Bandar Damansara,Wangsa Maju,57
+Semantan,Wangsa Maju,54
+Muzium Negara,Wangsa Maju,49
+Pasar Seni (SBK),Wangsa Maju,47
+Merdeka,Wangsa Maju,43
+Bukit Bintang,Wangsa Maju,41
+Tun Razak Exchange (TRX),Wangsa Maju,39
+Cochrane,Wangsa Maju,37
+Maluri (SBK),Wangsa Maju,33
+Taman Pertama,Wangsa Maju,29
+Taman Midah,Wangsa Maju,58
+Taman Mutiara,Wangsa Maju,55
+Taman Connaught,Wangsa Maju,50
+Taman Suntex,Wangsa Maju,48
+Sri Raya,Wangsa Maju,44
+Bandar Tun Hussein Onn,Wangsa Maju,42
+Batu 11 Cheras,Wangsa Maju,40
+Bukit Dukung,Wangsa Maju,38
+Sungai Jernih,Wangsa Maju,34
+Stadium Kajang,Wangsa Maju,30
+Kajang,Wangsa Maju,59
+Gombak,Sri Rampai,9
+Taman Melati,Sri Rampai,6
+Wangsa Maju,Sri Rampai,2
+Sri Rampai,Sri Rampai,0
+Setiawangsa,Sri Rampai,6
+Jelatek,Sri Rampai,8
+Dato' Keramat,Sri Rampai,9
+Damai,Sri Rampai,10
+Ampang Park,Sri Rampai,12
+KLCC,Sri Rampai,13
+Kampung Baru,Sri Rampai,15
+Dang Wangi,Sri Rampai,17
+Masjid Jamek (KJL),Sri Rampai,19
+Pasar Seni (KJL),Sri Rampai,20
+KL Sentral (KJL),Sri Rampai,23
+Bangsar,Sri Rampai,25
+Abdullah Hukum,Sri Rampai,28
+Kerinchi,Sri Rampai,29
+Universiti,Sri Rampai,31
+Taman Jaya,Sri Rampai,35
+Asia Jaya,Sri Rampai,37
+Taman Paramount,Sri Rampai,40
+Taman Bahagia,Sri Rampai,43
+Kelana Jaya,Sri Rampai,45
+Lembah Subang,Sri Rampai,48
+Ara Damansara,Sri Rampai,50
+Glenmarie,Sri Rampai,53
+Subang Jaya,Sri Rampai,54
+SS 15,Sri Rampai,58
+SS 18,Sri Rampai,60
+USJ 7 (KJL),Sri Rampai,63
+Taipan,Sri Rampai,64
+Wawasan,Sri Rampai,67
+USJ 21,Sri Rampai,69
+Alam Megah,Sri Rampai,72
+Subang Alam,Sri Rampai,75
+Putra Heights (KJL),Sri Rampai,79
+Sungai Buloh,Sri Rampai,54
+Kampung Selamat,Sri Rampai,51
+Kwasa Damansara,Sri Rampai,46
+Kwasa Sentral,Sri Rampai,44
+Kota Damansara,Sri Rampai,40
+Surian,Sri Rampai,38
+Mutiara Damansara,Sri Rampai,36
+Bandar Utama,Sri Rampai,34
+TTDI,Sri Rampai,30
+Phileo Damansara,Sri Rampai,26
+Pusat Bandar Damansara,Sri Rampai,55
+Semantan,Sri Rampai,52
+Muzium Negara,Sri Rampai,47
+Pasar Seni (SBK),Sri Rampai,45
+Merdeka,Sri Rampai,41
+Bukit Bintang,Sri Rampai,39
+Tun Razak Exchange (TRX),Sri Rampai,37
+Cochrane,Sri Rampai,35
+Maluri (SBK),Sri Rampai,31
+Taman Pertama,Sri Rampai,27
+Taman Midah,Sri Rampai,56
+Taman Mutiara,Sri Rampai,53
+Taman Connaught,Sri Rampai,48
+Taman Suntex,Sri Rampai,46
+Sri Raya,Sri Rampai,42
+Bandar Tun Hussein Onn,Sri Rampai,40
+Batu 11 Cheras,Sri Rampai,38
+Bukit Dukung,Sri Rampai,36
+Sungai Jernih,Sri Rampai,32
+Stadium Kajang,Sri Rampai,28
+Kajang,Sri Rampai,57
+Gombak,Setiawangsa,15
+Taman Melati,Setiawangsa,12
+Wangsa Maju,Setiawangsa,8
+Sri Rampai,Setiawangsa,6
+Setiawangsa,Setiawangsa,0
+Jelatek,Setiawangsa,2
+Dato' Keramat,Setiawangsa,3
+Damai,Setiawangsa,4
+Ampang Park,Setiawangsa,6
+KLCC,Setiawangsa,7
+Kampung Baru,Setiawangsa,9
+Dang Wangi,Setiawangsa,11
+Masjid Jamek (KJL),Setiawangsa,13
+Pasar Seni (KJL),Setiawangsa,14
+KL Sentral (KJL),Setiawangsa,17
+Bangsar,Setiawangsa,19
+Abdullah Hukum,Setiawangsa,22
+Kerinchi,Setiawangsa,23
+Universiti,Setiawangsa,25
+Taman Jaya,Setiawangsa,29
+Asia Jaya,Setiawangsa,31
+Taman Paramount,Setiawangsa,34
+Taman Bahagia,Setiawangsa,37
+Kelana Jaya,Setiawangsa,39
+Lembah Subang,Setiawangsa,42
+Ara Damansara,Setiawangsa,44
+Glenmarie,Setiawangsa,47
+Subang Jaya,Setiawangsa,48
+SS 15,Setiawangsa,52
+SS 18,Setiawangsa,54
+USJ 7 (KJL),Setiawangsa,57
+Taipan,Setiawangsa,58
+Wawasan,Setiawangsa,61
+USJ 21,Setiawangsa,63
+Alam Megah,Setiawangsa,66
+Subang Alam,Setiawangsa,69
+Putra Heights (KJL),Setiawangsa,73
+Sungai Buloh,Setiawangsa,51
+Kampung Selamat,Setiawangsa,48
+Kwasa Damansara,Setiawangsa,43
+Kwasa Sentral,Setiawangsa,41
+Kota Damansara,Setiawangsa,37
+Surian,Setiawangsa,35
+Mutiara Damansara,Setiawangsa,33
+Bandar Utama,Setiawangsa,31
+TTDI,Setiawangsa,27
+Phileo Damansara,Setiawangsa,23
+Pusat Bandar Damansara,Setiawangsa,52
+Semantan,Setiawangsa,49
+Muzium Negara,Setiawangsa,44
+Pasar Seni (SBK),Setiawangsa,42
+Merdeka,Setiawangsa,38
+Bukit Bintang,Setiawangsa,36
+Tun Razak Exchange (TRX),Setiawangsa,34
+Cochrane,Setiawangsa,32
+Maluri (SBK),Setiawangsa,28
+Taman Pertama,Setiawangsa,24
+Taman Midah,Setiawangsa,53
+Taman Mutiara,Setiawangsa,50
+Taman Connaught,Setiawangsa,45
+Taman Suntex,Setiawangsa,43
+Sri Raya,Setiawangsa,39
+Bandar Tun Hussein Onn,Setiawangsa,37
+Batu 11 Cheras,Setiawangsa,35
+Bukit Dukung,Setiawangsa,33
+Sungai Jernih,Setiawangsa,29
+Stadium Kajang,Setiawangsa,25
+Kajang,Setiawangsa,54
+Gombak,Jelatek,17
+Taman Melati,Jelatek,14
+Wangsa Maju,Jelatek,10
+Sri Rampai,Jelatek,8
+Setiawangsa,Jelatek,2
+Jelatek,Jelatek,0
+Dato' Keramat,Jelatek,1
+Damai,Jelatek,2
+Ampang Park,Jelatek,4
+KLCC,Jelatek,5
+Kampung Baru,Jelatek,7
+Dang Wangi,Jelatek,9
+Masjid Jamek (KJL),Jelatek,11
+Pasar Seni (KJL),Jelatek,12
+KL Sentral (KJL),Jelatek,15
+Bangsar,Jelatek,17
+Abdullah Hukum,Jelatek,20
+Kerinchi,Jelatek,21
+Universiti,Jelatek,23
+Taman Jaya,Jelatek,27
+Asia Jaya,Jelatek,29
+Taman Paramount,Jelatek,32
+Taman Bahagia,Jelatek,35
+Kelana Jaya,Jelatek,37
+Lembah Subang,Jelatek,40
+Ara Damansara,Jelatek,42
+Glenmarie,Jelatek,45
+Subang Jaya,Jelatek,46
+SS 15,Jelatek,50
+SS 18,Jelatek,52
+USJ 7 (KJL),Jelatek,55
+Taipan,Jelatek,56
+Wawasan,Jelatek,59
+USJ 21,Jelatek,61
+Alam Megah,Jelatek,64
+Subang Alam,Jelatek,67
+Putra Heights (KJL),Jelatek,71
+Sungai Buloh,Jelatek,49
+Kampung Selamat,Jelatek,46
+Kwasa Damansara,Jelatek,41
+Kwasa Sentral,Jelatek,39
+Kota Damansara,Jelatek,35
+Surian,Jelatek,33
+Mutiara Damansara,Jelatek,31
+Bandar Utama,Jelatek,29
+TTDI,Jelatek,25
+Phileo Damansara,Jelatek,21
+Pusat Bandar Damansara,Jelatek,50
+Semantan,Jelatek,47
+Muzium Negara,Jelatek,42
+Pasar Seni (SBK),Jelatek,40
+Merdeka,Jelatek,36
+Bukit Bintang,Jelatek,34
+Tun Razak Exchange (TRX),Jelatek,32
+Cochrane,Jelatek,30
+Maluri (SBK),Jelatek,26
+Taman Pertama,Jelatek,22
+Taman Midah,Jelatek,51
+Taman Mutiara,Jelatek,48
+Taman Connaught,Jelatek,43
+Taman Suntex,Jelatek,41
+Sri Raya,Jelatek,37
+Bandar Tun Hussein Onn,Jelatek,35
+Batu 11 Cheras,Jelatek,33
+Bukit Dukung,Jelatek,31
+Sungai Jernih,Jelatek,27
+Stadium Kajang,Jelatek,23
+Kajang,Jelatek,52
+Gombak,Dato' Keramat,18
+Taman Melati,Dato' Keramat,15
+Wangsa Maju,Dato' Keramat,11
+Sri Rampai,Dato' Keramat,9
+Setiawangsa,Dato' Keramat,3
+Jelatek,Dato' Keramat,1
+Dato' Keramat,Dato' Keramat,0
+Damai,Dato' Keramat,1
+Ampang Park,Dato' Keramat,3
+KLCC,Dato' Keramat,4
+Kampung Baru,Dato' Keramat,6
+Dang Wangi,Dato' Keramat,8
+Masjid Jamek (KJL),Dato' Keramat,10
+Pasar Seni (KJL),Dato' Keramat,11
+KL Sentral (KJL),Dato' Keramat,14
+Bangsar,Dato' Keramat,16
+Abdullah Hukum,Dato' Keramat,19
+Kerinchi,Dato' Keramat,20
+Universiti,Dato' Keramat,22
+Taman Jaya,Dato' Keramat,26
+Asia Jaya,Dato' Keramat,28
+Taman Paramount,Dato' Keramat,31
+Taman Bahagia,Dato' Keramat,34
+Kelana Jaya,Dato' Keramat,36
+Lembah Subang,Dato' Keramat,39
+Ara Damansara,Dato' Keramat,41
+Glenmarie,Dato' Keramat,44
+Subang Jaya,Dato' Keramat,45
+SS 15,Dato' Keramat,49
+SS 18,Dato' Keramat,51
+USJ 7 (KJL),Dato' Keramat,54
+Taipan,Dato' Keramat,55
+Wawasan,Dato' Keramat,58
+USJ 21,Dato' Keramat,60
+Alam Megah,Dato' Keramat,63
+Subang Alam,Dato' Keramat,66
+Putra Heights (KJL),Dato' Keramat,70
+Sungai Buloh,Dato' Keramat,47
+Kampung Selamat,Dato' Keramat,44
+Kwasa Damansara,Dato' Keramat,39
+Kwasa Sentral,Dato' Keramat,37
+Kota Damansara,Dato' Keramat,33
+Surian,Dato' Keramat,31
+Mutiara Damansara,Dato' Keramat,29
+Bandar Utama,Dato' Keramat,27
+TTDI,Dato' Keramat,23
+Phileo Damansara,Dato' Keramat,19
+Pusat Bandar Damansara,Dato' Keramat,48
+Semantan,Dato' Keramat,45
+Muzium Negara,Dato' Keramat,40
+Pasar Seni (SBK),Dato' Keramat,38
+Merdeka,Dato' Keramat,34
+Bukit Bintang,Dato' Keramat,32
+Tun Razak Exchange (TRX),Dato' Keramat,30
+Cochrane,Dato' Keramat,28
+Maluri (SBK),Dato' Keramat,24
+Taman Pertama,Dato' Keramat,20
+Taman Midah,Dato' Keramat,49
+Taman Mutiara,Dato' Keramat,46
+Taman Connaught,Dato' Keramat,41
+Taman Suntex,Dato' Keramat,39
+Sri Raya,Dato' Keramat,35
+Bandar Tun Hussein Onn,Dato' Keramat,33
+Batu 11 Cheras,Dato' Keramat,31
+Bukit Dukung,Dato' Keramat,29
+Sungai Jernih,Dato' Keramat,25
+Stadium Kajang,Dato' Keramat,21
+Kajang,Dato' Keramat,50
+Gombak,Damai,19
+Taman Melati,Damai,16
+Wangsa Maju,Damai,12
+Sri Rampai,Damai,10
+Setiawangsa,Damai,4
+Jelatek,Damai,2
+Dato' Keramat,Damai,1
+Damai,Damai,0
+Ampang Park,Damai,2
+KLCC,Damai,3
+Kampung Baru,Damai,5
+Dang Wangi,Damai,7
+Masjid Jamek (KJL),Damai,9
+Pasar Seni (KJL),Damai,10
+KL Sentral (KJL),Damai,13
+Bangsar,Damai,15
+Abdullah Hukum,Damai,18
+Kerinchi,Damai,19
+Universiti,Damai,21
+Taman Jaya,Damai,25
+Asia Jaya,Damai,27
+Taman Paramount,Damai,30
+Taman Bahagia,Damai,33
+Kelana Jaya,Damai,35
+Lembah Subang,Damai,38
+Ara Damansara,Damai,40
+Glenmarie,Damai,43
+Subang Jaya,Damai,44
+SS 15,Damai,48
+SS 18,Damai,50
+USJ 7 (KJL),Damai,53
+Taipan,Damai,54
+Wawasan,Damai,57
+USJ 21,Damai,59
+Alam Megah,Damai,62
+Subang Alam,Damai,65
+Putra Heights (KJL),Damai,69
+Sungai Buloh,Damai,45
+Kampung Selamat,Damai,42
+Kwasa Damansara,Damai,37
+Kwasa Sentral,Damai,35
+Kota Damansara,Damai,31
+Surian,Damai,29
+Mutiara Damansara,Damai,27
+Bandar Utama,Damai,25
+TTDI,Damai,21
+Phileo Damansara,Damai,17
+Pusat Bandar Damansara,Damai,46
+Semantan,Damai,43
+Muzium Negara,Damai,38
+Pasar Seni (SBK),Damai,36
+Merdeka,Damai,32
+Bukit Bintang,Damai,30
+Tun Razak Exchange (TRX),Damai,28
+Cochrane,Damai,26
+Maluri (SBK),Damai,22
+Taman Pertama,Damai,18
+Taman Midah,Damai,47
+Taman Mutiara,Damai,44
+Taman Connaught,Damai,39
+Taman Suntex,Damai,37
+Sri Raya,Damai,33
+Bandar Tun Hussein Onn,Damai,31
+Batu 11 Cheras,Damai,29
+Bukit Dukung,Damai,27
+Sungai Jernih,Damai,23
+Stadium Kajang,Damai,19
+Kajang,Damai,48
+Gombak,Ampang Park,21
+Taman Melati,Ampang Park,18
+Wangsa Maju,Ampang Park,14
+Sri Rampai,Ampang Park,12
+Setiawangsa,Ampang Park,6
+Jelatek,Ampang Park,4
+Dato' Keramat,Ampang Park,3
+Damai,Ampang Park,2
+Ampang Park,Ampang Park,0
+KLCC,Ampang Park,1
+Kampung Baru,Ampang Park,3
+Dang Wangi,Ampang Park,5
+Masjid Jamek (KJL),Ampang Park,7
+Pasar Seni (KJL),Ampang Park,8
+KL Sentral (KJL),Ampang Park,11
+Bangsar,Ampang Park,13
+Abdullah Hukum,Ampang Park,16
+Kerinchi,Ampang Park,17
+Universiti,Ampang Park,19
+Taman Jaya,Ampang Park,23
+Asia Jaya,Ampang Park,25
+Taman Paramount,Ampang Park,28
+Taman Bahagia,Ampang Park,31
+Kelana Jaya,Ampang Park,33
+Lembah Subang,Ampang Park,36
+Ara Damansara,Ampang Park,38
+Glenmarie,Ampang Park,41
+Subang Jaya,Ampang Park,42
+SS 15,Ampang Park,46
+SS 18,Ampang Park,48
+USJ 7 (KJL),Ampang Park,51
+Taipan,Ampang Park,52
+Wawasan,Ampang Park,55
+USJ 21,Ampang Park,57
+Alam Megah,Ampang Park,60
+Subang Alam,Ampang Park,63
+Putra Heights (KJL),Ampang Park,67
+Sungai Buloh,Ampang Park,43
+Kampung Selamat,Ampang Park,40
+Kwasa Damansara,Ampang Park,35
+Kwasa Sentral,Ampang Park,33
+Kota Damansara,Ampang Park,29
+Surian,Ampang Park,27
+Mutiara Damansara,Ampang Park,25
+Bandar Utama,Ampang Park,23
+TTDI,Ampang Park,19
+Phileo Damansara,Ampang Park,15
+Pusat Bandar Damansara,Ampang Park,44
+Semantan,Ampang Park,41
+Muzium Negara,Ampang Park,36
+Pasar Seni (SBK),Ampang Park,34
+Merdeka,Ampang Park,30
+Bukit Bintang,Ampang Park,28
+Tun Razak Exchange (TRX),Ampang Park,26
+Cochrane,Ampang Park,24
+Maluri (SBK),Ampang Park,20
+Taman Pertama,Ampang Park,16
+Taman Midah,Ampang Park,45
+Taman Mutiara,Ampang Park,42
+Taman Connaught,Ampang Park,37
+Taman Suntex,Ampang Park,35
+Sri Raya,Ampang Park,31
+Bandar Tun Hussein Onn,Ampang Park,29
+Batu 11 Cheras,Ampang Park,27
+Bukit Dukung,Ampang Park,25
+Sungai Jernih,Ampang Park,21
+Stadium Kajang,Ampang Park,17
+Kajang,Ampang Park,46
+Gombak,KLCC,22
+Taman Melati,KLCC,19
+Wangsa Maju,KLCC,15
+Sri Rampai,KLCC,13
+Setiawangsa,KLCC,7
+Jelatek,KLCC,5
+Dato' Keramat,KLCC,4
+Damai,KLCC,3
+Ampang Park,KLCC,1
+KLCC,KLCC,0
+Kampung Baru,KLCC,2
+Dang Wangi,KLCC,4
+Masjid Jamek (KJL),KLCC,6
+Pasar Seni (KJL),KLCC,7
+KL Sentral (KJL),KLCC,10
+Bangsar,KLCC,12
+Abdullah Hukum,KLCC,15
+Kerinchi,KLCC,16
+Universiti,KLCC,18
+Taman Jaya,KLCC,22
+Asia Jaya,KLCC,24
+Taman Paramount,KLCC,27
+Taman Bahagia,KLCC,30
+Kelana Jaya,KLCC,32
+Lembah Subang,KLCC,35
+Ara Damansara,KLCC,37
+Glenmarie,KLCC,40
+Subang Jaya,KLCC,41
+SS 15,KLCC,45
+SS 18,KLCC,47
+USJ 7 (KJL),KLCC,50
+Taipan,KLCC,51
+Wawasan,KLCC,54
+USJ 21,KLCC,56
+Alam Megah,KLCC,59
+Subang Alam,KLCC,62
+Putra Heights (KJL),KLCC,66
+Sungai Buloh,KLCC,41
+Kampung Selamat,KLCC,38
+Kwasa Damansara,KLCC,33
+Kwasa Sentral,KLCC,31
+Kota Damansara,KLCC,27
+Surian,KLCC,25
+Mutiara Damansara,KLCC,23
+Bandar Utama,KLCC,21
+TTDI,KLCC,17
+Phileo Damansara,KLCC,13
+Pusat Bandar Damansara,KLCC,42
+Semantan,KLCC,39
+Muzium Negara,KLCC,34
+Pasar Seni (SBK),KLCC,32
+Merdeka,KLCC,28
+Bukit Bintang,KLCC,26
+Tun Razak Exchange (TRX),KLCC,24
+Cochrane,KLCC,22
+Maluri (SBK),KLCC,18
+Taman Pertama,KLCC,14
+Taman Midah,KLCC,43
+Taman Mutiara,KLCC,40
+Taman Connaught,KLCC,35
+Taman Suntex,KLCC,33
+Sri Raya,KLCC,29
+Bandar Tun Hussein Onn,KLCC,27
+Batu 11 Cheras,KLCC,25
+Bukit Dukung,KLCC,23
+Sungai Jernih,KLCC,19
+Stadium Kajang,KLCC,15
+Kajang,KLCC,44
+Gombak,Kampung Baru,24
+Taman Melati,Kampung Baru,21
+Wangsa Maju,Kampung Baru,17
+Sri Rampai,Kampung Baru,15
+Setiawangsa,Kampung Baru,9
+Jelatek,Kampung Baru,7
+Dato' Keramat,Kampung Baru,6
+Damai,Kampung Baru,5
+Ampang Park,Kampung Baru,3
+KLCC,Kampung Baru,2
+Kampung Baru,Kampung Baru,0
+Dang Wangi,Kampung Baru,2
+Masjid Jamek (KJL),Kampung Baru,4
+Pasar Seni (KJL),Kampung Baru,5
+KL Sentral (KJL),Kampung Baru,8
+Bangsar,Kampung Baru,10
+Abdullah Hukum,Kampung Baru,13
+Kerinchi,Kampung Baru,14
+Universiti,Kampung Baru,16
+Taman Jaya,Kampung Baru,20
+Asia Jaya,Kampung Baru,22
+Taman Paramount,Kampung Baru,25
+Taman Bahagia,Kampung Baru,28
+Kelana Jaya,Kampung Baru,30
+Lembah Subang,Kampung Baru,33
+Ara Damansara,Kampung Baru,35
+Glenmarie,Kampung Baru,38
+Subang Jaya,Kampung Baru,39
+SS 15,Kampung Baru,43
+SS 18,Kampung Baru,45
+USJ 7 (KJL),Kampung Baru,48
+Taipan,Kampung Baru,49
+Wawasan,Kampung Baru,52
+USJ 21,Kampung Baru,54
+Alam Megah,Kampung Baru,57
+Subang Alam,Kampung Baru,60
+Putra Heights (KJL),Kampung Baru,64
+Sungai Buloh,Kampung Baru,39
+Kampung Selamat,Kampung Baru,36
+Kwasa Damansara,Kampung Baru,31
+Kwasa Sentral,Kampung Baru,29
+Kota Damansara,Kampung Baru,25
+Surian,Kampung Baru,23
+Mutiara Damansara,Kampung Baru,21
+Bandar Utama,Kampung Baru,19
+TTDI,Kampung Baru,15
+Phileo Damansara,Kampung Baru,11
+Pusat Bandar Damansara,Kampung Baru,40
+Semantan,Kampung Baru,37
+Muzium Negara,Kampung Baru,32
+Pasar Seni (SBK),Kampung Baru,30
+Merdeka,Kampung Baru,26
+Bukit Bintang,Kampung Baru,24
+Tun Razak Exchange (TRX),Kampung Baru,22
+Cochrane,Kampung Baru,20
+Maluri (SBK),Kampung Baru,16
+Taman Pertama,Kampung Baru,12
+Taman Midah,Kampung Baru,41
+Taman Mutiara,Kampung Baru,38
+Taman Connaught,Kampung Baru,33
+Taman Suntex,Kampung Baru,31
+Sri Raya,Kampung Baru,27
+Bandar Tun Hussein Onn,Kampung Baru,25
+Batu 11 Cheras,Kampung Baru,23
+Bukit Dukung,Kampung Baru,21
+Sungai Jernih,Kampung Baru,17
+Stadium Kajang,Kampung Baru,13
+Kajang,Kampung Baru,42
+Gombak,Dang Wangi,26
+Taman Melati,Dang Wangi,23
+Wangsa Maju,Dang Wangi,19
+Sri Rampai,Dang Wangi,17
+Setiawangsa,Dang Wangi,11
+Jelatek,Dang Wangi,9
+Dato' Keramat,Dang Wangi,8
+Damai,Dang Wangi,7
+Ampang Park,Dang Wangi,5
+KLCC,Dang Wangi,4
+Kampung Baru,Dang Wangi,2
+Dang Wangi,Dang Wangi,0
+Masjid Jamek (KJL),Dang Wangi,2
+Pasar Seni (KJL),Dang Wangi,3
+KL Sentral (KJL),Dang Wangi,6
+Bangsar,Dang Wangi,8
+Abdullah Hukum,Dang Wangi,11
+Kerinchi,Dang Wangi,12
+Universiti,Dang Wangi,14
+Taman Jaya,Dang Wangi,18
+Asia Jaya,Dang Wangi,20
+Taman Paramount,Dang Wangi,23
+Taman Bahagia,Dang Wangi,26
+Kelana Jaya,Dang Wangi,28
+Lembah Subang,Dang Wangi,31
+Ara Damansara,Dang Wangi,33
+Glenmarie,Dang Wangi,36
+Subang Jaya,Dang Wangi,37
+SS 15,Dang Wangi,41
+SS 18,Dang Wangi,43
+USJ 7 (KJL),Dang Wangi,46
+Taipan,Dang Wangi,47
+Wawasan,Dang Wangi,50
+USJ 21,Dang Wangi,52
+Alam Megah,Dang Wangi,55
+Subang Alam,Dang Wangi,58
+Putra Heights (KJL),Dang Wangi,62
+Sungai Buloh,Dang Wangi,38
+Kampung Selamat,Dang Wangi,35
+Kwasa Damansara,Dang Wangi,30
+Kwasa Sentral,Dang Wangi,28
+Kota Damansara,Dang Wangi,24
+Surian,Dang Wangi,22
+Mutiara Damansara,Dang Wangi,20
+Bandar Utama,Dang Wangi,18
+TTDI,Dang Wangi,14
+Phileo Damansara,Dang Wangi,10
+Pusat Bandar Damansara,Dang Wangi,39
+Semantan,Dang Wangi,36
+Muzium Negara,Dang Wangi,31
+Pasar Seni (SBK),Dang Wangi,29
+Merdeka,Dang Wangi,25
+Bukit Bintang,Dang Wangi,23
+Tun Razak Exchange (TRX),Dang Wangi,21
+Cochrane,Dang Wangi,19
+Maluri (SBK),Dang Wangi,15
+Taman Pertama,Dang Wangi,11
+Taman Midah,Dang Wangi,40
+Taman Mutiara,Dang Wangi,37
+Taman Connaught,Dang Wangi,32
+Taman Suntex,Dang Wangi,30
+Sri Raya,Dang Wangi,26
+Bandar Tun Hussein Onn,Dang Wangi,24
+Batu 11 Cheras,Dang Wangi,22
+Bukit Dukung,Dang Wangi,20
+Sungai Jernih,Dang Wangi,16
+Stadium Kajang,Dang Wangi,12
+Kajang,Dang Wangi,41
+Gombak,Masjid Jamek (KJL),28
+Taman Melati,Masjid Jamek (KJL),25
+Wangsa Maju,Masjid Jamek (KJL),21
+Sri Rampai,Masjid Jamek (KJL),19
+Setiawangsa,Masjid Jamek (KJL),13
+Jelatek,Masjid Jamek (KJL),11
+Dato' Keramat,Masjid Jamek (KJL),10
+Damai,Masjid Jamek (KJL),9
+Ampang Park,Masjid Jamek (KJL),7
+KLCC,Masjid Jamek (KJL),6
+Kampung Baru,Masjid Jamek (KJL),4
+Dang Wangi,Masjid Jamek (KJL),2
+Masjid Jamek (KJL),Masjid Jamek (KJL),0
+Pasar Seni (KJL),Masjid Jamek (KJL),1
+KL Sentral (KJL),Masjid Jamek (KJL),4
+Bangsar,Masjid Jamek (KJL),6
+Abdullah Hukum,Masjid Jamek (KJL),9
+Kerinchi,Masjid Jamek (KJL),10
+Universiti,Masjid Jamek (KJL),12
+Taman Jaya,Masjid Jamek (KJL),16
+Asia Jaya,Masjid Jamek (KJL),18
+Taman Paramount,Masjid Jamek (KJL),21
+Taman Bahagia,Masjid Jamek (KJL),24
+Kelana Jaya,Masjid Jamek (KJL),26
+Lembah Subang,Masjid Jamek (KJL),29
+Ara Damansara,Masjid Jamek (KJL),31
+Glenmarie,Masjid Jamek (KJL),34
+Subang Jaya,Masjid Jamek (KJL),35
+SS 15,Masjid Jamek (KJL),39
+SS 18,Masjid Jamek (KJL),41
+USJ 7 (KJL),Masjid Jamek (KJL),44
+Taipan,Masjid Jamek (KJL),45
+Wawasan,Masjid Jamek (KJL),48
+USJ 21,Masjid Jamek (KJL),50
+Alam Megah,Masjid Jamek (KJL),53
+Subang Alam,Masjid Jamek (KJL),56
+Putra Heights (KJL),Masjid Jamek (KJL),60
+Sungai Buloh,Masjid Jamek (KJL),35
+Kampung Selamat,Masjid Jamek (KJL),32
+Kwasa Damansara,Masjid Jamek (KJL),27
+Kwasa Sentral,Masjid Jamek (KJL),25
+Kota Damansara,Masjid Jamek (KJL),21
+Surian,Masjid Jamek (KJL),19
+Mutiara Damansara,Masjid Jamek (KJL),17
+Bandar Utama,Masjid Jamek (KJL),15
+TTDI,Masjid Jamek (KJL),11
+Phileo Damansara,Masjid Jamek (KJL),7
+Pusat Bandar Damansara,Masjid Jamek (KJL),36
+Semantan,Masjid Jamek (KJL),33
+Muzium Negara,Masjid Jamek (KJL),28
+Pasar Seni (SBK),Masjid Jamek (KJL),26
+Merdeka,Masjid Jamek (KJL),22
+Bukit Bintang,Masjid Jamek (KJL),20
+Tun Razak Exchange (TRX),Masjid Jamek (KJL),18
+Cochrane,Masjid Jamek (KJL),16
+Maluri (SBK),Masjid Jamek (KJL),12
+Taman Pertama,Masjid Jamek (KJL),8
+Taman Midah,Masjid Jamek (KJL),37
+Taman Mutiara,Masjid Jamek (KJL),34
+Taman Connaught,Masjid Jamek (KJL),29
+Taman Suntex,Masjid Jamek (KJL),27
+Sri Raya,Masjid Jamek (KJL),23
+Bandar Tun Hussein Onn,Masjid Jamek (KJL),21
+Batu 11 Cheras,Masjid Jamek (KJL),19
+Bukit Dukung,Masjid Jamek (KJL),17
+Sungai Jernih,Masjid Jamek (KJL),13
+Stadium Kajang,Masjid Jamek (KJL),9
+Kajang,Masjid Jamek (KJL),38
+Gombak,Pasar Seni (KJL),29
+Taman Melati,Pasar Seni (KJL),26
+Wangsa Maju,Pasar Seni (KJL),22
+Sri Rampai,Pasar Seni (KJL),20
+Setiawangsa,Pasar Seni (KJL),14
+Jelatek,Pasar Seni (KJL),12
+Dato' Keramat,Pasar Seni (KJL),11
+Damai,Pasar Seni (KJL),10
+Ampang Park,Pasar Seni (KJL),8
+KLCC,Pasar Seni (KJL),7
+Kampung Baru,Pasar Seni (KJL),5
+Dang Wangi,Pasar Seni (KJL),3
+Masjid Jamek (KJL),Pasar Seni (KJL),1
+Pasar Seni (KJL),Pasar Seni (KJL),0
+KL Sentral (KJL),Pasar Seni (KJL),3
+Bangsar,Pasar Seni (KJL),5
+Abdullah Hukum,Pasar Seni (KJL),8
+Kerinchi,Pasar Seni (KJL),9
+Universiti,Pasar Seni (KJL),11
+Taman Jaya,Pasar Seni (KJL),15
+Asia Jaya,Pasar Seni (KJL),17
+Taman Paramount,Pasar Seni (KJL),20
+Taman Bahagia,Pasar Seni (KJL),23
+Kelana Jaya,Pasar Seni (KJL),25
+Lembah Subang,Pasar Seni (KJL),28
+Ara Damansara,Pasar Seni (KJL),30
+Glenmarie,Pasar Seni (KJL),33
+Subang Jaya,Pasar Seni (KJL),34
+SS 15,Pasar Seni (KJL),38
+SS 18,Pasar Seni (KJL),40
+USJ 7 (KJL),Pasar Seni (KJL),43
+Taipan,Pasar Seni (KJL),44
+Wawasan,Pasar Seni (KJL),47
+USJ 21,Pasar Seni (KJL),49
+Alam Megah,Pasar Seni (KJL),52
+Subang Alam,Pasar Seni (KJL),55
+Putra Heights (KJL),Pasar Seni (KJL),59
+Sungai Buloh,Pasar Seni (KJL),33
+Kampung Selamat,Pasar Seni (KJL),30
+Kwasa Damansara,Pasar Seni (KJL),25
+Kwasa Sentral,Pasar Seni (KJL),23
+Kota Damansara,Pasar Seni (KJL),19
+Surian,Pasar Seni (KJL),17
+Mutiara Damansara,Pasar Seni (KJL),15
+Bandar Utama,Pasar Seni (KJL),13
+TTDI,Pasar Seni (KJL),9
+Phileo Damansara,Pasar Seni (KJL),5
+Pusat Bandar Damansara,Pasar Seni (KJL),34
+Semantan,Pasar Seni (KJL),31
+Muzium Negara,Pasar Seni (KJL),26
+Pasar Seni (SBK),Pasar Seni (KJL),24
+Merdeka,Pasar Seni (KJL),20
+Bukit Bintang,Pasar Seni (KJL),18
+Tun Razak Exchange (TRX),Pasar Seni (KJL),16
+Cochrane,Pasar Seni (KJL),14
+Maluri (SBK),Pasar Seni (KJL),10
+Taman Pertama,Pasar Seni (KJL),6
+Taman Midah,Pasar Seni (KJL),35
+Taman Mutiara,Pasar Seni (KJL),32
+Taman Connaught,Pasar Seni (KJL),27
+Taman Suntex,Pasar Seni (KJL),25
+Sri Raya,Pasar Seni (KJL),21
+Bandar Tun Hussein Onn,Pasar Seni (KJL),19
+Batu 11 Cheras,Pasar Seni (KJL),17
+Bukit Dukung,Pasar Seni (KJL),15
+Sungai Jernih,Pasar Seni (KJL),11
+Stadium Kajang,Pasar Seni (KJL),7
+Kajang,Pasar Seni (KJL),36
+Gombak,KL Sentral (KJL),32
+Taman Melati,KL Sentral (KJL),29
+Wangsa Maju,KL Sentral (KJL),25
+Sri Rampai,KL Sentral (KJL),23
+Setiawangsa,KL Sentral (KJL),17
+Jelatek,KL Sentral (KJL),15
+Dato' Keramat,KL Sentral (KJL),14
+Damai,KL Sentral (KJL),13
+Ampang Park,KL Sentral (KJL),11
+KLCC,KL Sentral (KJL),10
+Kampung Baru,KL Sentral (KJL),8
+Dang Wangi,KL Sentral (KJL),6
+Masjid Jamek (KJL),KL Sentral (KJL),4
+Pasar Seni (KJL),KL Sentral (KJL),3
+KL Sentral (KJL),KL Sentral (KJL),0
+Bangsar,KL Sentral (KJL),2
+Abdullah Hukum,KL Sentral (KJL),5
+Kerinchi,KL Sentral (KJL),6
+Universiti,KL Sentral (KJL),8
+Taman Jaya,KL Sentral (KJL),12
+Asia Jaya,KL Sentral (KJL),14
+Taman Paramount,KL Sentral (KJL),17
+Taman Bahagia,KL Sentral (KJL),20
+Kelana Jaya,KL Sentral (KJL),22
+Lembah Subang,KL Sentral (KJL),25
+Ara Damansara,KL Sentral (KJL),27
+Glenmarie,KL Sentral (KJL),30
+Subang Jaya,KL Sentral (KJL),31
+SS 15,KL Sentral (KJL),35
+SS 18,KL Sentral (KJL),37
+USJ 7 (KJL),KL Sentral (KJL),40
+Taipan,KL Sentral (KJL),41
+Wawasan,KL Sentral (KJL),44
+USJ 21,KL Sentral (KJL),46
+Alam Megah,KL Sentral (KJL),49
+Subang Alam,KL Sentral (KJL),52
+Putra Heights (KJL),KL Sentral (KJL),56
+Sungai Buloh,KL Sentral (KJL),36
+Kampung Selamat,KL Sentral (KJL),33
+Kwasa Damansara,KL Sentral (KJL),28
+Kwasa Sentral,KL Sentral (KJL),26
+Kota Damansara,KL Sentral (KJL),22
+Surian,KL Sentral (KJL),20
+Mutiara Damansara,KL Sentral (KJL),18
+Bandar Utama,KL Sentral (KJL),16
+TTDI,KL Sentral (KJL),12
+Phileo Damansara,KL Sentral (KJL),8
+Pusat Bandar Damansara,KL Sentral (KJL),37
+Semantan,KL Sentral (KJL),34
+Muzium Negara,KL Sentral (KJL),29
+Pasar Seni (SBK),KL Sentral (KJL),27
+Merdeka,KL Sentral (KJL),23
+Bukit Bintang,KL Sentral (KJL),21
+Tun Razak Exchange (TRX),KL Sentral (KJL),19
+Cochrane,KL Sentral (KJL),17
+Maluri (SBK),KL Sentral (KJL),13
+Taman Pertama,KL Sentral (KJL),9
+Taman Midah,KL Sentral (KJL),38
+Taman Mutiara,KL Sentral (KJL),35
+Taman Connaught,KL Sentral (KJL),30
+Taman Suntex,KL Sentral (KJL),28
+Sri Raya,KL Sentral (KJL),24
+Bandar Tun Hussein Onn,KL Sentral (KJL),22
+Batu 11 Cheras,KL Sentral (KJL),20
+Bukit Dukung,KL Sentral (KJL),18
+Sungai Jernih,KL Sentral (KJL),14
+Stadium Kajang,KL Sentral (KJL),10
+Kajang,KL Sentral (KJL),39
+Gombak,Bangsar,34
+Taman Melati,Bangsar,31
+Wangsa Maju,Bangsar,27
+Sri Rampai,Bangsar,25
+Setiawangsa,Bangsar,19
+Jelatek,Bangsar,17
+Dato' Keramat,Bangsar,16
+Damai,Bangsar,15
+Ampang Park,Bangsar,13
+KLCC,Bangsar,12
+Kampung Baru,Bangsar,10
+Dang Wangi,Bangsar,8
+Masjid Jamek (KJL),Bangsar,6
+Pasar Seni (KJL),Bangsar,5
+KL Sentral (KJL),Bangsar,2
+Bangsar,Bangsar,0
+Abdullah Hukum,Bangsar,3
+Kerinchi,Bangsar,4
+Universiti,Bangsar,6
+Taman Jaya,Bangsar,10
+Asia Jaya,Bangsar,12
+Taman Paramount,Bangsar,15
+Taman Bahagia,Bangsar,18
+Kelana Jaya,Bangsar,20
+Lembah Subang,Bangsar,23
+Ara Damansara,Bangsar,25
+Glenmarie,Bangsar,28
+Subang Jaya,Bangsar,29
+SS 15,Bangsar,33
+SS 18,Bangsar,35
+USJ 7 (KJL),Bangsar,38
+Taipan,Bangsar,39
+Wawasan,Bangsar,42
+USJ 21,Bangsar,44
+Alam Megah,Bangsar,47
+Subang Alam,Bangsar,50
+Putra Heights (KJL),Bangsar,54
+Sungai Buloh,Bangsar,38
+Kampung Selamat,Bangsar,35
+Kwasa Damansara,Bangsar,30
+Kwasa Sentral,Bangsar,28
+Kota Damansara,Bangsar,24
+Surian,Bangsar,22
+Mutiara Damansara,Bangsar,20
+Bandar Utama,Bangsar,18
+TTDI,Bangsar,14
+Phileo Damansara,Bangsar,10
+Pusat Bandar Damansara,Bangsar,39
+Semantan,Bangsar,36
+Muzium Negara,Bangsar,31
+Pasar Seni (SBK),Bangsar,29
+Merdeka,Bangsar,25
+Bukit Bintang,Bangsar,23
+Tun Razak Exchange (TRX),Bangsar,21
+Cochrane,Bangsar,19
+Maluri (SBK),Bangsar,15
+Taman Pertama,Bangsar,11
+Taman Midah,Bangsar,40
+Taman Mutiara,Bangsar,37
+Taman Connaught,Bangsar,32
+Taman Suntex,Bangsar,30
+Sri Raya,Bangsar,26
+Bandar Tun Hussein Onn,Bangsar,24
+Batu 11 Cheras,Bangsar,22
+Bukit Dukung,Bangsar,20
+Sungai Jernih,Bangsar,16
+Stadium Kajang,Bangsar,12
+Kajang,Bangsar,41
+Gombak,Abdullah Hukum,37
+Taman Melati,Abdullah Hukum,34
+Wangsa Maju,Abdullah Hukum,30
+Sri Rampai,Abdullah Hukum,28
+Setiawangsa,Abdullah Hukum,22
+Jelatek,Abdullah Hukum,20
+Dato' Keramat,Abdullah Hukum,19
+Damai,Abdullah Hukum,18
+Ampang Park,Abdullah Hukum,16
+KLCC,Abdullah Hukum,15
+Kampung Baru,Abdullah Hukum,13
+Dang Wangi,Abdullah Hukum,11
+Masjid Jamek (KJL),Abdullah Hukum,9
+Pasar Seni (KJL),Abdullah Hukum,8
+KL Sentral (KJL),Abdullah Hukum,5
+Bangsar,Abdullah Hukum,3
+Abdullah Hukum,Abdullah Hukum,0
+Kerinchi,Abdullah Hukum,1
+Universiti,Abdullah Hukum,3
+Taman Jaya,Abdullah Hukum,7
+Asia Jaya,Abdullah Hukum,9
+Taman Paramount,Abdullah Hukum,12
+Taman Bahagia,Abdullah Hukum,15
+Kelana Jaya,Abdullah Hukum,17
+Lembah Subang,Abdullah Hukum,20
+Ara Damansara,Abdullah Hukum,22
+Glenmarie,Abdullah Hukum,25
+Subang Jaya,Abdullah Hukum,26
+SS 15,Abdullah Hukum,30
+SS 18,Abdullah Hukum,32
+USJ 7 (KJL),Abdullah Hukum,35
+Taipan,Abdullah Hukum,36
+Wawasan,Abdullah Hukum,39
+USJ 21,Abdullah Hukum,41
+Alam Megah,Abdullah Hukum,44
+Subang Alam,Abdullah Hukum,47
+Putra Heights (KJL),Abdullah Hukum,51
+Sungai Buloh,Abdullah Hukum,41
+Kampung Selamat,Abdullah Hukum,38
+Kwasa Damansara,Abdullah Hukum,33
+Kwasa Sentral,Abdullah Hukum,31
+Kota Damansara,Abdullah Hukum,27
+Surian,Abdullah Hukum,25
+Mutiara Damansara,Abdullah Hukum,23
+Bandar Utama,Abdullah Hukum,21
+TTDI,Abdullah Hukum,17
+Phileo Damansara,Abdullah Hukum,13
+Pusat Bandar Damansara,Abdullah Hukum,42
+Semantan,Abdullah Hukum,39
+Muzium Negara,Abdullah Hukum,34
+Pasar Seni (SBK),Abdullah Hukum,32
+Merdeka,Abdullah Hukum,28
+Bukit Bintang,Abdullah Hukum,26
+Tun Razak Exchange (TRX),Abdullah Hukum,24
+Cochrane,Abdullah Hukum,22
+Maluri (SBK),Abdullah Hukum,18
+Taman Pertama,Abdullah Hukum,14
+Taman Midah,Abdullah Hukum,43
+Taman Mutiara,Abdullah Hukum,40
+Taman Connaught,Abdullah Hukum,35
+Taman Suntex,Abdullah Hukum,33
+Sri Raya,Abdullah Hukum,29
+Bandar Tun Hussein Onn,Abdullah Hukum,27
+Batu 11 Cheras,Abdullah Hukum,25
+Bukit Dukung,Abdullah Hukum,23
+Sungai Jernih,Abdullah Hukum,19
+Stadium Kajang,Abdullah Hukum,15
+Kajang,Abdullah Hukum,44
+Gombak,Kerinchi,38
+Taman Melati,Kerinchi,35
+Wangsa Maju,Kerinchi,31
+Sri Rampai,Kerinchi,29
+Setiawangsa,Kerinchi,23
+Jelatek,Kerinchi,21
+Dato' Keramat,Kerinchi,20
+Damai,Kerinchi,19
+Ampang Park,Kerinchi,17
+KLCC,Kerinchi,16
+Kampung Baru,Kerinchi,14
+Dang Wangi,Kerinchi,12
+Masjid Jamek (KJL),Kerinchi,10
+Pasar Seni (KJL),Kerinchi,9
+KL Sentral (KJL),Kerinchi,6
+Bangsar,Kerinchi,4
+Abdullah Hukum,Kerinchi,1
+Kerinchi,Kerinchi,0
+Universiti,Kerinchi,2
+Taman Jaya,Kerinchi,6
+Asia Jaya,Kerinchi,8
+Taman Paramount,Kerinchi,11
+Taman Bahagia,Kerinchi,14
+Kelana Jaya,Kerinchi,16
+Lembah Subang,Kerinchi,19
+Ara Damansara,Kerinchi,21
+Glenmarie,Kerinchi,24
+Subang Jaya,Kerinchi,25
+SS 15,Kerinchi,29
+SS 18,Kerinchi,31
+USJ 7 (KJL),Kerinchi,34
+Taipan,Kerinchi,35
+Wawasan,Kerinchi,38
+USJ 21,Kerinchi,40
+Alam Megah,Kerinchi,43
+Subang Alam,Kerinchi,46
+Putra Heights (KJL),Kerinchi,50
+Sungai Buloh,Kerinchi,42
+Kampung Selamat,Kerinchi,39
+Kwasa Damansara,Kerinchi,34
+Kwasa Sentral,Kerinchi,32
+Kota Damansara,Kerinchi,28
+Surian,Kerinchi,26
+Mutiara Damansara,Kerinchi,24
+Bandar Utama,Kerinchi,22
+TTDI,Kerinchi,18
+Phileo Damansara,Kerinchi,14
+Pusat Bandar Damansara,Kerinchi,43
+Semantan,Kerinchi,40
+Muzium Negara,Kerinchi,35
+Pasar Seni (SBK),Kerinchi,33
+Merdeka,Kerinchi,29
+Bukit Bintang,Kerinchi,27
+Tun Razak Exchange (TRX),Kerinchi,25
+Cochrane,Kerinchi,23
+Maluri (SBK),Kerinchi,19
+Taman Pertama,Kerinchi,15
+Taman Midah,Kerinchi,44
+Taman Mutiara,Kerinchi,41
+Taman Connaught,Kerinchi,36
+Taman Suntex,Kerinchi,34
+Sri Raya,Kerinchi,30
+Bandar Tun Hussein Onn,Kerinchi,28
+Batu 11 Cheras,Kerinchi,26
+Bukit Dukung,Kerinchi,24
+Sungai Jernih,Kerinchi,20
+Stadium Kajang,Kerinchi,16
+Kajang,Kerinchi,45
+Gombak,Universiti,40
+Taman Melati,Universiti,37
+Wangsa Maju,Universiti,33
+Sri Rampai,Universiti,31
+Setiawangsa,Universiti,25
+Jelatek,Universiti,23
+Dato' Keramat,Universiti,22
+Damai,Universiti,21
+Ampang Park,Universiti,19
+KLCC,Universiti,18
+Kampung Baru,Universiti,16
+Dang Wangi,Universiti,14
+Masjid Jamek (KJL),Universiti,12
+Pasar Seni (KJL),Universiti,11
+KL Sentral (KJL),Universiti,8
+Bangsar,Universiti,6
+Abdullah Hukum,Universiti,3
+Kerinchi,Universiti,2
+Universiti,Universiti,0
+Taman Jaya,Universiti,4
+Asia Jaya,Universiti,6
+Taman Paramount,Universiti,9
+Taman Bahagia,Universiti,12
+Kelana Jaya,Universiti,14
+Lembah Subang,Universiti,17
+Ara Damansara,Universiti,19
+Glenmarie,Universiti,22
+Subang Jaya,Universiti,23
+SS 15,Universiti,27
+SS 18,Universiti,29
+USJ 7 (KJL),Universiti,32
+Taipan,Universiti,33
+Wawasan,Universiti,36
+USJ 21,Universiti,38
+Alam Megah,Universiti,41
+Subang Alam,Universiti,44
+Putra Heights (KJL),Universiti,48
+Sungai Buloh,Universiti,44
+Kampung Selamat,Universiti,41
+Kwasa Damansara,Universiti,36
+Kwasa Sentral,Universiti,34
+Kota Damansara,Universiti,30
+Surian,Universiti,28
+Mutiara Damansara,Universiti,26
+Bandar Utama,Universiti,24
+TTDI,Universiti,20
+Phileo Damansara,Universiti,16
+Pusat Bandar Damansara,Universiti,45
+Semantan,Universiti,42
+Muzium Negara,Universiti,37
+Pasar Seni (SBK),Universiti,35
+Merdeka,Universiti,31
+Bukit Bintang,Universiti,29
+Tun Razak Exchange (TRX),Universiti,27
+Cochrane,Universiti,25
+Maluri (SBK),Universiti,21
+Taman Pertama,Universiti,17
+Taman Midah,Universiti,46
+Taman Mutiara,Universiti,43
+Taman Connaught,Universiti,38
+Taman Suntex,Universiti,36
+Sri Raya,Universiti,32
+Bandar Tun Hussein Onn,Universiti,30
+Batu 11 Cheras,Universiti,28
+Bukit Dukung,Universiti,26
+Sungai Jernih,Universiti,22
+Stadium Kajang,Universiti,18
+Kajang,Universiti,47
+Gombak,Taman Jaya,44
+Taman Melati,Taman Jaya,41
+Wangsa Maju,Taman Jaya,37
+Sri Rampai,Taman Jaya,35
+Setiawangsa,Taman Jaya,29
+Jelatek,Taman Jaya,27
+Dato' Keramat,Taman Jaya,26
+Damai,Taman Jaya,25
+Ampang Park,Taman Jaya,23
+KLCC,Taman Jaya,22
+Kampung Baru,Taman Jaya,20
+Dang Wangi,Taman Jaya,18
+Masjid Jamek (KJL),Taman Jaya,16
+Pasar Seni (KJL),Taman Jaya,15
+KL Sentral (KJL),Taman Jaya,12
+Bangsar,Taman Jaya,10
+Abdullah Hukum,Taman Jaya,7
+Kerinchi,Taman Jaya,6
+Universiti,Taman Jaya,4
+Taman Jaya,Taman Jaya,0
+Asia Jaya,Taman Jaya,2
+Taman Paramount,Taman Jaya,5
+Taman Bahagia,Taman Jaya,8
+Kelana Jaya,Taman Jaya,10
+Lembah Subang,Taman Jaya,13
+Ara Damansara,Taman Jaya,15
+Glenmarie,Taman Jaya,18
+Subang Jaya,Taman Jaya,19
+SS 15,Taman Jaya,23
+SS 18,Taman Jaya,25
+USJ 7 (KJL),Taman Jaya,28
+Taipan,Taman Jaya,29
+Wawasan,Taman Jaya,32
+USJ 21,Taman Jaya,34
+Alam Megah,Taman Jaya,37
+Subang Alam,Taman Jaya,40
+Putra Heights (KJL),Taman Jaya,44
+Sungai Buloh,Taman Jaya,48
+Kampung Selamat,Taman Jaya,45
+Kwasa Damansara,Taman Jaya,40
+Kwasa Sentral,Taman Jaya,38
+Kota Damansara,Taman Jaya,34
+Surian,Taman Jaya,32
+Mutiara Damansara,Taman Jaya,30
+Bandar Utama,Taman Jaya,28
+TTDI,Taman Jaya,24
+Phileo Damansara,Taman Jaya,20
+Pusat Bandar Damansara,Taman Jaya,49
+Semantan,Taman Jaya,46
+Muzium Negara,Taman Jaya,41
+Pasar Seni (SBK),Taman Jaya,39
+Merdeka,Taman Jaya,35
+Bukit Bintang,Taman Jaya,33
+Tun Razak Exchange (TRX),Taman Jaya,31
+Cochrane,Taman Jaya,29
+Maluri (SBK),Taman Jaya,25
+Taman Pertama,Taman Jaya,21
+Taman Midah,Taman Jaya,50
+Taman Mutiara,Taman Jaya,47
+Taman Connaught,Taman Jaya,42
+Taman Suntex,Taman Jaya,40
+Sri Raya,Taman Jaya,36
+Bandar Tun Hussein Onn,Taman Jaya,34
+Batu 11 Cheras,Taman Jaya,32
+Bukit Dukung,Taman Jaya,30
+Sungai Jernih,Taman Jaya,26
+Stadium Kajang,Taman Jaya,22
+Kajang,Taman Jaya,51
+Gombak,Asia Jaya,46
+Taman Melati,Asia Jaya,43
+Wangsa Maju,Asia Jaya,39
+Sri Rampai,Asia Jaya,37
+Setiawangsa,Asia Jaya,31
+Jelatek,Asia Jaya,29
+Dato' Keramat,Asia Jaya,28
+Damai,Asia Jaya,27
+Ampang Park,Asia Jaya,25
+KLCC,Asia Jaya,24
+Kampung Baru,Asia Jaya,22
+Dang Wangi,Asia Jaya,20
+Masjid Jamek (KJL),Asia Jaya,18
+Pasar Seni (KJL),Asia Jaya,17
+KL Sentral (KJL),Asia Jaya,14
+Bangsar,Asia Jaya,12
+Abdullah Hukum,Asia Jaya,9
+Kerinchi,Asia Jaya,8
+Universiti,Asia Jaya,6
+Taman Jaya,Asia Jaya,2
+Asia Jaya,Asia Jaya,0
+Taman Paramount,Asia Jaya,3
+Taman Bahagia,Asia Jaya,6
+Kelana Jaya,Asia Jaya,8
+Lembah Subang,Asia Jaya,11
+Ara Damansara,Asia Jaya,13
+Glenmarie,Asia Jaya,16
+Subang Jaya,Asia Jaya,17
+SS 15,Asia Jaya,21
+SS 18,Asia Jaya,23
+USJ 7 (KJL),Asia Jaya,26
+Taipan,Asia Jaya,27
+Wawasan,Asia Jaya,30
+USJ 21,Asia Jaya,32
+Alam Megah,Asia Jaya,35
+Subang Alam,Asia Jaya,38
+Putra Heights (KJL),Asia Jaya,42
+Sungai Buloh,Asia Jaya,50
+Kampung Selamat,Asia Jaya,47
+Kwasa Damansara,Asia Jaya,42
+Kwasa Sentral,Asia Jaya,40
+Kota Damansara,Asia Jaya,36
+Surian,Asia Jaya,34
+Mutiara Damansara,Asia Jaya,32
+Bandar Utama,Asia Jaya,30
+TTDI,Asia Jaya,26
+Phileo Damansara,Asia Jaya,22
+Pusat Bandar Damansara,Asia Jaya,51
+Semantan,Asia Jaya,48
+Muzium Negara,Asia Jaya,43
+Pasar Seni (SBK),Asia Jaya,41
+Merdeka,Asia Jaya,37
+Bukit Bintang,Asia Jaya,35
+Tun Razak Exchange (TRX),Asia Jaya,33
+Cochrane,Asia Jaya,31
+Maluri (SBK),Asia Jaya,27
+Taman Pertama,Asia Jaya,23
+Taman Midah,Asia Jaya,52
+Taman Mutiara,Asia Jaya,49
+Taman Connaught,Asia Jaya,44
+Taman Suntex,Asia Jaya,42
+Sri Raya,Asia Jaya,38
+Bandar Tun Hussein Onn,Asia Jaya,36
+Batu 11 Cheras,Asia Jaya,34
+Bukit Dukung,Asia Jaya,32
+Sungai Jernih,Asia Jaya,28
+Stadium Kajang,Asia Jaya,24
+Kajang,Asia Jaya,53
+Gombak,Taman Paramount,49
+Taman Melati,Taman Paramount,46
+Wangsa Maju,Taman Paramount,42
+Sri Rampai,Taman Paramount,40
+Setiawangsa,Taman Paramount,34
+Jelatek,Taman Paramount,32
+Dato' Keramat,Taman Paramount,31
+Damai,Taman Paramount,30
+Ampang Park,Taman Paramount,28
+KLCC,Taman Paramount,27
+Kampung Baru,Taman Paramount,25
+Dang Wangi,Taman Paramount,23
+Masjid Jamek (KJL),Taman Paramount,21
+Pasar Seni (KJL),Taman Paramount,20
+KL Sentral (KJL),Taman Paramount,17
+Bangsar,Taman Paramount,15
+Abdullah Hukum,Taman Paramount,12
+Kerinchi,Taman Paramount,11
+Universiti,Taman Paramount,9
+Taman Jaya,Taman Paramount,5
+Asia Jaya,Taman Paramount,3
+Taman Paramount,Taman Paramount,0
+Taman Bahagia,Taman Paramount,3
+Kelana Jaya,Taman Paramount,5
+Lembah Subang,Taman Paramount,8
+Ara Damansara,Taman Paramount,10
+Glenmarie,Taman Paramount,13
+Subang Jaya,Taman Paramount,14
+SS 15,Taman Paramount,18
+SS 18,Taman Paramount,20
+USJ 7 (KJL),Taman Paramount,23
+Taipan,Taman Paramount,24
+Wawasan,Taman Paramount,27
+USJ 21,Taman Paramount,29
+Alam Megah,Taman Paramount,32
+Subang Alam,Taman Paramount,35
+Putra Heights (KJL),Taman Paramount,39
+Sungai Buloh,Taman Paramount,53
+Kampung Selamat,Taman Paramount,50
+Kwasa Damansara,Taman Paramount,45
+Kwasa Sentral,Taman Paramount,43
+Kota Damansara,Taman Paramount,39
+Surian,Taman Paramount,37
+Mutiara Damansara,Taman Paramount,35
+Bandar Utama,Taman Paramount,33
+TTDI,Taman Paramount,29
+Phileo Damansara,Taman Paramount,25
+Pusat Bandar Damansara,Taman Paramount,54
+Semantan,Taman Paramount,51
+Muzium Negara,Taman Paramount,46
+Pasar Seni (SBK),Taman Paramount,44
+Merdeka,Taman Paramount,40
+Bukit Bintang,Taman Paramount,38
+Tun Razak Exchange (TRX),Taman Paramount,36
+Cochrane,Taman Paramount,34
+Maluri (SBK),Taman Paramount,30
+Taman Pertama,Taman Paramount,26
+Taman Midah,Taman Paramount,55
+Taman Mutiara,Taman Paramount,52
+Taman Connaught,Taman Paramount,47
+Taman Suntex,Taman Paramount,45
+Sri Raya,Taman Paramount,41
+Bandar Tun Hussein Onn,Taman Paramount,39
+Batu 11 Cheras,Taman Paramount,37
+Bukit Dukung,Taman Paramount,35
+Sungai Jernih,Taman Paramount,31
+Stadium Kajang,Taman Paramount,27
+Kajang,Taman Paramount,56
+Gombak,Taman Bahagia,52
+Taman Melati,Taman Bahagia,49
+Wangsa Maju,Taman Bahagia,45
+Sri Rampai,Taman Bahagia,43
+Setiawangsa,Taman Bahagia,37
+Jelatek,Taman Bahagia,35
+Dato' Keramat,Taman Bahagia,34
+Damai,Taman Bahagia,33
+Ampang Park,Taman Bahagia,31
+KLCC,Taman Bahagia,30
+Kampung Baru,Taman Bahagia,28
+Dang Wangi,Taman Bahagia,26
+Masjid Jamek (KJL),Taman Bahagia,24
+Pasar Seni (KJL),Taman Bahagia,23
+KL Sentral (KJL),Taman Bahagia,20
+Bangsar,Taman Bahagia,18
+Abdullah Hukum,Taman Bahagia,15
+Kerinchi,Taman Bahagia,14
+Universiti,Taman Bahagia,12
+Taman Jaya,Taman Bahagia,8
+Asia Jaya,Taman Bahagia,6
+Taman Paramount,Taman Bahagia,3
+Taman Bahagia,Taman Bahagia,0
+Kelana Jaya,Taman Bahagia,2
+Lembah Subang,Taman Bahagia,5
+Ara Damansara,Taman Bahagia,7
+Glenmarie,Taman Bahagia,10
+Subang Jaya,Taman Bahagia,11
+SS 15,Taman Bahagia,15
+SS 18,Taman Bahagia,17
+USJ 7 (KJL),Taman Bahagia,20
+Taipan,Taman Bahagia,21
+Wawasan,Taman Bahagia,24
+USJ 21,Taman Bahagia,26
+Alam Megah,Taman Bahagia,29
+Subang Alam,Taman Bahagia,32
+Putra Heights (KJL),Taman Bahagia,36
+Sungai Buloh,Taman Bahagia,56
+Kampung Selamat,Taman Bahagia,53
+Kwasa Damansara,Taman Bahagia,48
+Kwasa Sentral,Taman Bahagia,46
+Kota Damansara,Taman Bahagia,42
+Surian,Taman Bahagia,40
+Mutiara Damansara,Taman Bahagia,38
+Bandar Utama,Taman Bahagia,36
+TTDI,Taman Bahagia,32
+Phileo Damansara,Taman Bahagia,28
+Pusat Bandar Damansara,Taman Bahagia,57
+Semantan,Taman Bahagia,54
+Muzium Negara,Taman Bahagia,49
+Pasar Seni (SBK),Taman Bahagia,47
+Merdeka,Taman Bahagia,43
+Bukit Bintang,Taman Bahagia,41
+Tun Razak Exchange (TRX),Taman Bahagia,39
+Cochrane,Taman Bahagia,37
+Maluri (SBK),Taman Bahagia,33
+Taman Pertama,Taman Bahagia,29
+Taman Midah,Taman Bahagia,58
+Taman Mutiara,Taman Bahagia,55
+Taman Connaught,Taman Bahagia,50
+Taman Suntex,Taman Bahagia,48
+Sri Raya,Taman Bahagia,44
+Bandar Tun Hussein Onn,Taman Bahagia,42
+Batu 11 Cheras,Taman Bahagia,40
+Bukit Dukung,Taman Bahagia,38
+Sungai Jernih,Taman Bahagia,34
+Stadium Kajang,Taman Bahagia,30
+Kajang,Taman Bahagia,59
+Gombak,Kelana Jaya,54
+Taman Melati,Kelana Jaya,51
+Wangsa Maju,Kelana Jaya,47
+Sri Rampai,Kelana Jaya,45
+Setiawangsa,Kelana Jaya,39
+Jelatek,Kelana Jaya,37
+Dato' Keramat,Kelana Jaya,36
+Damai,Kelana Jaya,35
+Ampang Park,Kelana Jaya,33
+KLCC,Kelana Jaya,32
+Kampung Baru,Kelana Jaya,30
+Dang Wangi,Kelana Jaya,28
+Masjid Jamek (KJL),Kelana Jaya,26
+Pasar Seni (KJL),Kelana Jaya,25
+KL Sentral (KJL),Kelana Jaya,22
+Bangsar,Kelana Jaya,20
+Abdullah Hukum,Kelana Jaya,17
+Kerinchi,Kelana Jaya,16
+Universiti,Kelana Jaya,14
+Taman Jaya,Kelana Jaya,10
+Asia Jaya,Kelana Jaya,8
+Taman Paramount,Kelana Jaya,5
+Taman Bahagia,Kelana Jaya,2
+Kelana Jaya,Kelana Jaya,0
+Lembah Subang,Kelana Jaya,3
+Ara Damansara,Kelana Jaya,5
+Glenmarie,Kelana Jaya,8
+Subang Jaya,Kelana Jaya,9
+SS 15,Kelana Jaya,13
+SS 18,Kelana Jaya,15
+USJ 7 (KJL),Kelana Jaya,18
+Taipan,Kelana Jaya,19
+Wawasan,Kelana Jaya,22
+USJ 21,Kelana Jaya,24
+Alam Megah,Kelana Jaya,27
+Subang Alam,Kelana Jaya,30
+Putra Heights (KJL),Kelana Jaya,34
+Sungai Buloh,Kelana Jaya,58
+Kampung Selamat,Kelana Jaya,55
+Kwasa Damansara,Kelana Jaya,50
+Kwasa Sentral,Kelana Jaya,48
+Kota Damansara,Kelana Jaya,44
+Surian,Kelana Jaya,42
+Mutiara Damansara,Kelana Jaya,40
+Bandar Utama,Kelana Jaya,38
+TTDI,Kelana Jaya,34
+Phileo Damansara,Kelana Jaya,30
+Pusat Bandar Damansara,Kelana Jaya,59
+Semantan,Kelana Jaya,56
+Muzium Negara,Kelana Jaya,51
+Pasar Seni (SBK),Kelana Jaya,49
+Merdeka,Kelana Jaya,45
+Bukit Bintang,Kelana Jaya,43
+Tun Razak Exchange (TRX),Kelana Jaya,41
+Cochrane,Kelana Jaya,39
+Maluri (SBK),Kelana Jaya,35
+Taman Pertama,Kelana Jaya,31
+Taman Midah,Kelana Jaya,60
+Taman Mutiara,Kelana Jaya,57
+Taman Connaught,Kelana Jaya,52
+Taman Suntex,Kelana Jaya,50
+Sri Raya,Kelana Jaya,46
+Bandar Tun Hussein Onn,Kelana Jaya,44
+Batu 11 Cheras,Kelana Jaya,42
+Bukit Dukung,Kelana Jaya,40
+Sungai Jernih,Kelana Jaya,36
+Stadium Kajang,Kelana Jaya,32
+Kajang,Kelana Jaya,61
+Gombak,Lembah Subang,57
+Taman Melati,Lembah Subang,54
+Wangsa Maju,Lembah Subang,50
+Sri Rampai,Lembah Subang,48
+Setiawangsa,Lembah Subang,42
+Jelatek,Lembah Subang,40
+Dato' Keramat,Lembah Subang,39
+Damai,Lembah Subang,38
+Ampang Park,Lembah Subang,36
+KLCC,Lembah Subang,35
+Kampung Baru,Lembah Subang,33
+Dang Wangi,Lembah Subang,31
+Masjid Jamek (KJL),Lembah Subang,29
+Pasar Seni (KJL),Lembah Subang,28
+KL Sentral (KJL),Lembah Subang,25
+Bangsar,Lembah Subang,23
+Abdullah Hukum,Lembah Subang,20
+Kerinchi,Lembah Subang,19
+Universiti,Lembah Subang,17
+Taman Jaya,Lembah Subang,13
+Asia Jaya,Lembah Subang,11
+Taman Paramount,Lembah Subang,8
+Taman Bahagia,Lembah Subang,5
+Kelana Jaya,Lembah Subang,3
+Lembah Subang,Lembah Subang,0
+Ara Damansara,Lembah Subang,2
+Glenmarie,Lembah Subang,5
+Subang Jaya,Lembah Subang,6
+SS 15,Lembah Subang,10
+SS 18,Lembah Subang,12
+USJ 7 (KJL),Lembah Subang,15
+Taipan,Lembah Subang,16
+Wawasan,Lembah Subang,19
+USJ 21,Lembah Subang,21
+Alam Megah,Lembah Subang,24
+Subang Alam,Lembah Subang,27
+Putra Heights (KJL),Lembah Subang,31
+Sungai Buloh,Lembah Subang,61
+Kampung Selamat,Lembah Subang,58
+Kwasa Damansara,Lembah Subang,53
+Kwasa Sentral,Lembah Subang,51
+Kota Damansara,Lembah Subang,47
+Surian,Lembah Subang,45
+Mutiara Damansara,Lembah Subang,43
+Bandar Utama,Lembah Subang,41
+TTDI,Lembah Subang,37
+Phileo Damansara,Lembah Subang,33
+Pusat Bandar Damansara,Lembah Subang,62
+Semantan,Lembah Subang,59
+Muzium Negara,Lembah Subang,54
+Pasar Seni (SBK),Lembah Subang,52
+Merdeka,Lembah Subang,48
+Bukit Bintang,Lembah Subang,46
+Tun Razak Exchange (TRX),Lembah Subang,44
+Cochrane,Lembah Subang,42
+Maluri (SBK),Lembah Subang,38
+Taman Pertama,Lembah Subang,34
+Taman Midah,Lembah Subang,63
+Taman Mutiara,Lembah Subang,60
+Taman Connaught,Lembah Subang,55
+Taman Suntex,Lembah Subang,53
+Sri Raya,Lembah Subang,49
+Bandar Tun Hussein Onn,Lembah Subang,47
+Batu 11 Cheras,Lembah Subang,45
+Bukit Dukung,Lembah Subang,43
+Sungai Jernih,Lembah Subang,39
+Stadium Kajang,Lembah Subang,35
+Kajang,Lembah Subang,64
+Gombak,Ara Damansara,59
+Taman Melati,Ara Damansara,56
+Wangsa Maju,Ara Damansara,52
+Sri Rampai,Ara Damansara,50
+Setiawangsa,Ara Damansara,44
+Jelatek,Ara Damansara,42
+Dato' Keramat,Ara Damansara,41
+Damai,Ara Damansara,40
+Ampang Park,Ara Damansara,38
+KLCC,Ara Damansara,37
+Kampung Baru,Ara Damansara,35
+Dang Wangi,Ara Damansara,33
+Masjid Jamek (KJL),Ara Damansara,31
+Pasar Seni (KJL),Ara Damansara,30
+KL Sentral (KJL),Ara Damansara,27
+Bangsar,Ara Damansara,25
+Abdullah Hukum,Ara Damansara,22
+Kerinchi,Ara Damansara,21
+Universiti,Ara Damansara,19
+Taman Jaya,Ara Damansara,15
+Asia Jaya,Ara Damansara,13
+Taman Paramount,Ara Damansara,10
+Taman Bahagia,Ara Damansara,7
+Kelana Jaya,Ara Damansara,5
+Lembah Subang,Ara Damansara,2
+Ara Damansara,Ara Damansara,0
+Glenmarie,Ara Damansara,3
+Subang Jaya,Ara Damansara,4
+SS 15,Ara Damansara,8
+SS 18,Ara Damansara,10
+USJ 7 (KJL),Ara Damansara,13
+Taipan,Ara Damansara,14
+Wawasan,Ara Damansara,17
+USJ 21,Ara Damansara,19
+Alam Megah,Ara Damansara,22
+Subang Alam,Ara Damansara,25
+Putra Heights (KJL),Ara Damansara,29
+Sungai Buloh,Ara Damansara,63
+Kampung Selamat,Ara Damansara,60
+Kwasa Damansara,Ara Damansara,55
+Kwasa Sentral,Ara Damansara,53
+Kota Damansara,Ara Damansara,49
+Surian,Ara Damansara,47
+Mutiara Damansara,Ara Damansara,45
+Bandar Utama,Ara Damansara,43
+TTDI,Ara Damansara,39
+Phileo Damansara,Ara Damansara,35
+Pusat Bandar Damansara,Ara Damansara,64
+Semantan,Ara Damansara,61
+Muzium Negara,Ara Damansara,56
+Pasar Seni (SBK),Ara Damansara,54
+Merdeka,Ara Damansara,50
+Bukit Bintang,Ara Damansara,48
+Tun Razak Exchange (TRX),Ara Damansara,46
+Cochrane,Ara Damansara,44
+Maluri (SBK),Ara Damansara,40
+Taman Pertama,Ara Damansara,36
+Taman Midah,Ara Damansara,65
+Taman Mutiara,Ara Damansara,62
+Taman Connaught,Ara Damansara,57
+Taman Suntex,Ara Damansara,55
+Sri Raya,Ara Damansara,51
+Bandar Tun Hussein Onn,Ara Damansara,49
+Batu 11 Cheras,Ara Damansara,47
+Bukit Dukung,Ara Damansara,45
+Sungai Jernih,Ara Damansara,41
+Stadium Kajang,Ara Damansara,37
+Kajang,Ara Damansara,66
+Gombak,Glenmarie,62
+Taman Melati,Glenmarie,59
+Wangsa Maju,Glenmarie,55
+Sri Rampai,Glenmarie,53
+Setiawangsa,Glenmarie,47
+Jelatek,Glenmarie,45
+Dato' Keramat,Glenmarie,44
+Damai,Glenmarie,43
+Ampang Park,Glenmarie,41
+KLCC,Glenmarie,40
+Kampung Baru,Glenmarie,38
+Dang Wangi,Glenmarie,36
+Masjid Jamek (KJL),Glenmarie,34
+Pasar Seni (KJL),Glenmarie,33
+KL Sentral (KJL),Glenmarie,30
+Bangsar,Glenmarie,28
+Abdullah Hukum,Glenmarie,25
+Kerinchi,Glenmarie,24
+Universiti,Glenmarie,22
+Taman Jaya,Glenmarie,18
+Asia Jaya,Glenmarie,16
+Taman Paramount,Glenmarie,13
+Taman Bahagia,Glenmarie,10
+Kelana Jaya,Glenmarie,8
+Lembah Subang,Glenmarie,5
+Ara Damansara,Glenmarie,3
+Glenmarie,Glenmarie,0
+Subang Jaya,Glenmarie,1
+SS 15,Glenmarie,5
+SS 18,Glenmarie,7
+USJ 7 (KJL),Glenmarie,10
+Taipan,Glenmarie,11
+Wawasan,Glenmarie,14
+USJ 21,Glenmarie,16
+Alam Megah,Glenmarie,19
+Subang Alam,Glenmarie,22
+Putra Heights (KJL),Glenmarie,26
+Sungai Buloh,Glenmarie,66
+Kampung Selamat,Glenmarie,63
+Kwasa Damansara,Glenmarie,58
+Kwasa Sentral,Glenmarie,56
+Kota Damansara,Glenmarie,52
+Surian,Glenmarie,50
+Mutiara Damansara,Glenmarie,48
+Bandar Utama,Glenmarie,46
+TTDI,Glenmarie,42
+Phileo Damansara,Glenmarie,38
+Pusat Bandar Damansara,Glenmarie,67
+Semantan,Glenmarie,64
+Muzium Negara,Glenmarie,59
+Pasar Seni (SBK),Glenmarie,57
+Merdeka,Glenmarie,53
+Bukit Bintang,Glenmarie,51
+Tun Razak Exchange (TRX),Glenmarie,49
+Cochrane,Glenmarie,47
+Maluri (SBK),Glenmarie,43
+Taman Pertama,Glenmarie,39
+Taman Midah,Glenmarie,68
+Taman Mutiara,Glenmarie,65
+Taman Connaught,Glenmarie,60
+Taman Suntex,Glenmarie,58
+Sri Raya,Glenmarie,54
+Bandar Tun Hussein Onn,Glenmarie,52
+Batu 11 Cheras,Glenmarie,50
+Bukit Dukung,Glenmarie,48
+Sungai Jernih,Glenmarie,44
+Stadium Kajang,Glenmarie,40
+Kajang,Glenmarie,69
+Gombak,Subang Jaya,63
+Taman Melati,Subang Jaya,60
+Wangsa Maju,Subang Jaya,56
+Sri Rampai,Subang Jaya,54
+Setiawangsa,Subang Jaya,48
+Jelatek,Subang Jaya,46
+Dato' Keramat,Subang Jaya,45
+Damai,Subang Jaya,44
+Ampang Park,Subang Jaya,42
+KLCC,Subang Jaya,41
+Kampung Baru,Subang Jaya,39
+Dang Wangi,Subang Jaya,37
+Masjid Jamek (KJL),Subang Jaya,35
+Pasar Seni (KJL),Subang Jaya,34
+KL Sentral (KJL),Subang Jaya,31
+Bangsar,Subang Jaya,29
+Abdullah Hukum,Subang Jaya,26
+Kerinchi,Subang Jaya,25
+Universiti,Subang Jaya,23
+Taman Jaya,Subang Jaya,19
+Asia Jaya,Subang Jaya,17
+Taman Paramount,Subang Jaya,14
+Taman Bahagia,Subang Jaya,11
+Kelana Jaya,Subang Jaya,9
+Lembah Subang,Subang Jaya,6
+Ara Damansara,Subang Jaya,4
+Glenmarie,Subang Jaya,1
+Subang Jaya,Subang Jaya,0
+SS 15,Subang Jaya,4
+SS 18,Subang Jaya,6
+USJ 7 (KJL),Subang Jaya,9
+Taipan,Subang Jaya,10
+Wawasan,Subang Jaya,13
+USJ 21,Subang Jaya,15
+Alam Megah,Subang Jaya,18
+Subang Alam,Subang Jaya,21
+Putra Heights (KJL),Subang Jaya,25
+Sungai Buloh,Subang Jaya,67
+Kampung Selamat,Subang Jaya,64
+Kwasa Damansara,Subang Jaya,59
+Kwasa Sentral,Subang Jaya,57
+Kota Damansara,Subang Jaya,53
+Surian,Subang Jaya,51
+Mutiara Damansara,Subang Jaya,49
+Bandar Utama,Subang Jaya,47
+TTDI,Subang Jaya,43
+Phileo Damansara,Subang Jaya,39
+Pusat Bandar Damansara,Subang Jaya,68
+Semantan,Subang Jaya,65
+Muzium Negara,Subang Jaya,60
+Pasar Seni (SBK),Subang Jaya,58
+Merdeka,Subang Jaya,54
+Bukit Bintang,Subang Jaya,52
+Tun Razak Exchange (TRX),Subang Jaya,50
+Cochrane,Subang Jaya,48
+Maluri (SBK),Subang Jaya,44
+Taman Pertama,Subang Jaya,40
+Taman Midah,Subang Jaya,69
+Taman Mutiara,Subang Jaya,66
+Taman Connaught,Subang Jaya,61
+Taman Suntex,Subang Jaya,59
+Sri Raya,Subang Jaya,55
+Bandar Tun Hussein Onn,Subang Jaya,53
+Batu 11 Cheras,Subang Jaya,51
+Bukit Dukung,Subang Jaya,49
+Sungai Jernih,Subang Jaya,45
+Stadium Kajang,Subang Jaya,41
+Kajang,Subang Jaya,70
+Gombak,SS 15,67
+Taman Melati,SS 15,64
+Wangsa Maju,SS 15,60
+Sri Rampai,SS 15,58
+Setiawangsa,SS 15,52
+Jelatek,SS 15,50
+Dato' Keramat,SS 15,49
+Damai,SS 15,48
+Ampang Park,SS 15,46
+KLCC,SS 15,45
+Kampung Baru,SS 15,43
+Dang Wangi,SS 15,41
+Masjid Jamek (KJL),SS 15,39
+Pasar Seni (KJL),SS 15,38
+KL Sentral (KJL),SS 15,35
+Bangsar,SS 15,33
+Abdullah Hukum,SS 15,30
+Kerinchi,SS 15,29
+Universiti,SS 15,27
+Taman Jaya,SS 15,23
+Asia Jaya,SS 15,21
+Taman Paramount,SS 15,18
+Taman Bahagia,SS 15,15
+Kelana Jaya,SS 15,13
+Lembah Subang,SS 15,10
+Ara Damansara,SS 15,8
+Glenmarie,SS 15,5
+Subang Jaya,SS 15,4
+SS 15,SS 15,0
+SS 18,SS 15,2
+USJ 7 (KJL),SS 15,5
+Taipan,SS 15,6
+Wawasan,SS 15,9
+USJ 21,SS 15,11
+Alam Megah,SS 15,14
+Subang Alam,SS 15,17
+Putra Heights (KJL),SS 15,21
+Sungai Buloh,SS 15,71
+Kampung Selamat,SS 15,68
+Kwasa Damansara,SS 15,63
+Kwasa Sentral,SS 15,61
+Kota Damansara,SS 15,57
+Surian,SS 15,55
+Mutiara Damansara,SS 15,53
+Bandar Utama,SS 15,51
+TTDI,SS 15,47
+Phileo Damansara,SS 15,43
+Pusat Bandar Damansara,SS 15,72
+Semantan,SS 15,69
+Muzium Negara,SS 15,64
+Pasar Seni (SBK),SS 15,62
+Merdeka,SS 15,58
+Bukit Bintang,SS 15,56
+Tun Razak Exchange (TRX),SS 15,54
+Cochrane,SS 15,52
+Maluri (SBK),SS 15,48
+Taman Pertama,SS 15,44
+Taman Midah,SS 15,73
+Taman Mutiara,SS 15,70
+Taman Connaught,SS 15,65
+Taman Suntex,SS 15,63
+Sri Raya,SS 15,59
+Bandar Tun Hussein Onn,SS 15,57
+Batu 11 Cheras,SS 15,55
+Bukit Dukung,SS 15,53
+Sungai Jernih,SS 15,49
+Stadium Kajang,SS 15,45
+Kajang,SS 15,74
+Gombak,SS 18,69
+Taman Melati,SS 18,66
+Wangsa Maju,SS 18,62
+Sri Rampai,SS 18,60
+Setiawangsa,SS 18,54
+Jelatek,SS 18,52
+Dato' Keramat,SS 18,51
+Damai,SS 18,50
+Ampang Park,SS 18,48
+KLCC,SS 18,47
+Kampung Baru,SS 18,45
+Dang Wangi,SS 18,43
+Masjid Jamek (KJL),SS 18,41
+Pasar Seni (KJL),SS 18,40
+KL Sentral (KJL),SS 18,37
+Bangsar,SS 18,35
+Abdullah Hukum,SS 18,32
+Kerinchi,SS 18,31
+Universiti,SS 18,29
+Taman Jaya,SS 18,25
+Asia Jaya,SS 18,23
+Taman Paramount,SS 18,20
+Taman Bahagia,SS 18,17
+Kelana Jaya,SS 18,15
+Lembah Subang,SS 18,12
+Ara Damansara,SS 18,10
+Glenmarie,SS 18,7
+Subang Jaya,SS 18,6
+SS 15,SS 18,2
+SS 18,SS 18,0
+USJ 7 (KJL),SS 18,3
+Taipan,SS 18,4
+Wawasan,SS 18,7
+USJ 21,SS 18,9
+Alam Megah,SS 18,12
+Subang Alam,SS 18,15
+Putra Heights (KJL),SS 18,19
+Sungai Buloh,SS 18,73
+Kampung Selamat,SS 18,70
+Kwasa Damansara,SS 18,65
+Kwasa Sentral,SS 18,63
+Kota Damansara,SS 18,59
+Surian,SS 18,57
+Mutiara Damansara,SS 18,55
+Bandar Utama,SS 18,53
+TTDI,SS 18,49
+Phileo Damansara,SS 18,45
+Pusat Bandar Damansara,SS 18,74
+Semantan,SS 18,71
+Muzium Negara,SS 18,66
+Pasar Seni (SBK),SS 18,64
+Merdeka,SS 18,60
+Bukit Bintang,SS 18,58
+Tun Razak Exchange (TRX),SS 18,56
+Cochrane,SS 18,54
+Maluri (SBK),SS 18,50
+Taman Pertama,SS 18,46
+Taman Midah,SS 18,75
+Taman Mutiara,SS 18,72
+Taman Connaught,SS 18,67
+Taman Suntex,SS 18,65
+Sri Raya,SS 18,61
+Bandar Tun Hussein Onn,SS 18,59
+Batu 11 Cheras,SS 18,57
+Bukit Dukung,SS 18,55
+Sungai Jernih,SS 18,51
+Stadium Kajang,SS 18,47
+Kajang,SS 18,76
+Gombak,USJ 7 (KJL),72
+Taman Melati,USJ 7 (KJL),69
+Wangsa Maju,USJ 7 (KJL),65
+Sri Rampai,USJ 7 (KJL),63
+Setiawangsa,USJ 7 (KJL),57
+Jelatek,USJ 7 (KJL),55
+Dato' Keramat,USJ 7 (KJL),54
+Damai,USJ 7 (KJL),53
+Ampang Park,USJ 7 (KJL),51
+KLCC,USJ 7 (KJL),50
+Kampung Baru,USJ 7 (KJL),48
+Dang Wangi,USJ 7 (KJL),46
+Masjid Jamek (KJL),USJ 7 (KJL),44
+Pasar Seni (KJL),USJ 7 (KJL),43
+KL Sentral (KJL),USJ 7 (KJL),40
+Bangsar,USJ 7 (KJL),38
+Abdullah Hukum,USJ 7 (KJL),35
+Kerinchi,USJ 7 (KJL),34
+Universiti,USJ 7 (KJL),32
+Taman Jaya,USJ 7 (KJL),28
+Asia Jaya,USJ 7 (KJL),26
+Taman Paramount,USJ 7 (KJL),23
+Taman Bahagia,USJ 7 (KJL),20
+Kelana Jaya,USJ 7 (KJL),18
+Lembah Subang,USJ 7 (KJL),15
+Ara Damansara,USJ 7 (KJL),13
+Glenmarie,USJ 7 (KJL),10
+Subang Jaya,USJ 7 (KJL),9
+SS 15,USJ 7 (KJL),5
+SS 18,USJ 7 (KJL),3
+USJ 7 (KJL),USJ 7 (KJL),0
+Taipan,USJ 7 (KJL),1
+Wawasan,USJ 7 (KJL),4
+USJ 21,USJ 7 (KJL),6
+Alam Megah,USJ 7 (KJL),9
+Subang Alam,USJ 7 (KJL),12
+Putra Heights (KJL),USJ 7 (KJL),16
+Sungai Buloh,USJ 7 (KJL),76
+Kampung Selamat,USJ 7 (KJL),73
+Kwasa Damansara,USJ 7 (KJL),68
+Kwasa Sentral,USJ 7 (KJL),66
+Kota Damansara,USJ 7 (KJL),62
+Surian,USJ 7 (KJL),60
+Mutiara Damansara,USJ 7 (KJL),58
+Bandar Utama,USJ 7 (KJL),56
+TTDI,USJ 7 (KJL),52
+Phileo Damansara,USJ 7 (KJL),48
+Pusat Bandar Damansara,USJ 7 (KJL),77
+Semantan,USJ 7 (KJL),74
+Muzium Negara,USJ 7 (KJL),69
+Pasar Seni (SBK),USJ 7 (KJL),67
+Merdeka,USJ 7 (KJL),63
+Bukit Bintang,USJ 7 (KJL),61
+Tun Razak Exchange (TRX),USJ 7 (KJL),59
+Cochrane,USJ 7 (KJL),57
+Maluri (SBK),USJ 7 (KJL),53
+Taman Pertama,USJ 7 (KJL),49
+Taman Midah,USJ 7 (KJL),78
+Taman Mutiara,USJ 7 (KJL),75
+Taman Connaught,USJ 7 (KJL),70
+Taman Suntex,USJ 7 (KJL),68
+Sri Raya,USJ 7 (KJL),64
+Bandar Tun Hussein Onn,USJ 7 (KJL),62
+Batu 11 Cheras,USJ 7 (KJL),60
+Bukit Dukung,USJ 7 (KJL),58
+Sungai Jernih,USJ 7 (KJL),54
+Stadium Kajang,USJ 7 (KJL),50
+Kajang,USJ 7 (KJL),79
+Gombak,Taipan,73
+Taman Melati,Taipan,70
+Wangsa Maju,Taipan,66
+Sri Rampai,Taipan,64
+Setiawangsa,Taipan,58
+Jelatek,Taipan,56
+Dato' Keramat,Taipan,55
+Damai,Taipan,54
+Ampang Park,Taipan,52
+KLCC,Taipan,51
+Kampung Baru,Taipan,49
+Dang Wangi,Taipan,47
+Masjid Jamek (KJL),Taipan,45
+Pasar Seni (KJL),Taipan,44
+KL Sentral (KJL),Taipan,41
+Bangsar,Taipan,39
+Abdullah Hukum,Taipan,36
+Kerinchi,Taipan,35
+Universiti,Taipan,33
+Taman Jaya,Taipan,29
+Asia Jaya,Taipan,27
+Taman Paramount,Taipan,24
+Taman Bahagia,Taipan,21
+Kelana Jaya,Taipan,19
+Lembah Subang,Taipan,16
+Ara Damansara,Taipan,14
+Glenmarie,Taipan,11
+Subang Jaya,Taipan,10
+SS 15,Taipan,6
+SS 18,Taipan,4
+USJ 7 (KJL),Taipan,1
+Taipan,Taipan,0
+Wawasan,Taipan,3
+USJ 21,Taipan,5
+Alam Megah,Taipan,8
+Subang Alam,Taipan,11
+Putra Heights (KJL),Taipan,15
+Sungai Buloh,Taipan,77
+Kampung Selamat,Taipan,74
+Kwasa Damansara,Taipan,69
+Kwasa Sentral,Taipan,67
+Kota Damansara,Taipan,63
+Surian,Taipan,61
+Mutiara Damansara,Taipan,59
+Bandar Utama,Taipan,57
+TTDI,Taipan,53
+Phileo Damansara,Taipan,49
+Pusat Bandar Damansara,Taipan,78
+Semantan,Taipan,75
+Muzium Negara,Taipan,70
+Pasar Seni (SBK),Taipan,68
+Merdeka,Taipan,64
+Bukit Bintang,Taipan,62
+Tun Razak Exchange (TRX),Taipan,60
+Cochrane,Taipan,58
+Maluri (SBK),Taipan,54
+Taman Pertama,Taipan,50
+Taman Midah,Taipan,79
+Taman Mutiara,Taipan,76
+Taman Connaught,Taipan,71
+Taman Suntex,Taipan,69
+Sri Raya,Taipan,65
+Bandar Tun Hussein Onn,Taipan,63
+Batu 11 Cheras,Taipan,61
+Bukit Dukung,Taipan,59
+Sungai Jernih,Taipan,55
+Stadium Kajang,Taipan,51
+Kajang,Taipan,80
+Gombak,Wawasan,76
+Taman Melati,Wawasan,73
+Wangsa Maju,Wawasan,69
+Sri Rampai,Wawasan,67
+Setiawangsa,Wawasan,61
+Jelatek,Wawasan,59
+Dato' Keramat,Wawasan,58
+Damai,Wawasan,57
+Ampang Park,Wawasan,55
+KLCC,Wawasan,54
+Kampung Baru,Wawasan,52
+Dang Wangi,Wawasan,50
+Masjid Jamek (KJL),Wawasan,48
+Pasar Seni (KJL),Wawasan,47
+KL Sentral (KJL),Wawasan,44
+Bangsar,Wawasan,42
+Abdullah Hukum,Wawasan,39
+Kerinchi,Wawasan,38
+Universiti,Wawasan,36
+Taman Jaya,Wawasan,32
+Asia Jaya,Wawasan,30
+Taman Paramount,Wawasan,27
+Taman Bahagia,Wawasan,24
+Kelana Jaya,Wawasan,22
+Lembah Subang,Wawasan,19
+Ara Damansara,Wawasan,17
+Glenmarie,Wawasan,14
+Subang Jaya,Wawasan,13
+SS 15,Wawasan,9
+SS 18,Wawasan,7
+USJ 7 (KJL),Wawasan,4
+Taipan,Wawasan,3
+Wawasan,Wawasan,0
+USJ 21,Wawasan,2
+Alam Megah,Wawasan,5
+Subang Alam,Wawasan,8
+Putra Heights (KJL),Wawasan,12
+Sungai Buloh,Wawasan,80
+Kampung Selamat,Wawasan,77
+Kwasa Damansara,Wawasan,72
+Kwasa Sentral,Wawasan,70
+Kota Damansara,Wawasan,66
+Surian,Wawasan,64
+Mutiara Damansara,Wawasan,62
+Bandar Utama,Wawasan,60
+TTDI,Wawasan,56
+Phileo Damansara,Wawasan,52
+Pusat Bandar Damansara,Wawasan,81
+Semantan,Wawasan,78
+Muzium Negara,Wawasan,73
+Pasar Seni (SBK),Wawasan,71
+Merdeka,Wawasan,67
+Bukit Bintang,Wawasan,65
+Tun Razak Exchange (TRX),Wawasan,63
+Cochrane,Wawasan,61
+Maluri (SBK),Wawasan,57
+Taman Pertama,Wawasan,53
+Taman Midah,Wawasan,82
+Taman Mutiara,Wawasan,79
+Taman Connaught,Wawasan,74
+Taman Suntex,Wawasan,72
+Sri Raya,Wawasan,68
+Bandar Tun Hussein Onn,Wawasan,66
+Batu 11 Cheras,Wawasan,64
+Bukit Dukung,Wawasan,62
+Sungai Jernih,Wawasan,58
+Stadium Kajang,Wawasan,54
+Kajang,Wawasan,83
+Gombak,USJ 21,78
+Taman Melati,USJ 21,75
+Wangsa Maju,USJ 21,71
+Sri Rampai,USJ 21,69
+Setiawangsa,USJ 21,63
+Jelatek,USJ 21,61
+Dato' Keramat,USJ 21,60
+Damai,USJ 21,59
+Ampang Park,USJ 21,57
+KLCC,USJ 21,56
+Kampung Baru,USJ 21,54
+Dang Wangi,USJ 21,52
+Masjid Jamek (KJL),USJ 21,50
+Pasar Seni (KJL),USJ 21,49
+KL Sentral (KJL),USJ 21,46
+Bangsar,USJ 21,44
+Abdullah Hukum,USJ 21,41
+Kerinchi,USJ 21,40
+Universiti,USJ 21,38
+Taman Jaya,USJ 21,34
+Asia Jaya,USJ 21,32
+Taman Paramount,USJ 21,29
+Taman Bahagia,USJ 21,26
+Kelana Jaya,USJ 21,24
+Lembah Subang,USJ 21,21
+Ara Damansara,USJ 21,19
+Glenmarie,USJ 21,16
+Subang Jaya,USJ 21,15
+SS 15,USJ 21,11
+SS 18,USJ 21,9
+USJ 7 (KJL),USJ 21,6
+Taipan,USJ 21,5
+Wawasan,USJ 21,2
+USJ 21,USJ 21,0
+Alam Megah,USJ 21,3
+Subang Alam,USJ 21,6
+Putra Heights (KJL),USJ 21,10
+Sungai Buloh,USJ 21,82
+Kampung Selamat,USJ 21,79
+Kwasa Damansara,USJ 21,74
+Kwasa Sentral,USJ 21,72
+Kota Damansara,USJ 21,68
+Surian,USJ 21,66
+Mutiara Damansara,USJ 21,64
+Bandar Utama,USJ 21,62
+TTDI,USJ 21,58
+Phileo Damansara,USJ 21,54
+Pusat Bandar Damansara,USJ 21,83
+Semantan,USJ 21,80
+Muzium Negara,USJ 21,75
+Pasar Seni (SBK),USJ 21,73
+Merdeka,USJ 21,69
+Bukit Bintang,USJ 21,67
+Tun Razak Exchange (TRX),USJ 21,65
+Cochrane,USJ 21,63
+Maluri (SBK),USJ 21,59
+Taman Pertama,USJ 21,55
+Taman Midah,USJ 21,84
+Taman Mutiara,USJ 21,81
+Taman Connaught,USJ 21,76
+Taman Suntex,USJ 21,74
+Sri Raya,USJ 21,70
+Bandar Tun Hussein Onn,USJ 21,68
+Batu 11 Cheras,USJ 21,66
+Bukit Dukung,USJ 21,64
+Sungai Jernih,USJ 21,60
+Stadium Kajang,USJ 21,56
+Kajang,USJ 21,85
+Gombak,Alam Megah,81
+Taman Melati,Alam Megah,78
+Wangsa Maju,Alam Megah,74
+Sri Rampai,Alam Megah,72
+Setiawangsa,Alam Megah,66
+Jelatek,Alam Megah,64
+Dato' Keramat,Alam Megah,63
+Damai,Alam Megah,62
+Ampang Park,Alam Megah,60
+KLCC,Alam Megah,59
+Kampung Baru,Alam Megah,57
+Dang Wangi,Alam Megah,55
+Masjid Jamek (KJL),Alam Megah,53
+Pasar Seni (KJL),Alam Megah,52
+KL Sentral (KJL),Alam Megah,49
+Bangsar,Alam Megah,47
+Abdullah Hukum,Alam Megah,44
+Kerinchi,Alam Megah,43
+Universiti,Alam Megah,41
+Taman Jaya,Alam Megah,37
+Asia Jaya,Alam Megah,35
+Taman Paramount,Alam Megah,32
+Taman Bahagia,Alam Megah,29
+Kelana Jaya,Alam Megah,27
+Lembah Subang,Alam Megah,24
+Ara Damansara,Alam Megah,22
+Glenmarie,Alam Megah,19
+Subang Jaya,Alam Megah,18
+SS 15,Alam Megah,14
+SS 18,Alam Megah,12
+USJ 7 (KJL),Alam Megah,9
+Taipan,Alam Megah,8
+Wawasan,Alam Megah,5
+USJ 21,Alam Megah,3
+Alam Megah,Alam Megah,0
+Subang Alam,Alam Megah,3
+Putra Heights (KJL),Alam Megah,7
+Sungai Buloh,Alam Megah,85
+Kampung Selamat,Alam Megah,82
+Kwasa Damansara,Alam Megah,77
+Kwasa Sentral,Alam Megah,75
+Kota Damansara,Alam Megah,71
+Surian,Alam Megah,69
+Mutiara Damansara,Alam Megah,67
+Bandar Utama,Alam Megah,65
+TTDI,Alam Megah,61
+Phileo Damansara,Alam Megah,57
+Pusat Bandar Damansara,Alam Megah,86
+Semantan,Alam Megah,83
+Muzium Negara,Alam Megah,78
+Pasar Seni (SBK),Alam Megah,76
+Merdeka,Alam Megah,72
+Bukit Bintang,Alam Megah,70
+Tun Razak Exchange (TRX),Alam Megah,68
+Cochrane,Alam Megah,66
+Maluri (SBK),Alam Megah,62
+Taman Pertama,Alam Megah,58
+Taman Midah,Alam Megah,87
+Taman Mutiara,Alam Megah,84
+Taman Connaught,Alam Megah,79
+Taman Suntex,Alam Megah,77
+Sri Raya,Alam Megah,73
+Bandar Tun Hussein Onn,Alam Megah,71
+Batu 11 Cheras,Alam Megah,69
+Bukit Dukung,Alam Megah,67
+Sungai Jernih,Alam Megah,63
+Stadium Kajang,Alam Megah,59
+Kajang,Alam Megah,88
+Gombak,Subang Alam,84
+Taman Melati,Subang Alam,81
+Wangsa Maju,Subang Alam,77
+Sri Rampai,Subang Alam,75
+Setiawangsa,Subang Alam,69
+Jelatek,Subang Alam,67
+Dato' Keramat,Subang Alam,66
+Damai,Subang Alam,65
+Ampang Park,Subang Alam,63
+KLCC,Subang Alam,62
+Kampung Baru,Subang Alam,60
+Dang Wangi,Subang Alam,58
+Masjid Jamek (KJL),Subang Alam,56
+Pasar Seni (KJL),Subang Alam,55
+KL Sentral (KJL),Subang Alam,52
+Bangsar,Subang Alam,50
+Abdullah Hukum,Subang Alam,47
+Kerinchi,Subang Alam,46
+Universiti,Subang Alam,44
+Taman Jaya,Subang Alam,40
+Asia Jaya,Subang Alam,38
+Taman Paramount,Subang Alam,35
+Taman Bahagia,Subang Alam,32
+Kelana Jaya,Subang Alam,30
+Lembah Subang,Subang Alam,27
+Ara Damansara,Subang Alam,25
+Glenmarie,Subang Alam,22
+Subang Jaya,Subang Alam,21
+SS 15,Subang Alam,17
+SS 18,Subang Alam,15
+USJ 7 (KJL),Subang Alam,12
+Taipan,Subang Alam,11
+Wawasan,Subang Alam,8
+USJ 21,Subang Alam,6
+Alam Megah,Subang Alam,3
+Subang Alam,Subang Alam,0
+Putra Heights (KJL),Subang Alam,4
+Sungai Buloh,Subang Alam,87
+Kampung Selamat,Subang Alam,84
+Kwasa Damansara,Subang Alam,79
+Kwasa Sentral,Subang Alam,77
+Kota Damansara,Subang Alam,73
+Surian,Subang Alam,71
+Mutiara Damansara,Subang Alam,69
+Bandar Utama,Subang Alam,67
+TTDI,Subang Alam,63
+Phileo Damansara,Subang Alam,59
+Pusat Bandar Damansara,Subang Alam,88
+Semantan,Subang Alam,85
+Muzium Negara,Subang Alam,80
+Pasar Seni (SBK),Subang Alam,78
+Merdeka,Subang Alam,74
+Bukit Bintang,Subang Alam,72
+Tun Razak Exchange (TRX),Subang Alam,70
+Cochrane,Subang Alam,68
+Maluri (SBK),Subang Alam,64
+Taman Pertama,Subang Alam,60
+Taman Midah,Subang Alam,89
+Taman Mutiara,Subang Alam,86
+Taman Connaught,Subang Alam,81
+Taman Suntex,Subang Alam,79
+Sri Raya,Subang Alam,75
+Bandar Tun Hussein Onn,Subang Alam,73
+Batu 11 Cheras,Subang Alam,71
+Bukit Dukung,Subang Alam,69
+Sungai Jernih,Subang Alam,65
+Stadium Kajang,Subang Alam,61
+Kajang,Subang Alam,90
+Gombak,Putra Heights (KJL),88
+Taman Melati,Putra Heights (KJL),85
+Wangsa Maju,Putra Heights (KJL),81
+Sri Rampai,Putra Heights (KJL),79
+Setiawangsa,Putra Heights (KJL),73
+Jelatek,Putra Heights (KJL),71
+Dato' Keramat,Putra Heights (KJL),70
+Damai,Putra Heights (KJL),69
+Ampang Park,Putra Heights (KJL),67
+KLCC,Putra Heights (KJL),66
+Kampung Baru,Putra Heights (KJL),64
+Dang Wangi,Putra Heights (KJL),62
+Masjid Jamek (KJL),Putra Heights (KJL),60
+Pasar Seni (KJL),Putra Heights (KJL),59
+KL Sentral (KJL),Putra Heights (KJL),56
+Bangsar,Putra Heights (KJL),54
+Abdullah Hukum,Putra Heights (KJL),51
+Kerinchi,Putra Heights (KJL),50
+Universiti,Putra Heights (KJL),48
+Taman Jaya,Putra Heights (KJL),44
+Asia Jaya,Putra Heights (KJL),42
+Taman Paramount,Putra Heights (KJL),39
+Taman Bahagia,Putra Heights (KJL),36
+Kelana Jaya,Putra Heights (KJL),34
+Lembah Subang,Putra Heights (KJL),31
+Ara Damansara,Putra Heights (KJL),29
+Glenmarie,Putra Heights (KJL),26
+Subang Jaya,Putra Heights (KJL),25
+SS 15,Putra Heights (KJL),21
+SS 18,Putra Heights (KJL),19
+USJ 7 (KJL),Putra Heights (KJL),16
+Taipan,Putra Heights (KJL),15
+Wawasan,Putra Heights (KJL),12
+USJ 21,Putra Heights (KJL),10
+Alam Megah,Putra Heights (KJL),7
+Subang Alam,Putra Heights (KJL),4
+Putra Heights (KJL),Putra Heights (KJL),0
+Sungai Buloh,Putra Heights (KJL),91
+Kampung Selamat,Putra Heights (KJL),88
+Kwasa Damansara,Putra Heights (KJL),83
+Kwasa Sentral,Putra Heights (KJL),81
+Kota Damansara,Putra Heights (KJL),77
+Surian,Putra Heights (KJL),75
+Mutiara Damansara,Putra Heights (KJL),73
+Bandar Utama,Putra Heights (KJL),71
+TTDI,Putra Heights (KJL),67
+Phileo Damansara,Putra Heights (KJL),63
+Pusat Bandar Damansara,Putra Heights (KJL),92
+Semantan,Putra Heights (KJL),89
+Muzium Negara,Putra Heights (KJL),84
+Pasar Seni (SBK),Putra Heights (KJL),82
+Merdeka,Putra Heights (KJL),78
+Bukit Bintang,Putra Heights (KJL),76
+Tun Razak Exchange (TRX),Putra Heights (KJL),74
+Cochrane,Putra Heights (KJL),72
+Maluri (SBK),Putra Heights (KJL),68
+Taman Pertama,Putra Heights (KJL),64
+Taman Midah,Putra Heights (KJL),93
+Taman Mutiara,Putra Heights (KJL),90
+Taman Connaught,Putra Heights (KJL),85
+Taman Suntex,Putra Heights (KJL),83
+Sri Raya,Putra Heights (KJL),79
+Bandar Tun Hussein Onn,Putra Heights (KJL),77
+Batu 11 Cheras,Putra Heights (KJL),75
+Bukit Dukung,Putra Heights (KJL),73
+Sungai Jernih,Putra Heights (KJL),69
+Stadium Kajang,Putra Heights (KJL),65
+Kajang,Putra Heights (KJL),94
+Gombak,Sungai Buloh,66
+Taman Melati,Sungai Buloh,63
+Wangsa Maju,Sungai Buloh,59
+Sri Rampai,Sungai Buloh,57
+Setiawangsa,Sungai Buloh,51
+Jelatek,Sungai Buloh,49
+Dato' Keramat,Sungai Buloh,48
+Damai,Sungai Buloh,47
+Ampang Park,Sungai Buloh,45
+KLCC,Sungai Buloh,44
+Kampung Baru,Sungai Buloh,42
+Dang Wangi,Sungai Buloh,40
+Masjid Jamek (KJL),Sungai Buloh,38
+Pasar Seni (KJL),Sungai Buloh,37
+KL Sentral (KJL),Sungai Buloh,40
+Bangsar,Sungai Buloh,42
+Abdullah Hukum,Sungai Buloh,45
+Kerinchi,Sungai Buloh,46
+Universiti,Sungai Buloh,48
+Taman Jaya,Sungai Buloh,52
+Asia Jaya,Sungai Buloh,54
+Taman Paramount,Sungai Buloh,57
+Taman Bahagia,Sungai Buloh,60
+Kelana Jaya,Sungai Buloh,62
+Lembah Subang,Sungai Buloh,65
+Ara Damansara,Sungai Buloh,67
+Glenmarie,Sungai Buloh,70
+Subang Jaya,Sungai Buloh,71
+SS 15,Sungai Buloh,75
+SS 18,Sungai Buloh,77
+USJ 7 (KJL),Sungai Buloh,80
+Taipan,Sungai Buloh,81
+Wawasan,Sungai Buloh,84
+USJ 21,Sungai Buloh,86
+Alam Megah,Sungai Buloh,89
+Subang Alam,Sungai Buloh,92
+Putra Heights (KJL),Sungai Buloh,96
+Sungai Buloh,Sungai Buloh,0
+Kampung Selamat,Sungai Buloh,3
+Kwasa Damansara,Sungai Buloh,5
+Kwasa Sentral,Sungai Buloh,15
+Kota Damansara,Sungai Buloh,19
+Surian,Sungai Buloh,21
+Mutiara Damansara,Sungai Buloh,23
+Bandar Utama,Sungai Buloh,25
+TTDI,Sungai Buloh,28
+Phileo Damansara,Sungai Buloh,31
+Pusat Bandar Damansara,Sungai Buloh,34
+Semantan,Sungai Buloh,36
+Muzium Negara,Sungai Buloh,37
+Pasar Seni (SBK),Sungai Buloh,39
+Merdeka,Sungai Buloh,41
+Bukit Bintang,Sungai Buloh,43
+Tun Razak Exchange (TRX),Sungai Buloh,46
+Cochrane,Sungai Buloh,49
+Maluri (SBK),Sungai Buloh,50
+Taman Pertama,Sungai Buloh,54
+Taman Midah,Sungai Buloh,56
+Taman Mutiara,Sungai Buloh,58
+Taman Connaught,Sungai Buloh,61
+Taman Suntex,Sungai Buloh,63
+Sri Raya,Sungai Buloh,66
+Bandar Tun Hussein Onn,Sungai Buloh,68
+Batu 11 Cheras,Sungai Buloh,70
+Bukit Dukung,Sungai Buloh,73
+Sungai Jernih,Sungai Buloh,77
+Stadium Kajang,Sungai Buloh,78
+Kajang,Sungai Buloh,81
+Gombak,Kampung Selamat,64
+Taman Melati,Kampung Selamat,61
+Wangsa Maju,Kampung Selamat,57
+Sri Rampai,Kampung Selamat,55
+Setiawangsa,Kampung Selamat,49
+Jelatek,Kampung Selamat,47
+Dato' Keramat,Kampung Selamat,46
+Damai,Kampung Selamat,45
+Ampang Park,Kampung Selamat,43
+KLCC,Kampung Selamat,42
+Kampung Baru,Kampung Selamat,40
+Dang Wangi,Kampung Selamat,38
+Masjid Jamek (KJL),Kampung Selamat,36
+Pasar Seni (KJL),Kampung Selamat,35
+KL Sentral (KJL),Kampung Selamat,38
+Bangsar,Kampung Selamat,40
+Abdullah Hukum,Kampung Selamat,43
+Kerinchi,Kampung Selamat,44
+Universiti,Kampung Selamat,46
+Taman Jaya,Kampung Selamat,50
+Asia Jaya,Kampung Selamat,52
+Taman Paramount,Kampung Selamat,55
+Taman Bahagia,Kampung Selamat,58
+Kelana Jaya,Kampung Selamat,60
+Lembah Subang,Kampung Selamat,63
+Ara Damansara,Kampung Selamat,65
+Glenmarie,Kampung Selamat,68
+Subang Jaya,Kampung Selamat,69
+SS 15,Kampung Selamat,73
+SS 18,Kampung Selamat,75
+USJ 7 (KJL),Kampung Selamat,78
+Taipan,Kampung Selamat,79
+Wawasan,Kampung Selamat,82
+USJ 21,Kampung Selamat,84
+Alam Megah,Kampung Selamat,87
+Subang Alam,Kampung Selamat,90
+Putra Heights (KJL),Kampung Selamat,94
+Sungai Buloh,Kampung Selamat,3
+Kampung Selamat,Kampung Selamat,0
+Kwasa Damansara,Kampung Selamat,3
+Kwasa Sentral,Kampung Selamat,12
+Kota Damansara,Kampung Selamat,12
+Surian,Kampung Selamat,19
+Mutiara Damansara,Kampung Selamat,19
+Bandar Utama,Kampung Selamat,18
+TTDI,Kampung Selamat,25
+Phileo Damansara,Kampung Selamat,28
+Pusat Bandar Damansara,Kampung Selamat,31
+Semantan,Kampung Selamat,34
+Muzium Negara,Kampung Selamat,36
+Pasar Seni (SBK),Kampung Selamat,37
+Merdeka,Kampung Selamat,39
+Bukit Bintang,Kampung Selamat,41
+Tun Razak Exchange (TRX),Kampung Selamat,43
+Cochrane,Kampung Selamat,46
+Maluri (SBK),Kampung Selamat,49
+Taman Pertama,Kampung Selamat,50
+Taman Midah,Kampung Selamat,54
+Taman Mutiara,Kampung Selamat,56
+Taman Connaught,Kampung Selamat,58
+Taman Suntex,Kampung Selamat,61
+Sri Raya,Kampung Selamat,63
+Bandar Tun Hussein Onn,Kampung Selamat,66
+Batu 11 Cheras,Kampung Selamat,68
+Bukit Dukung,Kampung Selamat,70
+Sungai Jernih,Kampung Selamat,73
+Stadium Kajang,Kampung Selamat,77
+Kajang,Kampung Selamat,78
+Gombak,Kwasa Damansara,62
+Taman Melati,Kwasa Damansara,59
+Wangsa Maju,Kwasa Damansara,55
+Sri Rampai,Kwasa Damansara,53
+Setiawangsa,Kwasa Damansara,47
+Jelatek,Kwasa Damansara,45
+Dato' Keramat,Kwasa Damansara,44
+Damai,Kwasa Damansara,43
+Ampang Park,Kwasa Damansara,41
+KLCC,Kwasa Damansara,40
+Kampung Baru,Kwasa Damansara,38
+Dang Wangi,Kwasa Damansara,36
+Masjid Jamek (KJL),Kwasa Damansara,34
+Pasar Seni (KJL),Kwasa Damansara,33
+KL Sentral (KJL),Kwasa Damansara,36
+Bangsar,Kwasa Damansara,38
+Abdullah Hukum,Kwasa Damansara,41
+Kerinchi,Kwasa Damansara,42
+Universiti,Kwasa Damansara,44
+Taman Jaya,Kwasa Damansara,48
+Asia Jaya,Kwasa Damansara,50
+Taman Paramount,Kwasa Damansara,53
+Taman Bahagia,Kwasa Damansara,56
+Kelana Jaya,Kwasa Damansara,58
+Lembah Subang,Kwasa Damansara,61
+Ara Damansara,Kwasa Damansara,63
+Glenmarie,Kwasa Damansara,66
+Subang Jaya,Kwasa Damansara,67
+SS 15,Kwasa Damansara,71
+SS 18,Kwasa Damansara,73
+USJ 7 (KJL),Kwasa Damansara,76
+Taipan,Kwasa Damansara,77
+Wawasan,Kwasa Damansara,80
+USJ 21,Kwasa Damansara,82
+Alam Megah,Kwasa Damansara,85
+Subang Alam,Kwasa Damansara,88
+Putra Heights (KJL),Kwasa Damansara,92
+Sungai Buloh,Kwasa Damansara,5
+Kampung Selamat,Kwasa Damansara,3
+Kwasa Damansara,Kwasa Damansara,0
+Kwasa Sentral,Kwasa Damansara,4
+Kota Damansara,Kwasa Damansara,7
+Surian,Kwasa Damansara,10
+Mutiara Damansara,Kwasa Damansara,13
+Bandar Utama,Kwasa Damansara,15
+TTDI,Kwasa Damansara,18
+Phileo Damansara,Kwasa Damansara,25
+Pusat Bandar Damansara,Kwasa Damansara,28
+Semantan,Kwasa Damansara,31
+Muzium Negara,Kwasa Damansara,34
+Pasar Seni (SBK),Kwasa Damansara,36
+Merdeka,Kwasa Damansara,37
+Bukit Bintang,Kwasa Damansara,39
+Tun Razak Exchange (TRX),Kwasa Damansara,41
+Cochrane,Kwasa Damansara,43
+Maluri (SBK),Kwasa Damansara,46
+Taman Pertama,Kwasa Damansara,49
+Taman Midah,Kwasa Damansara,50
+Taman Mutiara,Kwasa Damansara,54
+Taman Connaught,Kwasa Damansara,56
+Taman Suntex,Kwasa Damansara,58
+Sri Raya,Kwasa Damansara,61
+Bandar Tun Hussein Onn,Kwasa Damansara,63
+Batu 11 Cheras,Kwasa Damansara,66
+Bukit Dukung,Kwasa Damansara,68
+Sungai Jernih,Kwasa Damansara,70
+Stadium Kajang,Kwasa Damansara,73
+Kajang,Kwasa Damansara,77
+Gombak,Kwasa Sentral,59
+Taman Melati,Kwasa Sentral,56
+Wangsa Maju,Kwasa Sentral,52
+Sri Rampai,Kwasa Sentral,50
+Setiawangsa,Kwasa Sentral,44
+Jelatek,Kwasa Sentral,42
+Dato' Keramat,Kwasa Sentral,41
+Damai,Kwasa Sentral,40
+Ampang Park,Kwasa Sentral,38
+KLCC,Kwasa Sentral,37
+Kampung Baru,Kwasa Sentral,35
+Dang Wangi,Kwasa Sentral,33
+Masjid Jamek (KJL),Kwasa Sentral,31
+Pasar Seni (KJL),Kwasa Sentral,30
+KL Sentral (KJL),Kwasa Sentral,33
+Bangsar,Kwasa Sentral,35
+Abdullah Hukum,Kwasa Sentral,38
+Kerinchi,Kwasa Sentral,39
+Universiti,Kwasa Sentral,41
+Taman Jaya,Kwasa Sentral,45
+Asia Jaya,Kwasa Sentral,47
+Taman Paramount,Kwasa Sentral,50
+Taman Bahagia,Kwasa Sentral,53
+Kelana Jaya,Kwasa Sentral,55
+Lembah Subang,Kwasa Sentral,58
+Ara Damansara,Kwasa Sentral,60
+Glenmarie,Kwasa Sentral,63
+Subang Jaya,Kwasa Sentral,64
+SS 15,Kwasa Sentral,68
+SS 18,Kwasa Sentral,70
+USJ 7 (KJL),Kwasa Sentral,73
+Taipan,Kwasa Sentral,74
+Wawasan,Kwasa Sentral,77
+USJ 21,Kwasa Sentral,79
+Alam Megah,Kwasa Sentral,82
+Subang Alam,Kwasa Sentral,85
+Putra Heights (KJL),Kwasa Sentral,89
+Sungai Buloh,Kwasa Sentral,15
+Kampung Selamat,Kwasa Sentral,8
+Kwasa Damansara,Kwasa Sentral,3
+Kwasa Sentral,Kwasa Sentral,0
+Kota Damansara,Kwasa Sentral,4
+Surian,Kwasa Sentral,7
+Mutiara Damansara,Kwasa Sentral,10
+Bandar Utama,Kwasa Sentral,12
+TTDI,Kwasa Sentral,15
+Phileo Damansara,Kwasa Sentral,18
+Pusat Bandar Damansara,Kwasa Sentral,25
+Semantan,Kwasa Sentral,28
+Muzium Negara,Kwasa Sentral,31
+Pasar Seni (SBK),Kwasa Sentral,34
+Merdeka,Kwasa Sentral,36
+Bukit Bintang,Kwasa Sentral,37
+Tun Razak Exchange (TRX),Kwasa Sentral,39
+Cochrane,Kwasa Sentral,41
+Maluri (SBK),Kwasa Sentral,43
+Taman Pertama,Kwasa Sentral,46
+Taman Midah,Kwasa Sentral,49
+Taman Mutiara,Kwasa Sentral,50
+Taman Connaught,Kwasa Sentral,54
+Taman Suntex,Kwasa Sentral,56
+Sri Raya,Kwasa Sentral,58
+Bandar Tun Hussein Onn,Kwasa Sentral,61
+Batu 11 Cheras,Kwasa Sentral,63
+Bukit Dukung,Kwasa Sentral,66
+Sungai Jernih,Kwasa Sentral,68
+Stadium Kajang,Kwasa Sentral,70
+Kajang,Kwasa Sentral,73
+Gombak,Kota Damansara,56
+Taman Melati,Kota Damansara,53
+Wangsa Maju,Kota Damansara,49
+Sri Rampai,Kota Damansara,47
+Setiawangsa,Kota Damansara,41
+Jelatek,Kota Damansara,39
+Dato' Keramat,Kota Damansara,38
+Damai,Kota Damansara,37
+Ampang Park,Kota Damansara,35
+KLCC,Kota Damansara,34
+Kampung Baru,Kota Damansara,32
+Dang Wangi,Kota Damansara,30
+Masjid Jamek (KJL),Kota Damansara,28
+Pasar Seni (KJL),Kota Damansara,27
+KL Sentral (KJL),Kota Damansara,30
+Bangsar,Kota Damansara,32
+Abdullah Hukum,Kota Damansara,35
+Kerinchi,Kota Damansara,36
+Universiti,Kota Damansara,38
+Taman Jaya,Kota Damansara,42
+Asia Jaya,Kota Damansara,44
+Taman Paramount,Kota Damansara,47
+Taman Bahagia,Kota Damansara,50
+Kelana Jaya,Kota Damansara,52
+Lembah Subang,Kota Damansara,55
+Ara Damansara,Kota Damansara,57
+Glenmarie,Kota Damansara,60
+Subang Jaya,Kota Damansara,61
+SS 15,Kota Damansara,65
+SS 18,Kota Damansara,67
+USJ 7 (KJL),Kota Damansara,70
+Taipan,Kota Damansara,71
+Wawasan,Kota Damansara,74
+USJ 21,Kota Damansara,76
+Alam Megah,Kota Damansara,79
+Subang Alam,Kota Damansara,82
+Putra Heights (KJL),Kota Damansara,86
+Sungai Buloh,Kota Damansara,19
+Kampung Selamat,Kota Damansara,12
+Kwasa Damansara,Kota Damansara,7
+Kwasa Sentral,Kota Damansara,5
+Kota Damansara,Kota Damansara,0
+Surian,Kota Damansara,4
+Mutiara Damansara,Kota Damansara,7
+Bandar Utama,Kota Damansara,9
+TTDI,Kota Damansara,12
+Phileo Damansara,Kota Damansara,15
+Pusat Bandar Damansara,Kota Damansara,18
+Semantan,Kota Damansara,25
+Muzium Negara,Kota Damansara,28
+Pasar Seni (SBK),Kota Damansara,31
+Merdeka,Kota Damansara,34
+Bukit Bintang,Kota Damansara,36
+Tun Razak Exchange (TRX),Kota Damansara,37
+Cochrane,Kota Damansara,39
+Maluri (SBK),Kota Damansara,41
+Taman Pertama,Kota Damansara,43
+Taman Midah,Kota Damansara,46
+Taman Mutiara,Kota Damansara,49
+Taman Connaught,Kota Damansara,50
+Taman Suntex,Kota Damansara,54
+Sri Raya,Kota Damansara,56
+Bandar Tun Hussein Onn,Kota Damansara,58
+Batu 11 Cheras,Kota Damansara,61
+Bukit Dukung,Kota Damansara,63
+Sungai Jernih,Kota Damansara,66
+Stadium Kajang,Kota Damansara,68
+Kajang,Kota Damansara,70
+Gombak,Surian,53
+Taman Melati,Surian,50
+Wangsa Maju,Surian,46
+Sri Rampai,Surian,44
+Setiawangsa,Surian,38
+Jelatek,Surian,36
+Dato' Keramat,Surian,35
+Damai,Surian,34
+Ampang Park,Surian,32
+KLCC,Surian,31
+Kampung Baru,Surian,29
+Dang Wangi,Surian,27
+Masjid Jamek (KJL),Surian,25
+Pasar Seni (KJL),Surian,24
+KL Sentral (KJL),Surian,27
+Bangsar,Surian,29
+Abdullah Hukum,Surian,32
+Kerinchi,Surian,33
+Universiti,Surian,35
+Taman Jaya,Surian,39
+Asia Jaya,Surian,41
+Taman Paramount,Surian,44
+Taman Bahagia,Surian,47
+Kelana Jaya,Surian,49
+Lembah Subang,Surian,52
+Ara Damansara,Surian,54
+Glenmarie,Surian,57
+Subang Jaya,Surian,58
+SS 15,Surian,62
+SS 18,Surian,64
+USJ 7 (KJL),Surian,67
+Taipan,Surian,68
+Wawasan,Surian,71
+USJ 21,Surian,73
+Alam Megah,Surian,76
+Subang Alam,Surian,79
+Putra Heights (KJL),Surian,83
+Sungai Buloh,Surian,21
+Kampung Selamat,Surian,14
+Kwasa Damansara,Surian,9
+Kwasa Sentral,Surian,7
+Kota Damansara,Surian,3
+Surian,Surian,0
+Mutiara Damansara,Surian,4
+Bandar Utama,Surian,6
+TTDI,Surian,9
+Phileo Damansara,Surian,12
+Pusat Bandar Damansara,Surian,15
+Semantan,Surian,18
+Muzium Negara,Surian,25
+Pasar Seni (SBK),Surian,28
+Merdeka,Surian,31
+Bukit Bintang,Surian,34
+Tun Razak Exchange (TRX),Surian,36
+Cochrane,Surian,37
+Maluri (SBK),Surian,39
+Taman Pertama,Surian,41
+Taman Midah,Surian,43
+Taman Mutiara,Surian,46
+Taman Connaught,Surian,49
+Taman Suntex,Surian,50
+Sri Raya,Surian,54
+Bandar Tun Hussein Onn,Surian,56
+Batu 11 Cheras,Surian,58
+Bukit Dukung,Surian,61
+Sungai Jernih,Surian,63
+Stadium Kajang,Surian,66
+Kajang,Surian,68
+Gombak,Mutiara Damansara,50
+Taman Melati,Mutiara Damansara,47
+Wangsa Maju,Mutiara Damansara,43
+Sri Rampai,Mutiara Damansara,41
+Setiawangsa,Mutiara Damansara,35
+Jelatek,Mutiara Damansara,33
+Dato' Keramat,Mutiara Damansara,32
+Damai,Mutiara Damansara,31
+Ampang Park,Mutiara Damansara,29
+KLCC,Mutiara Damansara,28
+Kampung Baru,Mutiara Damansara,26
+Dang Wangi,Mutiara Damansara,24
+Masjid Jamek (KJL),Mutiara Damansara,22
+Pasar Seni (KJL),Mutiara Damansara,21
+KL Sentral (KJL),Mutiara Damansara,24
+Bangsar,Mutiara Damansara,26
+Abdullah Hukum,Mutiara Damansara,29
+Kerinchi,Mutiara Damansara,30
+Universiti,Mutiara Damansara,32
+Taman Jaya,Mutiara Damansara,36
+Asia Jaya,Mutiara Damansara,38
+Taman Paramount,Mutiara Damansara,41
+Taman Bahagia,Mutiara Damansara,44
+Kelana Jaya,Mutiara Damansara,46
+Lembah Subang,Mutiara Damansara,49
+Ara Damansara,Mutiara Damansara,51
+Glenmarie,Mutiara Damansara,54
+Subang Jaya,Mutiara Damansara,55
+SS 15,Mutiara Damansara,59
+SS 18,Mutiara Damansara,61
+USJ 7 (KJL),Mutiara Damansara,64
+Taipan,Mutiara Damansara,65
+Wawasan,Mutiara Damansara,68
+USJ 21,Mutiara Damansara,70
+Alam Megah,Mutiara Damansara,73
+Subang Alam,Mutiara Damansara,76
+Putra Heights (KJL),Mutiara Damansara,80
+Sungai Buloh,Mutiara Damansara,23
+Kampung Selamat,Mutiara Damansara,16
+Kwasa Damansara,Mutiara Damansara,11
+Kwasa Sentral,Mutiara Damansara,9
+Kota Damansara,Mutiara Damansara,5
+Surian,Mutiara Damansara,3
+Mutiara Damansara,Mutiara Damansara,0
+Bandar Utama,Mutiara Damansara,3
+TTDI,Mutiara Damansara,6
+Phileo Damansara,Mutiara Damansara,9
+Pusat Bandar Damansara,Mutiara Damansara,12
+Semantan,Mutiara Damansara,15
+Muzium Negara,Mutiara Damansara,18
+Pasar Seni (SBK),Mutiara Damansara,25
+Merdeka,Mutiara Damansara,28
+Bukit Bintang,Mutiara Damansara,31
+Tun Razak Exchange (TRX),Mutiara Damansara,34
+Cochrane,Mutiara Damansara,36
+Maluri (SBK),Mutiara Damansara,37
+Taman Pertama,Mutiara Damansara,39
+Taman Midah,Mutiara Damansara,41
+Taman Mutiara,Mutiara Damansara,43
+Taman Connaught,Mutiara Damansara,46
+Taman Suntex,Mutiara Damansara,49
+Sri Raya,Mutiara Damansara,50
+Bandar Tun Hussein Onn,Mutiara Damansara,54
+Batu 11 Cheras,Mutiara Damansara,56
+Bukit Dukung,Mutiara Damansara,58
+Sungai Jernih,Mutiara Damansara,61
+Stadium Kajang,Mutiara Damansara,63
+Kajang,Mutiara Damansara,66
+Gombak,Bandar Utama,48
+Taman Melati,Bandar Utama,45
+Wangsa Maju,Bandar Utama,41
+Sri Rampai,Bandar Utama,39
+Setiawangsa,Bandar Utama,33
+Jelatek,Bandar Utama,31
+Dato' Keramat,Bandar Utama,30
+Damai,Bandar Utama,29
+Ampang Park,Bandar Utama,27
+KLCC,Bandar Utama,26
+Kampung Baru,Bandar Utama,24
+Dang Wangi,Bandar Utama,22
+Masjid Jamek (KJL),Bandar Utama,20
+Pasar Seni (KJL),Bandar Utama,19
+KL Sentral (KJL),Bandar Utama,22
+Bangsar,Bandar Utama,24
+Abdullah Hukum,Bandar Utama,27
+Kerinchi,Bandar Utama,28
+Universiti,Bandar Utama,30
+Taman Jaya,Bandar Utama,34
+Asia Jaya,Bandar Utama,36
+Taman Paramount,Bandar Utama,39
+Taman Bahagia,Bandar Utama,42
+Kelana Jaya,Bandar Utama,44
+Lembah Subang,Bandar Utama,47
+Ara Damansara,Bandar Utama,49
+Glenmarie,Bandar Utama,52
+Subang Jaya,Bandar Utama,53
+SS 15,Bandar Utama,57
+SS 18,Bandar Utama,59
+USJ 7 (KJL),Bandar Utama,62
+Taipan,Bandar Utama,63
+Wawasan,Bandar Utama,66
+USJ 21,Bandar Utama,68
+Alam Megah,Bandar Utama,71
+Subang Alam,Bandar Utama,74
+Putra Heights (KJL),Bandar Utama,78
+Sungai Buloh,Bandar Utama,25
+Kampung Selamat,Bandar Utama,18
+Kwasa Damansara,Bandar Utama,13
+Kwasa Sentral,Bandar Utama,11
+Kota Damansara,Bandar Utama,7
+Surian,Bandar Utama,5
+Mutiara Damansara,Bandar Utama,3
+Bandar Utama,Bandar Utama,0
+TTDI,Bandar Utama,4
+Phileo Damansara,Bandar Utama,7
+Pusat Bandar Damansara,Bandar Utama,9
+Semantan,Bandar Utama,12
+Muzium Negara,Bandar Utama,15
+Pasar Seni (SBK),Bandar Utama,18
+Merdeka,Bandar Utama,25
+Bukit Bintang,Bandar Utama,28
+Tun Razak Exchange (TRX),Bandar Utama,31
+Cochrane,Bandar Utama,34
+Maluri (SBK),Bandar Utama,36
+Taman Pertama,Bandar Utama,37
+Taman Midah,Bandar Utama,39
+Taman Mutiara,Bandar Utama,41
+Taman Connaught,Bandar Utama,43
+Taman Suntex,Bandar Utama,46
+Sri Raya,Bandar Utama,49
+Bandar Tun Hussein Onn,Bandar Utama,50
+Batu 11 Cheras,Bandar Utama,54
+Bukit Dukung,Bandar Utama,56
+Sungai Jernih,Bandar Utama,58
+Stadium Kajang,Bandar Utama,61
+Kajang,Bandar Utama,63
+Gombak,TTDI,45
+Taman Melati,TTDI,42
+Wangsa Maju,TTDI,38
+Sri Rampai,TTDI,36
+Setiawangsa,TTDI,30
+Jelatek,TTDI,28
+Dato' Keramat,TTDI,27
+Damai,TTDI,26
+Ampang Park,TTDI,24
+KLCC,TTDI,23
+Kampung Baru,TTDI,21
+Dang Wangi,TTDI,19
+Masjid Jamek (KJL),TTDI,17
+Pasar Seni (KJL),TTDI,16
+KL Sentral (KJL),TTDI,19
+Bangsar,TTDI,21
+Abdullah Hukum,TTDI,24
+Kerinchi,TTDI,25
+Universiti,TTDI,27
+Taman Jaya,TTDI,31
+Asia Jaya,TTDI,33
+Taman Paramount,TTDI,36
+Taman Bahagia,TTDI,39
+Kelana Jaya,TTDI,41
+Lembah Subang,TTDI,44
+Ara Damansara,TTDI,46
+Glenmarie,TTDI,49
+Subang Jaya,TTDI,50
+SS 15,TTDI,54
+SS 18,TTDI,56
+USJ 7 (KJL),TTDI,59
+Taipan,TTDI,60
+Wawasan,TTDI,63
+USJ 21,TTDI,65
+Alam Megah,TTDI,68
+Subang Alam,TTDI,71
+Putra Heights (KJL),TTDI,75
+Sungai Buloh,TTDI,28
+Kampung Selamat,TTDI,21
+Kwasa Damansara,TTDI,16
+Kwasa Sentral,TTDI,14
+Kota Damansara,TTDI,10
+Surian,TTDI,8
+Mutiara Damansara,TTDI,6
+Bandar Utama,TTDI,4
+TTDI,TTDI,0
+Phileo Damansara,TTDI,4
+Pusat Bandar Damansara,TTDI,7
+Semantan,TTDI,9
+Muzium Negara,TTDI,12
+Pasar Seni (SBK),TTDI,15
+Merdeka,TTDI,18
+Bukit Bintang,TTDI,25
+Tun Razak Exchange (TRX),TTDI,28
+Cochrane,TTDI,31
+Maluri (SBK),TTDI,34
+Taman Pertama,TTDI,36
+Taman Midah,TTDI,37
+Taman Mutiara,TTDI,39
+Taman Connaught,TTDI,41
+Taman Suntex,TTDI,43
+Sri Raya,TTDI,46
+Bandar Tun Hussein Onn,TTDI,49
+Batu 11 Cheras,TTDI,50
+Bukit Dukung,TTDI,54
+Sungai Jernih,TTDI,56
+Stadium Kajang,TTDI,58
+Kajang,TTDI,61
+Gombak,Phileo Damansara,42
+Taman Melati,Phileo Damansara,39
+Wangsa Maju,Phileo Damansara,35
+Sri Rampai,Phileo Damansara,33
+Setiawangsa,Phileo Damansara,27
+Jelatek,Phileo Damansara,25
+Dato' Keramat,Phileo Damansara,24
+Damai,Phileo Damansara,23
+Ampang Park,Phileo Damansara,21
+KLCC,Phileo Damansara,20
+Kampung Baru,Phileo Damansara,18
+Dang Wangi,Phileo Damansara,16
+Masjid Jamek (KJL),Phileo Damansara,14
+Pasar Seni (KJL),Phileo Damansara,13
+KL Sentral (KJL),Phileo Damansara,16
+Bangsar,Phileo Damansara,18
+Abdullah Hukum,Phileo Damansara,21
+Kerinchi,Phileo Damansara,22
+Universiti,Phileo Damansara,24
+Taman Jaya,Phileo Damansara,28
+Asia Jaya,Phileo Damansara,30
+Taman Paramount,Phileo Damansara,33
+Taman Bahagia,Phileo Damansara,36
+Kelana Jaya,Phileo Damansara,38
+Lembah Subang,Phileo Damansara,41
+Ara Damansara,Phileo Damansara,43
+Glenmarie,Phileo Damansara,46
+Subang Jaya,Phileo Damansara,47
+SS 15,Phileo Damansara,51
+SS 18,Phileo Damansara,53
+USJ 7 (KJL),Phileo Damansara,56
+Taipan,Phileo Damansara,57
+Wawasan,Phileo Damansara,60
+USJ 21,Phileo Damansara,62
+Alam Megah,Phileo Damansara,65
+Subang Alam,Phileo Damansara,68
+Putra Heights (KJL),Phileo Damansara,72
+Sungai Buloh,Phileo Damansara,31
+Kampung Selamat,Phileo Damansara,24
+Kwasa Damansara,Phileo Damansara,19
+Kwasa Sentral,Phileo Damansara,17
+Kota Damansara,Phileo Damansara,13
+Surian,Phileo Damansara,11
+Mutiara Damansara,Phileo Damansara,9
+Bandar Utama,Phileo Damansara,7
+TTDI,Phileo Damansara,4
+Phileo Damansara,Phileo Damansara,0
+Pusat Bandar Damansara,Phileo Damansara,4
+Semantan,Phileo Damansara,7
+Muzium Negara,Phileo Damansara,9
+Pasar Seni (SBK),Phileo Damansara,12
+Merdeka,Phileo Damansara,15
+Bukit Bintang,Phileo Damansara,18
+Tun Razak Exchange (TRX),Phileo Damansara,25
+Cochrane,Phileo Damansara,28
+Maluri (SBK),Phileo Damansara,31
+Taman Pertama,Phileo Damansara,34
+Taman Midah,Phileo Damansara,36
+Taman Mutiara,Phileo Damansara,37
+Taman Connaught,Phileo Damansara,39
+Taman Suntex,Phileo Damansara,41
+Sri Raya,Phileo Damansara,43
+Bandar Tun Hussein Onn,Phileo Damansara,46
+Batu 11 Cheras,Phileo Damansara,49
+Bukit Dukung,Phileo Damansara,50
+Sungai Jernih,Phileo Damansara,54
+Stadium Kajang,Phileo Damansara,56
+Kajang,Phileo Damansara,58
+Gombak,Pusat Bandar Damansara,38
+Taman Melati,Pusat Bandar Damansara,35
+Wangsa Maju,Pusat Bandar Damansara,31
+Sri Rampai,Pusat Bandar Damansara,29
+Setiawangsa,Pusat Bandar Damansara,23
+Jelatek,Pusat Bandar Damansara,21
+Dato' Keramat,Pusat Bandar Damansara,20
+Damai,Pusat Bandar Damansara,19
+Ampang Park,Pusat Bandar Damansara,17
+KLCC,Pusat Bandar Damansara,16
+Kampung Baru,Pusat Bandar Damansara,14
+Dang Wangi,Pusat Bandar Damansara,12
+Masjid Jamek (KJL),Pusat Bandar Damansara,10
+Pasar Seni (KJL),Pusat Bandar Damansara,9
+KL Sentral (KJL),Pusat Bandar Damansara,12
+Bangsar,Pusat Bandar Damansara,14
+Abdullah Hukum,Pusat Bandar Damansara,17
+Kerinchi,Pusat Bandar Damansara,18
+Universiti,Pusat Bandar Damansara,20
+Taman Jaya,Pusat Bandar Damansara,24
+Asia Jaya,Pusat Bandar Damansara,26
+Taman Paramount,Pusat Bandar Damansara,29
+Taman Bahagia,Pusat Bandar Damansara,32
+Kelana Jaya,Pusat Bandar Damansara,34
+Lembah Subang,Pusat Bandar Damansara,37
+Ara Damansara,Pusat Bandar Damansara,39
+Glenmarie,Pusat Bandar Damansara,42
+Subang Jaya,Pusat Bandar Damansara,43
+SS 15,Pusat Bandar Damansara,47
+SS 18,Pusat Bandar Damansara,49
+USJ 7 (KJL),Pusat Bandar Damansara,52
+Taipan,Pusat Bandar Damansara,53
+Wawasan,Pusat Bandar Damansara,56
+USJ 21,Pusat Bandar Damansara,58
+Alam Megah,Pusat Bandar Damansara,61
+Subang Alam,Pusat Bandar Damansara,64
+Putra Heights (KJL),Pusat Bandar Damansara,68
+Sungai Buloh,Pusat Bandar Damansara,34
+Kampung Selamat,Pusat Bandar Damansara,27
+Kwasa Damansara,Pusat Bandar Damansara,22
+Kwasa Sentral,Pusat Bandar Damansara,20
+Kota Damansara,Pusat Bandar Damansara,16
+Surian,Pusat Bandar Damansara,14
+Mutiara Damansara,Pusat Bandar Damansara,12
+Bandar Utama,Pusat Bandar Damansara,10
+TTDI,Pusat Bandar Damansara,7
+Phileo Damansara,Pusat Bandar Damansara,4
+Pusat Bandar Damansara,Pusat Bandar Damansara,0
+Semantan,Pusat Bandar Damansara,4
+Muzium Negara,Pusat Bandar Damansara,7
+Pasar Seni (SBK),Pusat Bandar Damansara,9
+Merdeka,Pusat Bandar Damansara,12
+Bukit Bintang,Pusat Bandar Damansara,15
+Tun Razak Exchange (TRX),Pusat Bandar Damansara,18
+Cochrane,Pusat Bandar Damansara,25
+Maluri (SBK),Pusat Bandar Damansara,28
+Taman Pertama,Pusat Bandar Damansara,31
+Taman Midah,Pusat Bandar Damansara,34
+Taman Mutiara,Pusat Bandar Damansara,36
+Taman Connaught,Pusat Bandar Damansara,37
+Taman Suntex,Pusat Bandar Damansara,39
+Sri Raya,Pusat Bandar Damansara,41
+Bandar Tun Hussein Onn,Pusat Bandar Damansara,43
+Batu 11 Cheras,Pusat Bandar Damansara,46
+Bukit Dukung,Pusat Bandar Damansara,49
+Sungai Jernih,Pusat Bandar Damansara,50
+Stadium Kajang,Pusat Bandar Damansara,54
+Kajang,Pusat Bandar Damansara,56
+Gombak,Semantan,36
+Taman Melati,Semantan,33
+Wangsa Maju,Semantan,29
+Sri Rampai,Semantan,27
+Setiawangsa,Semantan,21
+Jelatek,Semantan,19
+Dato' Keramat,Semantan,18
+Damai,Semantan,17
+Ampang Park,Semantan,15
+KLCC,Semantan,14
+Kampung Baru,Semantan,12
+Dang Wangi,Semantan,10
+Masjid Jamek (KJL),Semantan,8
+Pasar Seni (KJL),Semantan,7
+KL Sentral (KJL),Semantan,10
+Bangsar,Semantan,12
+Abdullah Hukum,Semantan,15
+Kerinchi,Semantan,16
+Universiti,Semantan,18
+Taman Jaya,Semantan,22
+Asia Jaya,Semantan,24
+Taman Paramount,Semantan,27
+Taman Bahagia,Semantan,30
+Kelana Jaya,Semantan,32
+Lembah Subang,Semantan,35
+Ara Damansara,Semantan,37
+Glenmarie,Semantan,40
+Subang Jaya,Semantan,41
+SS 15,Semantan,45
+SS 18,Semantan,47
+USJ 7 (KJL),Semantan,50
+Taipan,Semantan,51
+Wawasan,Semantan,54
+USJ 21,Semantan,56
+Alam Megah,Semantan,59
+Subang Alam,Semantan,62
+Putra Heights (KJL),Semantan,66
+Sungai Buloh,Semantan,36
+Kampung Selamat,Semantan,29
+Kwasa Damansara,Semantan,24
+Kwasa Sentral,Semantan,22
+Kota Damansara,Semantan,18
+Surian,Semantan,16
+Mutiara Damansara,Semantan,14
+Bandar Utama,Semantan,12
+TTDI,Semantan,9
+Phileo Damansara,Semantan,7
+Pusat Bandar Damansara,Semantan,4
+Semantan,Semantan,0
+Muzium Negara,Semantan,4
+Pasar Seni (SBK),Semantan,7
+Merdeka,Semantan,9
+Bukit Bintang,Semantan,12
+Tun Razak Exchange (TRX),Semantan,15
+Cochrane,Semantan,18
+Maluri (SBK),Semantan,25
+Taman Pertama,Semantan,28
+Taman Midah,Semantan,31
+Taman Mutiara,Semantan,34
+Taman Connaught,Semantan,36
+Taman Suntex,Semantan,37
+Sri Raya,Semantan,39
+Bandar Tun Hussein Onn,Semantan,41
+Batu 11 Cheras,Semantan,43
+Bukit Dukung,Semantan,46
+Sungai Jernih,Semantan,49
+Stadium Kajang,Semantan,50
+Kajang,Semantan,54
+Gombak,Muzium Negara,32
+Taman Melati,Muzium Negara,29
+Wangsa Maju,Muzium Negara,25
+Sri Rampai,Muzium Negara,23
+Setiawangsa,Muzium Negara,17
+Jelatek,Muzium Negara,15
+Dato' Keramat,Muzium Negara,14
+Damai,Muzium Negara,13
+Ampang Park,Muzium Negara,11
+KLCC,Muzium Negara,10
+Kampung Baru,Muzium Negara,8
+Dang Wangi,Muzium Negara,6
+Masjid Jamek (KJL),Muzium Negara,4
+Pasar Seni (KJL),Muzium Negara,3
+KL Sentral (KJL),Muzium Negara,6
+Bangsar,Muzium Negara,8
+Abdullah Hukum,Muzium Negara,11
+Kerinchi,Muzium Negara,12
+Universiti,Muzium Negara,14
+Taman Jaya,Muzium Negara,18
+Asia Jaya,Muzium Negara,20
+Taman Paramount,Muzium Negara,23
+Taman Bahagia,Muzium Negara,26
+Kelana Jaya,Muzium Negara,28
+Lembah Subang,Muzium Negara,31
+Ara Damansara,Muzium Negara,33
+Glenmarie,Muzium Negara,36
+Subang Jaya,Muzium Negara,37
+SS 15,Muzium Negara,41
+SS 18,Muzium Negara,43
+USJ 7 (KJL),Muzium Negara,46
+Taipan,Muzium Negara,47
+Wawasan,Muzium Negara,50
+USJ 21,Muzium Negara,52
+Alam Megah,Muzium Negara,55
+Subang Alam,Muzium Negara,58
+Putra Heights (KJL),Muzium Negara,62
+Sungai Buloh,Muzium Negara,37
+Kampung Selamat,Muzium Negara,34
+Kwasa Damansara,Muzium Negara,29
+Kwasa Sentral,Muzium Negara,27
+Kota Damansara,Muzium Negara,23
+Surian,Muzium Negara,21
+Mutiara Damansara,Muzium Negara,19
+Bandar Utama,Muzium Negara,17
+TTDI,Muzium Negara,11
+Phileo Damansara,Muzium Negara,10
+Pusat Bandar Damansara,Muzium Negara,7
+Semantan,Muzium Negara,4
+Muzium Negara,Muzium Negara,0
+Pasar Seni (SBK),Muzium Negara,4
+Merdeka,Muzium Negara,7
+Bukit Bintang,Muzium Negara,9
+Tun Razak Exchange (TRX),Muzium Negara,12
+Cochrane,Muzium Negara,15
+Maluri (SBK),Muzium Negara,18
+Taman Pertama,Muzium Negara,25
+Taman Midah,Muzium Negara,28
+Taman Mutiara,Muzium Negara,31
+Taman Connaught,Muzium Negara,34
+Taman Suntex,Muzium Negara,36
+Sri Raya,Muzium Negara,37
+Bandar Tun Hussein Onn,Muzium Negara,39
+Batu 11 Cheras,Muzium Negara,41
+Bukit Dukung,Muzium Negara,43
+Sungai Jernih,Muzium Negara,46
+Stadium Kajang,Muzium Negara,49
+Kajang,Muzium Negara,50
+Gombak,Pasar Seni (SBK),30
+Taman Melati,Pasar Seni (SBK),27
+Wangsa Maju,Pasar Seni (SBK),23
+Sri Rampai,Pasar Seni (SBK),21
+Setiawangsa,Pasar Seni (SBK),15
+Jelatek,Pasar Seni (SBK),13
+Dato' Keramat,Pasar Seni (SBK),12
+Damai,Pasar Seni (SBK),11
+Ampang Park,Pasar Seni (SBK),9
+KLCC,Pasar Seni (SBK),8
+Kampung Baru,Pasar Seni (SBK),6
+Dang Wangi,Pasar Seni (SBK),4
+Masjid Jamek (KJL),Pasar Seni (SBK),2
+Pasar Seni (KJL),Pasar Seni (SBK),1
+KL Sentral (KJL),Pasar Seni (SBK),4
+Bangsar,Pasar Seni (SBK),6
+Abdullah Hukum,Pasar Seni (SBK),9
+Kerinchi,Pasar Seni (SBK),10
+Universiti,Pasar Seni (SBK),12
+Taman Jaya,Pasar Seni (SBK),16
+Asia Jaya,Pasar Seni (SBK),18
+Taman Paramount,Pasar Seni (SBK),21
+Taman Bahagia,Pasar Seni (SBK),24
+Kelana Jaya,Pasar Seni (SBK),26
+Lembah Subang,Pasar Seni (SBK),29
+Ara Damansara,Pasar Seni (SBK),31
+Glenmarie,Pasar Seni (SBK),34
+Subang Jaya,Pasar Seni (SBK),35
+SS 15,Pasar Seni (SBK),39
+SS 18,Pasar Seni (SBK),41
+USJ 7 (KJL),Pasar Seni (SBK),44
+Taipan,Pasar Seni (SBK),45
+Wawasan,Pasar Seni (SBK),48
+USJ 21,Pasar Seni (SBK),50
+Alam Megah,Pasar Seni (SBK),53
+Subang Alam,Pasar Seni (SBK),56
+Putra Heights (KJL),Pasar Seni (SBK),60
+Sungai Buloh,Pasar Seni (SBK),39
+Kampung Selamat,Pasar Seni (SBK),36
+Kwasa Damansara,Pasar Seni (SBK),31
+Kwasa Sentral,Pasar Seni (SBK),29
+Kota Damansara,Pasar Seni (SBK),25
+Surian,Pasar Seni (SBK),23
+Mutiara Damansara,Pasar Seni (SBK),21
+Bandar Utama,Pasar Seni (SBK),19
+TTDI,Pasar Seni (SBK),15
+Phileo Damansara,Pasar Seni (SBK),11
+Pusat Bandar Damansara,Pasar Seni (SBK),10
+Semantan,Pasar Seni (SBK),7
+Muzium Negara,Pasar Seni (SBK),4
+Pasar Seni (SBK),Pasar Seni (SBK),0
+Merdeka,Pasar Seni (SBK),4
+Bukit Bintang,Pasar Seni (SBK),7
+Tun Razak Exchange (TRX),Pasar Seni (SBK),9
+Cochrane,Pasar Seni (SBK),12
+Maluri (SBK),Pasar Seni (SBK),15
+Taman Pertama,Pasar Seni (SBK),18
+Taman Midah,Pasar Seni (SBK),25
+Taman Mutiara,Pasar Seni (SBK),28
+Taman Connaught,Pasar Seni (SBK),31
+Taman Suntex,Pasar Seni (SBK),34
+Sri Raya,Pasar Seni (SBK),36
+Bandar Tun Hussein Onn,Pasar Seni (SBK),37
+Batu 11 Cheras,Pasar Seni (SBK),39
+Bukit Dukung,Pasar Seni (SBK),41
+Sungai Jernih,Pasar Seni (SBK),43
+Stadium Kajang,Pasar Seni (SBK),46
+Kajang,Pasar Seni (SBK),49
+Gombak,Merdeka,31
+Taman Melati,Merdeka,28
+Wangsa Maju,Merdeka,24
+Sri Rampai,Merdeka,22
+Setiawangsa,Merdeka,16
+Jelatek,Merdeka,14
+Dato' Keramat,Merdeka,13
+Damai,Merdeka,12
+Ampang Park,Merdeka,10
+KLCC,Merdeka,9
+Kampung Baru,Merdeka,7
+Dang Wangi,Merdeka,5
+Masjid Jamek (KJL),Merdeka,3
+Pasar Seni (KJL),Merdeka,2
+KL Sentral (KJL),Merdeka,5
+Bangsar,Merdeka,7
+Abdullah Hukum,Merdeka,10
+Kerinchi,Merdeka,11
+Universiti,Merdeka,13
+Taman Jaya,Merdeka,17
+Asia Jaya,Merdeka,19
+Taman Paramount,Merdeka,22
+Taman Bahagia,Merdeka,25
+Kelana Jaya,Merdeka,27
+Lembah Subang,Merdeka,30
+Ara Damansara,Merdeka,32
+Glenmarie,Merdeka,35
+Subang Jaya,Merdeka,36
+SS 15,Merdeka,40
+SS 18,Merdeka,42
+USJ 7 (KJL),Merdeka,45
+Taipan,Merdeka,46
+Wawasan,Merdeka,49
+USJ 21,Merdeka,51
+Alam Megah,Merdeka,54
+Subang Alam,Merdeka,57
+Putra Heights (KJL),Merdeka,61
+Sungai Buloh,Merdeka,41
+Kampung Selamat,Merdeka,38
+Kwasa Damansara,Merdeka,33
+Kwasa Sentral,Merdeka,31
+Kota Damansara,Merdeka,27
+Surian,Merdeka,25
+Mutiara Damansara,Merdeka,23
+Bandar Utama,Merdeka,21
+TTDI,Merdeka,19
+Phileo Damansara,Merdeka,11
+Pusat Bandar Damansara,Merdeka,11
+Semantan,Merdeka,10
+Muzium Negara,Merdeka,7
+Pasar Seni (SBK),Merdeka,4
+Merdeka,Merdeka,0
+Bukit Bintang,Merdeka,4
+Tun Razak Exchange (TRX),Merdeka,7
+Cochrane,Merdeka,9
+Maluri (SBK),Merdeka,12
+Taman Pertama,Merdeka,15
+Taman Midah,Merdeka,18
+Taman Mutiara,Merdeka,25
+Taman Connaught,Merdeka,28
+Taman Suntex,Merdeka,31
+Sri Raya,Merdeka,34
+Bandar Tun Hussein Onn,Merdeka,36
+Batu 11 Cheras,Merdeka,37
+Bukit Dukung,Merdeka,39
+Sungai Jernih,Merdeka,41
+Stadium Kajang,Merdeka,43
+Kajang,Merdeka,46
+Gombak,Bukit Bintang,34
+Taman Melati,Bukit Bintang,31
+Wangsa Maju,Bukit Bintang,27
+Sri Rampai,Bukit Bintang,25
+Setiawangsa,Bukit Bintang,19
+Jelatek,Bukit Bintang,17
+Dato' Keramat,Bukit Bintang,16
+Damai,Bukit Bintang,15
+Ampang Park,Bukit Bintang,13
+KLCC,Bukit Bintang,12
+Kampung Baru,Bukit Bintang,10
+Dang Wangi,Bukit Bintang,8
+Masjid Jamek (KJL),Bukit Bintang,6
+Pasar Seni (KJL),Bukit Bintang,5
+KL Sentral (KJL),Bukit Bintang,8
+Bangsar,Bukit Bintang,10
+Abdullah Hukum,Bukit Bintang,13
+Kerinchi,Bukit Bintang,14
+Universiti,Bukit Bintang,16
+Taman Jaya,Bukit Bintang,20
+Asia Jaya,Bukit Bintang,22
+Taman Paramount,Bukit Bintang,25
+Taman Bahagia,Bukit Bintang,28
+Kelana Jaya,Bukit Bintang,30
+Lembah Subang,Bukit Bintang,33
+Ara Damansara,Bukit Bintang,35
+Glenmarie,Bukit Bintang,38
+Subang Jaya,Bukit Bintang,39
+SS 15,Bukit Bintang,43
+SS 18,Bukit Bintang,45
+USJ 7 (KJL),Bukit Bintang,48
+Taipan,Bukit Bintang,49
+Wawasan,Bukit Bintang,52
+USJ 21,Bukit Bintang,54
+Alam Megah,Bukit Bintang,57
+Subang Alam,Bukit Bintang,60
+Putra Heights (KJL),Bukit Bintang,64
+Sungai Buloh,Bukit Bintang,43
+Kampung Selamat,Bukit Bintang,40
+Kwasa Damansara,Bukit Bintang,35
+Kwasa Sentral,Bukit Bintang,33
+Kota Damansara,Bukit Bintang,30
+Surian,Bukit Bintang,28
+Mutiara Damansara,Bukit Bintang,25
+Bandar Utama,Bukit Bintang,24
+TTDI,Bukit Bintang,21
+Phileo Damansara,Bukit Bintang,16
+Pusat Bandar Damansara,Bukit Bintang,11
+Semantan,Bukit Bintang,11
+Muzium Negara,Bukit Bintang,10
+Pasar Seni (SBK),Bukit Bintang,7
+Merdeka,Bukit Bintang,4
+Bukit Bintang,Bukit Bintang,0
+Tun Razak Exchange (TRX),Bukit Bintang,4
+Cochrane,Bukit Bintang,7
+Maluri (SBK),Bukit Bintang,9
+Taman Pertama,Bukit Bintang,12
+Taman Midah,Bukit Bintang,15
+Taman Mutiara,Bukit Bintang,18
+Taman Connaught,Bukit Bintang,25
+Taman Suntex,Bukit Bintang,28
+Sri Raya,Bukit Bintang,31
+Bandar Tun Hussein Onn,Bukit Bintang,34
+Batu 11 Cheras,Bukit Bintang,36
+Bukit Dukung,Bukit Bintang,37
+Sungai Jernih,Bukit Bintang,39
+Stadium Kajang,Bukit Bintang,41
+Kajang,Bukit Bintang,43
+Gombak,Tun Razak Exchange (TRX),36
+Taman Melati,Tun Razak Exchange (TRX),33
+Wangsa Maju,Tun Razak Exchange (TRX),29
+Sri Rampai,Tun Razak Exchange (TRX),27
+Setiawangsa,Tun Razak Exchange (TRX),21
+Jelatek,Tun Razak Exchange (TRX),19
+Dato' Keramat,Tun Razak Exchange (TRX),18
+Damai,Tun Razak Exchange (TRX),17
+Ampang Park,Tun Razak Exchange (TRX),15
+KLCC,Tun Razak Exchange (TRX),14
+Kampung Baru,Tun Razak Exchange (TRX),12
+Dang Wangi,Tun Razak Exchange (TRX),10
+Masjid Jamek (KJL),Tun Razak Exchange (TRX),8
+Pasar Seni (KJL),Tun Razak Exchange (TRX),7
+KL Sentral (KJL),Tun Razak Exchange (TRX),10
+Bangsar,Tun Razak Exchange (TRX),12
+Abdullah Hukum,Tun Razak Exchange (TRX),15
+Kerinchi,Tun Razak Exchange (TRX),16
+Universiti,Tun Razak Exchange (TRX),18
+Taman Jaya,Tun Razak Exchange (TRX),22
+Asia Jaya,Tun Razak Exchange (TRX),24
+Taman Paramount,Tun Razak Exchange (TRX),27
+Taman Bahagia,Tun Razak Exchange (TRX),30
+Kelana Jaya,Tun Razak Exchange (TRX),32
+Lembah Subang,Tun Razak Exchange (TRX),35
+Ara Damansara,Tun Razak Exchange (TRX),37
+Glenmarie,Tun Razak Exchange (TRX),40
+Subang Jaya,Tun Razak Exchange (TRX),41
+SS 15,Tun Razak Exchange (TRX),45
+SS 18,Tun Razak Exchange (TRX),47
+USJ 7 (KJL),Tun Razak Exchange (TRX),50
+Taipan,Tun Razak Exchange (TRX),51
+Wawasan,Tun Razak Exchange (TRX),54
+USJ 21,Tun Razak Exchange (TRX),56
+Alam Megah,Tun Razak Exchange (TRX),59
+Subang Alam,Tun Razak Exchange (TRX),62
+Putra Heights (KJL),Tun Razak Exchange (TRX),66
+Sungai Buloh,Tun Razak Exchange (TRX),46
+Kampung Selamat,Tun Razak Exchange (TRX),43
+Kwasa Damansara,Tun Razak Exchange (TRX),38
+Kwasa Sentral,Tun Razak Exchange (TRX),36
+Kota Damansara,Tun Razak Exchange (TRX),32
+Surian,Tun Razak Exchange (TRX),30
+Mutiara Damansara,Tun Razak Exchange (TRX),28
+Bandar Utama,Tun Razak Exchange (TRX),26
+TTDI,Tun Razak Exchange (TRX),23
+Phileo Damansara,Tun Razak Exchange (TRX),21
+Pusat Bandar Damansara,Tun Razak Exchange (TRX),16
+Semantan,Tun Razak Exchange (TRX),11
+Muzium Negara,Tun Razak Exchange (TRX),11
+Pasar Seni (SBK),Tun Razak Exchange (TRX),10
+Merdeka,Tun Razak Exchange (TRX),7
+Bukit Bintang,Tun Razak Exchange (TRX),4
+Tun Razak Exchange (TRX),Tun Razak Exchange (TRX),0
+Cochrane,Tun Razak Exchange (TRX),4
+Maluri (SBK),Tun Razak Exchange (TRX),7
+Taman Pertama,Tun Razak Exchange (TRX),9
+Taman Midah,Tun Razak Exchange (TRX),12
+Taman Mutiara,Tun Razak Exchange (TRX),15
+Taman Connaught,Tun Razak Exchange (TRX),18
+Taman Suntex,Tun Razak Exchange (TRX),25
+Sri Raya,Tun Razak Exchange (TRX),28
+Bandar Tun Hussein Onn,Tun Razak Exchange (TRX),31
+Batu 11 Cheras,Tun Razak Exchange (TRX),34
+Bukit Dukung,Tun Razak Exchange (TRX),36
+Sungai Jernih,Tun Razak Exchange (TRX),37
+Stadium Kajang,Tun Razak Exchange (TRX),39
+Kajang,Tun Razak Exchange (TRX),41
+Gombak,Cochrane,39
+Taman Melati,Cochrane,36
+Wangsa Maju,Cochrane,32
+Sri Rampai,Cochrane,30
+Setiawangsa,Cochrane,24
+Jelatek,Cochrane,22
+Dato' Keramat,Cochrane,21
+Damai,Cochrane,20
+Ampang Park,Cochrane,18
+KLCC,Cochrane,17
+Kampung Baru,Cochrane,15
+Dang Wangi,Cochrane,13
+Masjid Jamek (KJL),Cochrane,11
+Pasar Seni (KJL),Cochrane,10
+KL Sentral (KJL),Cochrane,13
+Bangsar,Cochrane,15
+Abdullah Hukum,Cochrane,18
+Kerinchi,Cochrane,19
+Universiti,Cochrane,21
+Taman Jaya,Cochrane,25
+Asia Jaya,Cochrane,27
+Taman Paramount,Cochrane,30
+Taman Bahagia,Cochrane,33
+Kelana Jaya,Cochrane,35
+Lembah Subang,Cochrane,38
+Ara Damansara,Cochrane,40
+Glenmarie,Cochrane,43
+Subang Jaya,Cochrane,44
+SS 15,Cochrane,48
+SS 18,Cochrane,50
+USJ 7 (KJL),Cochrane,53
+Taipan,Cochrane,54
+Wawasan,Cochrane,57
+USJ 21,Cochrane,59
+Alam Megah,Cochrane,62
+Subang Alam,Cochrane,65
+Putra Heights (KJL),Cochrane,69
+Sungai Buloh,Cochrane,49
+Kampung Selamat,Cochrane,46
+Kwasa Damansara,Cochrane,41
+Kwasa Sentral,Cochrane,39
+Kota Damansara,Cochrane,35
+Surian,Cochrane,33
+Mutiara Damansara,Cochrane,31
+Bandar Utama,Cochrane,29
+TTDI,Cochrane,25
+Phileo Damansara,Cochrane,23
+Pusat Bandar Damansara,Cochrane,21
+Semantan,Cochrane,16
+Muzium Negara,Cochrane,11
+Pasar Seni (SBK),Cochrane,11
+Merdeka,Cochrane,10
+Bukit Bintang,Cochrane,7
+Tun Razak Exchange (TRX),Cochrane,4
+Cochrane,Cochrane,0
+Maluri (SBK),Cochrane,4
+Taman Pertama,Cochrane,7
+Taman Midah,Cochrane,9
+Taman Mutiara,Cochrane,12
+Taman Connaught,Cochrane,15
+Taman Suntex,Cochrane,18
+Sri Raya,Cochrane,25
+Bandar Tun Hussein Onn,Cochrane,28
+Batu 11 Cheras,Cochrane,31
+Bukit Dukung,Cochrane,34
+Sungai Jernih,Cochrane,36
+Stadium Kajang,Cochrane,37
+Kajang,Cochrane,39
+Gombak,Maluri (SBK),40
+Taman Melati,Maluri (SBK),37
+Wangsa Maju,Maluri (SBK),33
+Sri Rampai,Maluri (SBK),31
+Setiawangsa,Maluri (SBK),25
+Jelatek,Maluri (SBK),23
+Dato' Keramat,Maluri (SBK),22
+Damai,Maluri (SBK),21
+Ampang Park,Maluri (SBK),19
+KLCC,Maluri (SBK),18
+Kampung Baru,Maluri (SBK),16
+Dang Wangi,Maluri (SBK),14
+Masjid Jamek (KJL),Maluri (SBK),12
+Pasar Seni (KJL),Maluri (SBK),11
+KL Sentral (KJL),Maluri (SBK),14
+Bangsar,Maluri (SBK),16
+Abdullah Hukum,Maluri (SBK),19
+Kerinchi,Maluri (SBK),20
+Universiti,Maluri (SBK),22
+Taman Jaya,Maluri (SBK),26
+Asia Jaya,Maluri (SBK),28
+Taman Paramount,Maluri (SBK),31
+Taman Bahagia,Maluri (SBK),34
+Kelana Jaya,Maluri (SBK),36
+Lembah Subang,Maluri (SBK),39
+Ara Damansara,Maluri (SBK),41
+Glenmarie,Maluri (SBK),44
+Subang Jaya,Maluri (SBK),45
+SS 15,Maluri (SBK),49
+SS 18,Maluri (SBK),51
+USJ 7 (KJL),Maluri (SBK),54
+Taipan,Maluri (SBK),55
+Wawasan,Maluri (SBK),58
+USJ 21,Maluri (SBK),60
+Alam Megah,Maluri (SBK),63
+Subang Alam,Maluri (SBK),66
+Putra Heights (KJL),Maluri (SBK),70
+Sungai Buloh,Maluri (SBK),50
+Kampung Selamat,Maluri (SBK),47
+Kwasa Damansara,Maluri (SBK),44
+Kwasa Sentral,Maluri (SBK),40
+Kota Damansara,Maluri (SBK),36
+Surian,Maluri (SBK),34
+Mutiara Damansara,Maluri (SBK),32
+Bandar Utama,Maluri (SBK),30
+TTDI,Maluri (SBK),28
+Phileo Damansara,Maluri (SBK),25
+Pusat Bandar Damansara,Maluri (SBK),23
+Semantan,Maluri (SBK),21
+Muzium Negara,Maluri (SBK),16
+Pasar Seni (SBK),Maluri (SBK),11
+Merdeka,Maluri (SBK),11
+Bukit Bintang,Maluri (SBK),10
+Tun Razak Exchange (TRX),Maluri (SBK),7
+Cochrane,Maluri (SBK),4
+Maluri (SBK),Maluri (SBK),0
+Taman Pertama,Maluri (SBK),4
+Taman Midah,Maluri (SBK),7
+Taman Mutiara,Maluri (SBK),9
+Taman Connaught,Maluri (SBK),12
+Taman Suntex,Maluri (SBK),15
+Sri Raya,Maluri (SBK),18
+Bandar Tun Hussein Onn,Maluri (SBK),25
+Batu 11 Cheras,Maluri (SBK),28
+Bukit Dukung,Maluri (SBK),31
+Sungai Jernih,Maluri (SBK),34
+Stadium Kajang,Maluri (SBK),36
+Kajang,Maluri (SBK),37
+Gombak,Taman Pertama,44
+Taman Melati,Taman Pertama,41
+Wangsa Maju,Taman Pertama,37
+Sri Rampai,Taman Pertama,35
+Setiawangsa,Taman Pertama,29
+Jelatek,Taman Pertama,27
+Dato' Keramat,Taman Pertama,26
+Damai,Taman Pertama,25
+Ampang Park,Taman Pertama,23
+KLCC,Taman Pertama,22
+Kampung Baru,Taman Pertama,20
+Dang Wangi,Taman Pertama,18
+Masjid Jamek (KJL),Taman Pertama,16
+Pasar Seni (KJL),Taman Pertama,15
+KL Sentral (KJL),Taman Pertama,18
+Bangsar,Taman Pertama,20
+Abdullah Hukum,Taman Pertama,23
+Kerinchi,Taman Pertama,24
+Universiti,Taman Pertama,26
+Taman Jaya,Taman Pertama,30
+Asia Jaya,Taman Pertama,32
+Taman Paramount,Taman Pertama,35
+Taman Bahagia,Taman Pertama,38
+Kelana Jaya,Taman Pertama,40
+Lembah Subang,Taman Pertama,43
+Ara Damansara,Taman Pertama,45
+Glenmarie,Taman Pertama,48
+Subang Jaya,Taman Pertama,49
+SS 15,Taman Pertama,53
+SS 18,Taman Pertama,55
+USJ 7 (KJL),Taman Pertama,58
+Taipan,Taman Pertama,59
+Wawasan,Taman Pertama,62
+USJ 21,Taman Pertama,64
+Alam Megah,Taman Pertama,67
+Subang Alam,Taman Pertama,70
+Putra Heights (KJL),Taman Pertama,74
+Sungai Buloh,Taman Pertama,54
+Kampung Selamat,Taman Pertama,51
+Kwasa Damansara,Taman Pertama,46
+Kwasa Sentral,Taman Pertama,44
+Kota Damansara,Taman Pertama,40
+Surian,Taman Pertama,38
+Mutiara Damansara,Taman Pertama,36
+Bandar Utama,Taman Pertama,34
+TTDI,Taman Pertama,30
+Phileo Damansara,Taman Pertama,28
+Pusat Bandar Damansara,Taman Pertama,25
+Semantan,Taman Pertama,23
+Muzium Negara,Taman Pertama,21
+Pasar Seni (SBK),Taman Pertama,16
+Merdeka,Taman Pertama,11
+Bukit Bintang,Taman Pertama,11
+Tun Razak Exchange (TRX),Taman Pertama,10
+Cochrane,Taman Pertama,7
+Maluri (SBK),Taman Pertama,4
+Taman Pertama,Taman Pertama,0
+Taman Midah,Taman Pertama,4
+Taman Mutiara,Taman Pertama,7
+Taman Connaught,Taman Pertama,9
+Taman Suntex,Taman Pertama,12
+Sri Raya,Taman Pertama,15
+Bandar Tun Hussein Onn,Taman Pertama,18
+Batu 11 Cheras,Taman Pertama,25
+Bukit Dukung,Taman Pertama,28
+Sungai Jernih,Taman Pertama,31
+Stadium Kajang,Taman Pertama,34
+Kajang,Taman Pertama,36
+Gombak,Taman Midah,46
+Taman Melati,Taman Midah,43
+Wangsa Maju,Taman Midah,39
+Sri Rampai,Taman Midah,37
+Setiawangsa,Taman Midah,31
+Jelatek,Taman Midah,29
+Dato' Keramat,Taman Midah,28
+Damai,Taman Midah,27
+Ampang Park,Taman Midah,25
+KLCC,Taman Midah,24
+Kampung Baru,Taman Midah,22
+Dang Wangi,Taman Midah,20
+Masjid Jamek (KJL),Taman Midah,18
+Pasar Seni (KJL),Taman Midah,17
+KL Sentral (KJL),Taman Midah,20
+Bangsar,Taman Midah,22
+Abdullah Hukum,Taman Midah,25
+Kerinchi,Taman Midah,26
+Universiti,Taman Midah,28
+Taman Jaya,Taman Midah,32
+Asia Jaya,Taman Midah,34
+Taman Paramount,Taman Midah,37
+Taman Bahagia,Taman Midah,40
+Kelana Jaya,Taman Midah,42
+Lembah Subang,Taman Midah,45
+Ara Damansara,Taman Midah,47
+Glenmarie,Taman Midah,50
+Subang Jaya,Taman Midah,51
+SS 15,Taman Midah,55
+SS 18,Taman Midah,57
+USJ 7 (KJL),Taman Midah,60
+Taipan,Taman Midah,61
+Wawasan,Taman Midah,64
+USJ 21,Taman Midah,66
+Alam Megah,Taman Midah,69
+Subang Alam,Taman Midah,72
+Putra Heights (KJL),Taman Midah,76
+Sungai Buloh,Taman Midah,56
+Kampung Selamat,Taman Midah,53
+Kwasa Damansara,Taman Midah,48
+Kwasa Sentral,Taman Midah,46
+Kota Damansara,Taman Midah,42
+Surian,Taman Midah,40
+Mutiara Damansara,Taman Midah,38
+Bandar Utama,Taman Midah,36
+TTDI,Taman Midah,33
+Phileo Damansara,Taman Midah,30
+Pusat Bandar Damansara,Taman Midah,28
+Semantan,Taman Midah,25
+Muzium Negara,Taman Midah,23
+Pasar Seni (SBK),Taman Midah,21
+Merdeka,Taman Midah,16
+Bukit Bintang,Taman Midah,11
+Tun Razak Exchange (TRX),Taman Midah,11
+Cochrane,Taman Midah,10
+Maluri (SBK),Taman Midah,7
+Taman Pertama,Taman Midah,4
+Taman Midah,Taman Midah,0
+Taman Mutiara,Taman Midah,4
+Taman Connaught,Taman Midah,7
+Taman Suntex,Taman Midah,9
+Sri Raya,Taman Midah,12
+Bandar Tun Hussein Onn,Taman Midah,15
+Batu 11 Cheras,Taman Midah,18
+Bukit Dukung,Taman Midah,25
+Sungai Jernih,Taman Midah,28
+Stadium Kajang,Taman Midah,31
+Kajang,Taman Midah,34
+Gombak,Taman Mutiara,48
+Taman Melati,Taman Mutiara,45
+Wangsa Maju,Taman Mutiara,41
+Sri Rampai,Taman Mutiara,39
+Setiawangsa,Taman Mutiara,33
+Jelatek,Taman Mutiara,31
+Dato' Keramat,Taman Mutiara,30
+Damai,Taman Mutiara,29
+Ampang Park,Taman Mutiara,27
+KLCC,Taman Mutiara,26
+Kampung Baru,Taman Mutiara,24
+Dang Wangi,Taman Mutiara,22
+Masjid Jamek (KJL),Taman Mutiara,20
+Pasar Seni (KJL),Taman Mutiara,19
+KL Sentral (KJL),Taman Mutiara,22
+Bangsar,Taman Mutiara,24
+Abdullah Hukum,Taman Mutiara,27
+Kerinchi,Taman Mutiara,28
+Universiti,Taman Mutiara,30
+Taman Jaya,Taman Mutiara,34
+Asia Jaya,Taman Mutiara,36
+Taman Paramount,Taman Mutiara,39
+Taman Bahagia,Taman Mutiara,42
+Kelana Jaya,Taman Mutiara,44
+Lembah Subang,Taman Mutiara,47
+Ara Damansara,Taman Mutiara,49
+Glenmarie,Taman Mutiara,52
+Subang Jaya,Taman Mutiara,53
+SS 15,Taman Mutiara,57
+SS 18,Taman Mutiara,59
+USJ 7 (KJL),Taman Mutiara,62
+Taipan,Taman Mutiara,63
+Wawasan,Taman Mutiara,66
+USJ 21,Taman Mutiara,68
+Alam Megah,Taman Mutiara,71
+Subang Alam,Taman Mutiara,74
+Putra Heights (KJL),Taman Mutiara,78
+Sungai Buloh,Taman Mutiara,58
+Kampung Selamat,Taman Mutiara,61
+Kwasa Damansara,Taman Mutiara,50
+Kwasa Sentral,Taman Mutiara,48
+Kota Damansara,Taman Mutiara,44
+Surian,Taman Mutiara,42
+Mutiara Damansara,Taman Mutiara,40
+Bandar Utama,Taman Mutiara,38
+TTDI,Taman Mutiara,35
+Phileo Damansara,Taman Mutiara,33
+Pusat Bandar Damansara,Taman Mutiara,30
+Semantan,Taman Mutiara,28
+Muzium Negara,Taman Mutiara,25
+Pasar Seni (SBK),Taman Mutiara,23
+Merdeka,Taman Mutiara,21
+Bukit Bintang,Taman Mutiara,16
+Tun Razak Exchange (TRX),Taman Mutiara,11
+Cochrane,Taman Mutiara,11
+Maluri (SBK),Taman Mutiara,10
+Taman Pertama,Taman Mutiara,7
+Taman Midah,Taman Mutiara,4
+Taman Mutiara,Taman Mutiara,0
+Taman Connaught,Taman Mutiara,4
+Taman Suntex,Taman Mutiara,7
+Sri Raya,Taman Mutiara,9
+Bandar Tun Hussein Onn,Taman Mutiara,12
+Batu 11 Cheras,Taman Mutiara,15
+Bukit Dukung,Taman Mutiara,18
+Sungai Jernih,Taman Mutiara,25
+Stadium Kajang,Taman Mutiara,28
+Kajang,Taman Mutiara,31
+Gombak,Taman Connaught,51
+Taman Melati,Taman Connaught,48
+Wangsa Maju,Taman Connaught,44
+Sri Rampai,Taman Connaught,42
+Setiawangsa,Taman Connaught,36
+Jelatek,Taman Connaught,34
+Dato' Keramat,Taman Connaught,33
+Damai,Taman Connaught,32
+Ampang Park,Taman Connaught,30
+KLCC,Taman Connaught,29
+Kampung Baru,Taman Connaught,27
+Dang Wangi,Taman Connaught,25
+Masjid Jamek (KJL),Taman Connaught,23
+Pasar Seni (KJL),Taman Connaught,22
+KL Sentral (KJL),Taman Connaught,25
+Bangsar,Taman Connaught,27
+Abdullah Hukum,Taman Connaught,30
+Kerinchi,Taman Connaught,31
+Universiti,Taman Connaught,33
+Taman Jaya,Taman Connaught,37
+Asia Jaya,Taman Connaught,39
+Taman Paramount,Taman Connaught,42
+Taman Bahagia,Taman Connaught,45
+Kelana Jaya,Taman Connaught,47
+Lembah Subang,Taman Connaught,50
+Ara Damansara,Taman Connaught,52
+Glenmarie,Taman Connaught,55
+Subang Jaya,Taman Connaught,56
+SS 15,Taman Connaught,60
+SS 18,Taman Connaught,62
+USJ 7 (KJL),Taman Connaught,65
+Taipan,Taman Connaught,66
+Wawasan,Taman Connaught,69
+USJ 21,Taman Connaught,71
+Alam Megah,Taman Connaught,74
+Subang Alam,Taman Connaught,77
+Putra Heights (KJL),Taman Connaught,81
+Sungai Buloh,Taman Connaught,61
+Kampung Selamat,Taman Connaught,64
+Kwasa Damansara,Taman Connaught,53
+Kwasa Sentral,Taman Connaught,51
+Kota Damansara,Taman Connaught,47
+Surian,Taman Connaught,45
+Mutiara Damansara,Taman Connaught,43
+Bandar Utama,Taman Connaught,41
+TTDI,Taman Connaught,38
+Phileo Damansara,Taman Connaught,35
+Pusat Bandar Damansara,Taman Connaught,33
+Semantan,Taman Connaught,30
+Muzium Negara,Taman Connaught,28
+Pasar Seni (SBK),Taman Connaught,25
+Merdeka,Taman Connaught,23
+Bukit Bintang,Taman Connaught,21
+Tun Razak Exchange (TRX),Taman Connaught,16
+Cochrane,Taman Connaught,11
+Maluri (SBK),Taman Connaught,11
+Taman Pertama,Taman Connaught,10
+Taman Midah,Taman Connaught,7
+Taman Mutiara,Taman Connaught,4
+Taman Connaught,Taman Connaught,0
+Taman Suntex,Taman Connaught,4
+Sri Raya,Taman Connaught,7
+Bandar Tun Hussein Onn,Taman Connaught,9
+Batu 11 Cheras,Taman Connaught,12
+Bukit Dukung,Taman Connaught,15
+Sungai Jernih,Taman Connaught,18
+Stadium Kajang,Taman Connaught,25
+Kajang,Taman Connaught,28
+Gombak,Taman Suntex,53
+Taman Melati,Taman Suntex,50
+Wangsa Maju,Taman Suntex,46
+Sri Rampai,Taman Suntex,44
+Setiawangsa,Taman Suntex,38
+Jelatek,Taman Suntex,36
+Dato' Keramat,Taman Suntex,35
+Damai,Taman Suntex,34
+Ampang Park,Taman Suntex,32
+KLCC,Taman Suntex,31
+Kampung Baru,Taman Suntex,29
+Dang Wangi,Taman Suntex,27
+Masjid Jamek (KJL),Taman Suntex,25
+Pasar Seni (KJL),Taman Suntex,24
+KL Sentral (KJL),Taman Suntex,27
+Bangsar,Taman Suntex,29
+Abdullah Hukum,Taman Suntex,32
+Kerinchi,Taman Suntex,33
+Universiti,Taman Suntex,35
+Taman Jaya,Taman Suntex,39
+Asia Jaya,Taman Suntex,41
+Taman Paramount,Taman Suntex,44
+Taman Bahagia,Taman Suntex,47
+Kelana Jaya,Taman Suntex,49
+Lembah Subang,Taman Suntex,52
+Ara Damansara,Taman Suntex,54
+Glenmarie,Taman Suntex,57
+Subang Jaya,Taman Suntex,58
+SS 15,Taman Suntex,62
+SS 18,Taman Suntex,64
+USJ 7 (KJL),Taman Suntex,67
+Taipan,Taman Suntex,68
+Wawasan,Taman Suntex,71
+USJ 21,Taman Suntex,73
+Alam Megah,Taman Suntex,76
+Subang Alam,Taman Suntex,79
+Putra Heights (KJL),Taman Suntex,83
+Sungai Buloh,Taman Suntex,63
+Kampung Selamat,Taman Suntex,66
+Kwasa Damansara,Taman Suntex,55
+Kwasa Sentral,Taman Suntex,53
+Kota Damansara,Taman Suntex,49
+Surian,Taman Suntex,47
+Mutiara Damansara,Taman Suntex,45
+Bandar Utama,Taman Suntex,43
+TTDI,Taman Suntex,40
+Phileo Damansara,Taman Suntex,38
+Pusat Bandar Damansara,Taman Suntex,35
+Semantan,Taman Suntex,33
+Muzium Negara,Taman Suntex,30
+Pasar Seni (SBK),Taman Suntex,28
+Merdeka,Taman Suntex,25
+Bukit Bintang,Taman Suntex,23
+Tun Razak Exchange (TRX),Taman Suntex,21
+Cochrane,Taman Suntex,16
+Maluri (SBK),Taman Suntex,11
+Taman Pertama,Taman Suntex,11
+Taman Midah,Taman Suntex,10
+Taman Mutiara,Taman Suntex,7
+Taman Connaught,Taman Suntex,4
+Taman Suntex,Taman Suntex,0
+Sri Raya,Taman Suntex,4
+Bandar Tun Hussein Onn,Taman Suntex,7
+Batu 11 Cheras,Taman Suntex,9
+Bukit Dukung,Taman Suntex,12
+Sungai Jernih,Taman Suntex,15
+Stadium Kajang,Taman Suntex,18
+Kajang,Taman Suntex,25
+Gombak,Sri Raya,56
+Taman Melati,Sri Raya,53
+Wangsa Maju,Sri Raya,49
+Sri Rampai,Sri Raya,47
+Setiawangsa,Sri Raya,41
+Jelatek,Sri Raya,39
+Dato' Keramat,Sri Raya,38
+Damai,Sri Raya,37
+Ampang Park,Sri Raya,35
+KLCC,Sri Raya,34
+Kampung Baru,Sri Raya,32
+Dang Wangi,Sri Raya,30
+Masjid Jamek (KJL),Sri Raya,28
+Pasar Seni (KJL),Sri Raya,27
+KL Sentral (KJL),Sri Raya,30
+Bangsar,Sri Raya,32
+Abdullah Hukum,Sri Raya,35
+Kerinchi,Sri Raya,36
+Universiti,Sri Raya,38
+Taman Jaya,Sri Raya,42
+Asia Jaya,Sri Raya,44
+Taman Paramount,Sri Raya,47
+Taman Bahagia,Sri Raya,50
+Kelana Jaya,Sri Raya,52
+Lembah Subang,Sri Raya,55
+Ara Damansara,Sri Raya,57
+Glenmarie,Sri Raya,60
+Subang Jaya,Sri Raya,61
+SS 15,Sri Raya,65
+SS 18,Sri Raya,67
+USJ 7 (KJL),Sri Raya,70
+Taipan,Sri Raya,71
+Wawasan,Sri Raya,74
+USJ 21,Sri Raya,76
+Alam Megah,Sri Raya,79
+Subang Alam,Sri Raya,82
+Putra Heights (KJL),Sri Raya,86
+Sungai Buloh,Sri Raya,66
+Kampung Selamat,Sri Raya,69
+Kwasa Damansara,Sri Raya,58
+Kwasa Sentral,Sri Raya,56
+Kota Damansara,Sri Raya,52
+Surian,Sri Raya,50
+Mutiara Damansara,Sri Raya,48
+Bandar Utama,Sri Raya,46
+TTDI,Sri Raya,43
+Phileo Damansara,Sri Raya,40
+Pusat Bandar Damansara,Sri Raya,38
+Semantan,Sri Raya,35
+Muzium Negara,Sri Raya,33
+Pasar Seni (SBK),Sri Raya,30
+Merdeka,Sri Raya,28
+Bukit Bintang,Sri Raya,25
+Tun Razak Exchange (TRX),Sri Raya,23
+Cochrane,Sri Raya,21
+Maluri (SBK),Sri Raya,16
+Taman Pertama,Sri Raya,11
+Taman Midah,Sri Raya,11
+Taman Mutiara,Sri Raya,10
+Taman Connaught,Sri Raya,7
+Taman Suntex,Sri Raya,4
+Sri Raya,Sri Raya,0
+Bandar Tun Hussein Onn,Sri Raya,4
+Batu 11 Cheras,Sri Raya,7
+Bukit Dukung,Sri Raya,9
+Sungai Jernih,Sri Raya,12
+Stadium Kajang,Sri Raya,15
+Kajang,Sri Raya,18
+Gombak,Bandar Tun Hussein Onn,58
+Taman Melati,Bandar Tun Hussein Onn,55
+Wangsa Maju,Bandar Tun Hussein Onn,51
+Sri Rampai,Bandar Tun Hussein Onn,49
+Setiawangsa,Bandar Tun Hussein Onn,43
+Jelatek,Bandar Tun Hussein Onn,41
+Dato' Keramat,Bandar Tun Hussein Onn,40
+Damai,Bandar Tun Hussein Onn,39
+Ampang Park,Bandar Tun Hussein Onn,37
+KLCC,Bandar Tun Hussein Onn,36
+Kampung Baru,Bandar Tun Hussein Onn,34
+Dang Wangi,Bandar Tun Hussein Onn,32
+Masjid Jamek (KJL),Bandar Tun Hussein Onn,30
+Pasar Seni (KJL),Bandar Tun Hussein Onn,29
+KL Sentral (KJL),Bandar Tun Hussein Onn,32
+Bangsar,Bandar Tun Hussein Onn,34
+Abdullah Hukum,Bandar Tun Hussein Onn,37
+Kerinchi,Bandar Tun Hussein Onn,38
+Universiti,Bandar Tun Hussein Onn,40
+Taman Jaya,Bandar Tun Hussein Onn,44
+Asia Jaya,Bandar Tun Hussein Onn,46
+Taman Paramount,Bandar Tun Hussein Onn,49
+Taman Bahagia,Bandar Tun Hussein Onn,52
+Kelana Jaya,Bandar Tun Hussein Onn,54
+Lembah Subang,Bandar Tun Hussein Onn,57
+Ara Damansara,Bandar Tun Hussein Onn,59
+Glenmarie,Bandar Tun Hussein Onn,62
+Subang Jaya,Bandar Tun Hussein Onn,63
+SS 15,Bandar Tun Hussein Onn,67
+SS 18,Bandar Tun Hussein Onn,69
+USJ 7 (KJL),Bandar Tun Hussein Onn,72
+Taipan,Bandar Tun Hussein Onn,73
+Wawasan,Bandar Tun Hussein Onn,76
+USJ 21,Bandar Tun Hussein Onn,78
+Alam Megah,Bandar Tun Hussein Onn,81
+Subang Alam,Bandar Tun Hussein Onn,84
+Putra Heights (KJL),Bandar Tun Hussein Onn,88
+Sungai Buloh,Bandar Tun Hussein Onn,68
+Kampung Selamat,Bandar Tun Hussein Onn,71
+Kwasa Damansara,Bandar Tun Hussein Onn,60
+Kwasa Sentral,Bandar Tun Hussein Onn,58
+Kota Damansara,Bandar Tun Hussein Onn,54
+Surian,Bandar Tun Hussein Onn,52
+Mutiara Damansara,Bandar Tun Hussein Onn,50
+Bandar Utama,Bandar Tun Hussein Onn,48
+TTDI,Bandar Tun Hussein Onn,46
+Phileo Damansara,Bandar Tun Hussein Onn,43
+Pusat Bandar Damansara,Bandar Tun Hussein Onn,40
+Semantan,Bandar Tun Hussein Onn,38
+Muzium Negara,Bandar Tun Hussein Onn,35
+Pasar Seni (SBK),Bandar Tun Hussein Onn,33
+Merdeka,Bandar Tun Hussein Onn,30
+Bukit Bintang,Bandar Tun Hussein Onn,28
+Tun Razak Exchange (TRX),Bandar Tun Hussein Onn,25
+Cochrane,Bandar Tun Hussein Onn,23
+Maluri (SBK),Bandar Tun Hussein Onn,21
+Taman Pertama,Bandar Tun Hussein Onn,16
+Taman Midah,Bandar Tun Hussein Onn,11
+Taman Mutiara,Bandar Tun Hussein Onn,11
+Taman Connaught,Bandar Tun Hussein Onn,10
+Taman Suntex,Bandar Tun Hussein Onn,7
+Sri Raya,Bandar Tun Hussein Onn,4
+Bandar Tun Hussein Onn,Bandar Tun Hussein Onn,0
+Batu 11 Cheras,Bandar Tun Hussein Onn,4
+Bukit Dukung,Bandar Tun Hussein Onn,7
+Sungai Jernih,Bandar Tun Hussein Onn,9
+Stadium Kajang,Bandar Tun Hussein Onn,12
+Kajang,Bandar Tun Hussein Onn,21
+Gombak,Batu 11 Cheras,60
+Taman Melati,Batu 11 Cheras,57
+Wangsa Maju,Batu 11 Cheras,53
+Sri Rampai,Batu 11 Cheras,51
+Setiawangsa,Batu 11 Cheras,45
+Jelatek,Batu 11 Cheras,43
+Dato' Keramat,Batu 11 Cheras,42
+Damai,Batu 11 Cheras,41
+Ampang Park,Batu 11 Cheras,39
+KLCC,Batu 11 Cheras,38
+Kampung Baru,Batu 11 Cheras,36
+Dang Wangi,Batu 11 Cheras,34
+Masjid Jamek (KJL),Batu 11 Cheras,32
+Pasar Seni (KJL),Batu 11 Cheras,31
+KL Sentral (KJL),Batu 11 Cheras,34
+Bangsar,Batu 11 Cheras,36
+Abdullah Hukum,Batu 11 Cheras,39
+Kerinchi,Batu 11 Cheras,40
+Universiti,Batu 11 Cheras,42
+Taman Jaya,Batu 11 Cheras,46
+Asia Jaya,Batu 11 Cheras,48
+Taman Paramount,Batu 11 Cheras,51
+Taman Bahagia,Batu 11 Cheras,54
+Kelana Jaya,Batu 11 Cheras,56
+Lembah Subang,Batu 11 Cheras,59
+Ara Damansara,Batu 11 Cheras,61
+Glenmarie,Batu 11 Cheras,64
+Subang Jaya,Batu 11 Cheras,65
+SS 15,Batu 11 Cheras,69
+SS 18,Batu 11 Cheras,71
+USJ 7 (KJL),Batu 11 Cheras,74
+Taipan,Batu 11 Cheras,75
+Wawasan,Batu 11 Cheras,78
+USJ 21,Batu 11 Cheras,80
+Alam Megah,Batu 11 Cheras,83
+Subang Alam,Batu 11 Cheras,86
+Putra Heights (KJL),Batu 11 Cheras,90
+Sungai Buloh,Batu 11 Cheras,70
+Kampung Selamat,Batu 11 Cheras,73
+Kwasa Damansara,Batu 11 Cheras,62
+Kwasa Sentral,Batu 11 Cheras,60
+Kota Damansara,Batu 11 Cheras,56
+Surian,Batu 11 Cheras,54
+Mutiara Damansara,Batu 11 Cheras,52
+Bandar Utama,Batu 11 Cheras,50
+TTDI,Batu 11 Cheras,48
+Phileo Damansara,Batu 11 Cheras,46
+Pusat Bandar Damansara,Batu 11 Cheras,43
+Semantan,Batu 11 Cheras,40
+Muzium Negara,Batu 11 Cheras,38
+Pasar Seni (SBK),Batu 11 Cheras,35
+Merdeka,Batu 11 Cheras,33
+Bukit Bintang,Batu 11 Cheras,30
+Tun Razak Exchange (TRX),Batu 11 Cheras,28
+Cochrane,Batu 11 Cheras,25
+Maluri (SBK),Batu 11 Cheras,23
+Taman Pertama,Batu 11 Cheras,21
+Taman Midah,Batu 11 Cheras,16
+Taman Mutiara,Batu 11 Cheras,11
+Taman Connaught,Batu 11 Cheras,11
+Taman Suntex,Batu 11 Cheras,10
+Sri Raya,Batu 11 Cheras,7
+Bandar Tun Hussein Onn,Batu 11 Cheras,4
+Batu 11 Cheras,Batu 11 Cheras,0
+Bukit Dukung,Batu 11 Cheras,4
+Sungai Jernih,Batu 11 Cheras,7
+Stadium Kajang,Batu 11 Cheras,9
+Kajang,Batu 11 Cheras,19
+Gombak,Bukit Dukung,63
+Taman Melati,Bukit Dukung,60
+Wangsa Maju,Bukit Dukung,56
+Sri Rampai,Bukit Dukung,54
+Setiawangsa,Bukit Dukung,48
+Jelatek,Bukit Dukung,46
+Dato' Keramat,Bukit Dukung,45
+Damai,Bukit Dukung,44
+Ampang Park,Bukit Dukung,42
+KLCC,Bukit Dukung,41
+Kampung Baru,Bukit Dukung,39
+Dang Wangi,Bukit Dukung,37
+Masjid Jamek (KJL),Bukit Dukung,35
+Pasar Seni (KJL),Bukit Dukung,34
+KL Sentral (KJL),Bukit Dukung,37
+Bangsar,Bukit Dukung,39
+Abdullah Hukum,Bukit Dukung,42
+Kerinchi,Bukit Dukung,43
+Universiti,Bukit Dukung,45
+Taman Jaya,Bukit Dukung,49
+Asia Jaya,Bukit Dukung,51
+Taman Paramount,Bukit Dukung,54
+Taman Bahagia,Bukit Dukung,57
+Kelana Jaya,Bukit Dukung,59
+Lembah Subang,Bukit Dukung,62
+Ara Damansara,Bukit Dukung,64
+Glenmarie,Bukit Dukung,67
+Subang Jaya,Bukit Dukung,68
+SS 15,Bukit Dukung,72
+SS 18,Bukit Dukung,74
+USJ 7 (KJL),Bukit Dukung,77
+Taipan,Bukit Dukung,78
+Wawasan,Bukit Dukung,81
+USJ 21,Bukit Dukung,83
+Alam Megah,Bukit Dukung,86
+Subang Alam,Bukit Dukung,89
+Putra Heights (KJL),Bukit Dukung,93
+Sungai Buloh,Bukit Dukung,73
+Kampung Selamat,Bukit Dukung,76
+Kwasa Damansara,Bukit Dukung,65
+Kwasa Sentral,Bukit Dukung,63
+Kota Damansara,Bukit Dukung,59
+Surian,Bukit Dukung,57
+Mutiara Damansara,Bukit Dukung,55
+Bandar Utama,Bukit Dukung,53
+TTDI,Bukit Dukung,50
+Phileo Damansara,Bukit Dukung,48
+Pusat Bandar Damansara,Bukit Dukung,46
+Semantan,Bukit Dukung,43
+Muzium Negara,Bukit Dukung,40
+Pasar Seni (SBK),Bukit Dukung,38
+Merdeka,Bukit Dukung,35
+Bukit Bintang,Bukit Dukung,33
+Tun Razak Exchange (TRX),Bukit Dukung,30
+Cochrane,Bukit Dukung,28
+Maluri (SBK),Bukit Dukung,25
+Taman Pertama,Bukit Dukung,23
+Taman Midah,Bukit Dukung,21
+Taman Mutiara,Bukit Dukung,16
+Taman Connaught,Bukit Dukung,11
+Taman Suntex,Bukit Dukung,11
+Sri Raya,Bukit Dukung,10
+Bandar Tun Hussein Onn,Bukit Dukung,7
+Batu 11 Cheras,Bukit Dukung,4
+Bukit Dukung,Bukit Dukung,0
+Sungai Jernih,Bukit Dukung,4
+Stadium Kajang,Bukit Dukung,7
+Kajang,Bukit Dukung,15
+Gombak,Sungai Jernih,67
+Taman Melati,Sungai Jernih,64
+Wangsa Maju,Sungai Jernih,60
+Sri Rampai,Sungai Jernih,58
+Setiawangsa,Sungai Jernih,52
+Jelatek,Sungai Jernih,50
+Dato' Keramat,Sungai Jernih,49
+Damai,Sungai Jernih,48
+Ampang Park,Sungai Jernih,46
+KLCC,Sungai Jernih,45
+Kampung Baru,Sungai Jernih,43
+Dang Wangi,Sungai Jernih,41
+Masjid Jamek (KJL),Sungai Jernih,39
+Pasar Seni (KJL),Sungai Jernih,38
+KL Sentral (KJL),Sungai Jernih,41
+Bangsar,Sungai Jernih,43
+Abdullah Hukum,Sungai Jernih,46
+Kerinchi,Sungai Jernih,47
+Universiti,Sungai Jernih,49
+Taman Jaya,Sungai Jernih,53
+Asia Jaya,Sungai Jernih,55
+Taman Paramount,Sungai Jernih,58
+Taman Bahagia,Sungai Jernih,61
+Kelana Jaya,Sungai Jernih,63
+Lembah Subang,Sungai Jernih,66
+Ara Damansara,Sungai Jernih,68
+Glenmarie,Sungai Jernih,71
+Subang Jaya,Sungai Jernih,72
+SS 15,Sungai Jernih,76
+SS 18,Sungai Jernih,78
+USJ 7 (KJL),Sungai Jernih,81
+Taipan,Sungai Jernih,82
+Wawasan,Sungai Jernih,85
+USJ 21,Sungai Jernih,87
+Alam Megah,Sungai Jernih,90
+Subang Alam,Sungai Jernih,93
+Putra Heights (KJL),Sungai Jernih,97
+Sungai Buloh,Sungai Jernih,77
+Kampung Selamat,Sungai Jernih,70
+Kwasa Damansara,Sungai Jernih,69
+Kwasa Sentral,Sungai Jernih,67
+Kota Damansara,Sungai Jernih,63
+Surian,Sungai Jernih,61
+Mutiara Damansara,Sungai Jernih,59
+Bandar Utama,Sungai Jernih,57
+TTDI,Sungai Jernih,53
+Phileo Damansara,Sungai Jernih,50
+Pusat Bandar Damansara,Sungai Jernih,48
+Semantan,Sungai Jernih,46
+Muzium Negara,Sungai Jernih,43
+Pasar Seni (SBK),Sungai Jernih,40
+Merdeka,Sungai Jernih,38
+Bukit Bintang,Sungai Jernih,35
+Tun Razak Exchange (TRX),Sungai Jernih,33
+Cochrane,Sungai Jernih,30
+Maluri (SBK),Sungai Jernih,28
+Taman Pertama,Sungai Jernih,25
+Taman Midah,Sungai Jernih,23
+Taman Mutiara,Sungai Jernih,21
+Taman Connaught,Sungai Jernih,16
+Taman Suntex,Sungai Jernih,11
+Sri Raya,Sungai Jernih,11
+Bandar Tun Hussein Onn,Sungai Jernih,10
+Batu 11 Cheras,Sungai Jernih,7
+Bukit Dukung,Sungai Jernih,4
+Sungai Jernih,Sungai Jernih,0
+Stadium Kajang,Sungai Jernih,4
+Kajang,Sungai Jernih,5
+Gombak,Stadium Kajang,68
+Taman Melati,Stadium Kajang,65
+Wangsa Maju,Stadium Kajang,61
+Sri Rampai,Stadium Kajang,59
+Setiawangsa,Stadium Kajang,53
+Jelatek,Stadium Kajang,51
+Dato' Keramat,Stadium Kajang,50
+Damai,Stadium Kajang,49
+Ampang Park,Stadium Kajang,47
+KLCC,Stadium Kajang,46
+Kampung Baru,Stadium Kajang,44
+Dang Wangi,Stadium Kajang,42
+Masjid Jamek (KJL),Stadium Kajang,40
+Pasar Seni (KJL),Stadium Kajang,39
+KL Sentral (KJL),Stadium Kajang,42
+Bangsar,Stadium Kajang,44
+Abdullah Hukum,Stadium Kajang,47
+Kerinchi,Stadium Kajang,48
+Universiti,Stadium Kajang,50
+Taman Jaya,Stadium Kajang,54
+Asia Jaya,Stadium Kajang,56
+Taman Paramount,Stadium Kajang,59
+Taman Bahagia,Stadium Kajang,62
+Kelana Jaya,Stadium Kajang,64
+Lembah Subang,Stadium Kajang,67
+Ara Damansara,Stadium Kajang,69
+Glenmarie,Stadium Kajang,72
+Subang Jaya,Stadium Kajang,73
+SS 15,Stadium Kajang,77
+SS 18,Stadium Kajang,79
+USJ 7 (KJL),Stadium Kajang,82
+Taipan,Stadium Kajang,83
+Wawasan,Stadium Kajang,86
+USJ 21,Stadium Kajang,88
+Alam Megah,Stadium Kajang,91
+Subang Alam,Stadium Kajang,94
+Putra Heights (KJL),Stadium Kajang,98
+Sungai Buloh,Stadium Kajang,78
+Kampung Selamat,Stadium Kajang,71
+Kwasa Damansara,Stadium Kajang,70
+Kwasa Sentral,Stadium Kajang,68
+Kota Damansara,Stadium Kajang,64
+Surian,Stadium Kajang,62
+Mutiara Damansara,Stadium Kajang,60
+Bandar Utama,Stadium Kajang,58
+TTDI,Stadium Kajang,55
+Phileo Damansara,Stadium Kajang,53
+Pusat Bandar Damansara,Stadium Kajang,50
+Semantan,Stadium Kajang,48
+Muzium Negara,Stadium Kajang,46
+Pasar Seni (SBK),Stadium Kajang,43
+Merdeka,Stadium Kajang,40
+Bukit Bintang,Stadium Kajang,38
+Tun Razak Exchange (TRX),Stadium Kajang,35
+Cochrane,Stadium Kajang,33
+Maluri (SBK),Stadium Kajang,30
+Taman Pertama,Stadium Kajang,28
+Taman Midah,Stadium Kajang,25
+Taman Mutiara,Stadium Kajang,23
+Taman Connaught,Stadium Kajang,21
+Taman Suntex,Stadium Kajang,16
+Sri Raya,Stadium Kajang,11
+Bandar Tun Hussein Onn,Stadium Kajang,11
+Batu 11 Cheras,Stadium Kajang,10
+Bukit Dukung,Stadium Kajang,7
+Sungai Jernih,Stadium Kajang,4
+Stadium Kajang,Stadium Kajang,0
+Kajang,Stadium Kajang,3
+Gombak,Kajang,71
+Taman Melati,Kajang,68
+Wangsa Maju,Kajang,64
+Sri Rampai,Kajang,62
+Setiawangsa,Kajang,56
+Jelatek,Kajang,54
+Dato' Keramat,Kajang,53
+Damai,Kajang,52
+Ampang Park,Kajang,50
+KLCC,Kajang,49
+Kampung Baru,Kajang,47
+Dang Wangi,Kajang,45
+Masjid Jamek (KJL),Kajang,43
+Pasar Seni (KJL),Kajang,42
+KL Sentral (KJL),Kajang,45
+Bangsar,Kajang,47
+Abdullah Hukum,Kajang,50
+Kerinchi,Kajang,51
+Universiti,Kajang,53
+Taman Jaya,Kajang,57
+Asia Jaya,Kajang,59
+Taman Paramount,Kajang,62
+Taman Bahagia,Kajang,65
+Kelana Jaya,Kajang,67
+Lembah Subang,Kajang,70
+Ara Damansara,Kajang,72
+Glenmarie,Kajang,75
+Subang Jaya,Kajang,76
+SS 15,Kajang,80
+SS 18,Kajang,82
+USJ 7 (KJL),Kajang,85
+Taipan,Kajang,86
+Wawasan,Kajang,89
+USJ 21,Kajang,91
+Alam Megah,Kajang,94
+Subang Alam,Kajang,97
+Putra Heights (KJL),Kajang,101
+Sungai Buloh,Kajang,81
+Kampung Selamat,Kajang,74
+Kwasa Damansara,Kajang,73
+Kwasa Sentral,Kajang,71
+Kota Damansara,Kajang,67
+Surian,Kajang,65
+Mutiara Damansara,Kajang,63
+Bandar Utama,Kajang,61
+TTDI,Kajang,58
+Phileo Damansara,Kajang,55
+Pusat Bandar Damansara,Kajang,53
+Semantan,Kajang,50
+Muzium Negara,Kajang,48
+Pasar Seni (SBK),Kajang,46
+Merdeka,Kajang,43
+Bukit Bintang,Kajang,40
+Tun Razak Exchange (TRX),Kajang,38
+Cochrane,Kajang,35
+Maluri (SBK),Kajang,33
+Taman Pertama,Kajang,30
+Taman Midah,Kajang,28
+Taman Mutiara,Kajang,25
+Taman Connaught,Kajang,23
+Taman Suntex,Kajang,21
+Sri Raya,Kajang,16
+Bandar Tun Hussein Onn,Kajang,11
+Batu 11 Cheras,Kajang,11
+Bukit Dukung,Kajang,10
+Sungai Jernih,Kajang,7
+Stadium Kajang,Kajang,4
+Kajang,Kajang,0
