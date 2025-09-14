@@ -1,11 +1,7 @@
 from flask import Flask
 from flask_cors import CORS
 from flask_socketio import SocketIO
-from restful_apis.auth import auth_bp
-from restful_apis.feedback import feedback_bp
-from restful_apis.shelves import shelves_bp
-from websocket_apis.chatbot import init_chatbot_socketio
-from websocket_apis.community import init_community_socketio
+from RESTful_APIs.routes import routes_bp
 
 app = Flask(__name__)
 CORS(app)
