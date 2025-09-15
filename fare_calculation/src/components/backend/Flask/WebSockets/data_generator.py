@@ -15,7 +15,7 @@ socketio = SocketIO(app, cors_allowed_origins="*")  # Allow all origins for test
 
 stations = []
 
-def init_community_socketio(io: SocketIO):
+def init_data_generator_socketio(io: SocketIO):
     global socketio
     socketio = io
 
@@ -46,33 +46,6 @@ def init_community_socketio(io: SocketIO):
             time.sleep(random.randint(2,5))
 
             current_index += 1
-        
-
-
-    #used when the user have already joined a room, and sends message into it
-    @socketio.on('send_message')
-    def handle_message(data):
-        msg = data['msg']
-        username = data['username']
-        user_id = data["user_id"]
-        print(user_rooms)
-        room = user_rooms[request.sid]
-        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-
-        emit('message', 
-            {'username': username, 
-            'msg': msg
-            },
-            room=room)
-        
-        match = re.search(r"room-(\d+)", room)
-
-        if match:
-            room_id = match.group(1)
-            print(room_id) 
-
-        db.execute_query('INSERT INTO messages (room_id, user_id, msg, timestamp) VALUES (?, ?, ?, ?)', (room_id, user_id, msg, timestamp))
-        print(f"Message: {msg}")
 
     # Handle client disconnect
     @socketio.on('disconnect')

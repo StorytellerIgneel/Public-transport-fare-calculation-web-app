@@ -16,7 +16,7 @@ def get_db_connection():
 def seed_db():
     fares = pd.read_csv("src/components/backend/db_scripts/Fare_melted.csv")
     times = pd.read_csv("src/components/backend/db_scripts/Time_melted.csv")
-    stations = pd.read_csv("src/components/backend/db_scripts/Stations.csv")
+    stations = pd.read_csv("src/components/backend/db_scripts/stations_with_coords.csv")
     with closing(get_db_connection()) as conn:
         cursor = conn.cursor()
         fares.to_sql("fares", conn, if_exists="append", index=False)
@@ -76,4 +76,4 @@ def update_password(email, new_password):
         print(f"Database error: {e}")
         return -1  # Indicates error
 
-seed_db()
+# seed_db()

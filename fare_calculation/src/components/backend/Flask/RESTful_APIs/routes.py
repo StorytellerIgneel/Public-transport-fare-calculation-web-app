@@ -1,4 +1,4 @@
-from components.backend.db_scripts import database
+from db_scripts import database
 from flask import Blueprint, request, jsonify
 
 routes_bp = Blueprint('routes', __name__)
