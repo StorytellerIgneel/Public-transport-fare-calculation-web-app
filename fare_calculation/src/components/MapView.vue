@@ -11,9 +11,25 @@
       :fillOpacity="0.9"
     >
       <LPopup>
-        <b>{{ station[1]}}</b
+        <b>{{ station[1] }}</b
         ><br />
         Line: {{ station[4] }}
+      </LPopup>
+    </LCircleMarker>
+    <!-- Train markers -->
+    <LCircleMarker
+      v-for="(train, id) in trains"
+      :key="id"
+      :lat-lng="[train.lat, train.lng]"
+      :radius="10"
+      :color="'orange'"
+      :fillColor="'orange'"
+      :fillOpacity="1.0"
+    >
+      <LPopup>
+        🚆 Train: {{ train.train_id }} <br />
+        Line: {{ train.line }} <br />
+        Station ID: {{ train.current_station_id }}
       </LPopup>
     </LCircleMarker>
 
@@ -33,6 +49,7 @@
 import { LMap, LTileLayer, LMarker } from "@vue-leaflet/vue-leaflet";
 import "leaflet/dist/leaflet.css";
 import L from "leaflet";
+import { io } from "socket.io-client";
 import markerIcon2x from "leaflet/dist/images/marker-icon-2x.png";
 import markerIcon from "leaflet/dist/images/marker-icon.png";
 import markerShadow from "leaflet/dist/images/marker-shadow.png";
@@ -59,7 +76,8 @@ export default {
         '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
       stations: null,
       lrtCoords: null,
-      mrtCoords: null
+      mrtCoords: null,
+      trains: {},
     };
   },
   async mounted() {
@@ -76,6 +94,30 @@ export default {
         .filter((s) => s[4] === "SBK")
         .map((s) => [s[2], s[3]]);
     }
+
+    const socket = io("http://localhost:5000");
+
+    socket.on("connect", () => {
+      console.log("Connected to WebSocket");
+      socket.emit("start_updates");
+    });
+
+    socket.on("train_update", (data) => {
+      // Lookup station coords from ID
+      const station = this.stations.find(
+        (s) => Number(s[0]) === Number(data.current_station_id)
+      );
+      if (station) {
+        this.trains = {
+          ...this.trains,
+          [data.train_id]: {
+            ...data,
+            lat: station[2],
+            lng: station[3],
+          },
+        };
+      }
+    });
   },
 };
 </script>
