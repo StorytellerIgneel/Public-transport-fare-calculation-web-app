@@ -136,3 +136,21 @@ def get_route():
         "total_hops": len(path) - 1
     }), 200
 
+@routes_bp.route("/time", methods=["GET"])
+def get_time():
+    from_id = request.args.get("from", type=int)
+    to_id = request.args.get("to", type=int)
+    
+
+    query = """
+        SELECT time
+        FROM times
+        WHERE origin_id = ? AND destination_id = ?
+    """
+
+    time = fetch_one(query, (from_id, to_id))
+
+    if time:
+        return jsonify({"time": time[0]}), 200
+    else:
+        return jsonify({"error": "Time not found"}), 404
