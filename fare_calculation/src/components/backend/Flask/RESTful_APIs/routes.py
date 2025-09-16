@@ -49,14 +49,16 @@ def get_route():
             WHERE id BETWEEN ? AND ?
             ORDER BY id ASC
         """
+        params = (from_id, to_id)
     else:
         station_query = """
             SELECT id, station, line FROM stations
             WHERE id BETWEEN ? AND ?
             ORDER BY id DESC
         """
+        params = (to_id, from_id)
 
-    station_rows = fetch_all(station_query, (from_id, to_id))
+    station_rows = fetch_all(station_query, params)
 
     if not station_rows:
         return jsonify({"error": "No stations found for given IDs"}), 404
