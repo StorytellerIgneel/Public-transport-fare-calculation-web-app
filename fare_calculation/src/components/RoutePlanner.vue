@@ -16,19 +16,22 @@
 
     <button @click="getRoute">Get Route</button>
 
-    <div v-if="fare"><span>Fare</span>: RM {{ fare }}</div>
+    <RouteResult :route="route" />
   </div>
 </template>
 
 <script>
+import RouteResult from "./RouteResult.vue";
+
 export default {
   name: "RoutePlanner",
+  components: { RouteResult },
   data() {
     return {
       stations: null,
       origin: null,
       destination: null,
-      fare: null,
+      route: null, // will hold the /route API result
     };
   },
   async mounted() {
@@ -36,7 +39,7 @@ export default {
     const data = await res.json();
     this.stations = data.station;
 
-    if (this.stations && this.stations.length > 0) {
+    if (this.stations && this.stations.length > 1) {
       this.origin = this.stations[0][0];
       this.destination = this.stations[1][0];
     }
@@ -44,26 +47,11 @@ export default {
   methods: {
     async getRoute() {
       const res = await fetch(
-        `http://localhost:5000/fares?from=${this.origin}&to=${this.destination}`
+        `http://localhost:5000/route?from=${this.origin}&to=${this.destination}`
       );
       const data = await res.json();
-      this.fare = data.fare;
+      this.route = data;
     },
   },
 };
 </script>
-
-<style scoped>
-div > label {
-  margin-right: 15px;
-  font-weight: bold;
-}
-
-span{
-  font-weight: bold;
-}
-
-select {
-  margin-right: 20px;
-}
-</style>
