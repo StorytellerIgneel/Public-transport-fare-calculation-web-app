@@ -16,19 +16,24 @@
 
     <button @click="getRoute">Get Route</button>
 
-    <div v-if="fare"><span>Fare</span>: RM {{ fare }}</div>
+    <RouteResult :fare="fare" :route="route" :time="time"/>
   </div>
 </template>
 
 <script>
+import RouteResult from "./RouteResult.vue";
+
 export default {
   name: "RoutePlanner",
+  components: { RouteResult },
   data() {
     return {
       stations: null,
       origin: null,
       destination: null,
       fare: null,
+      route: null, // will hold the /route API result
+      time: null,
     };
   },
   async mounted() {
@@ -36,34 +41,28 @@ export default {
     const data = await res.json();
     this.stations = data.station;
 
-    if (this.stations && this.stations.length > 0) {
+    if (this.stations && this.stations.length > 1) {
       this.origin = this.stations[0][0];
       this.destination = this.stations[1][0];
     }
   },
   methods: {
     async getRoute() {
-      const res = await fetch(
-        `http://localhost:5000/fares?from=${this.origin}&to=${this.destination}`
-      );
-      const data = await res.json();
-      this.fare = data.fare;
+      const [fareRes, routeRes, timeRes] = await Promise.all([
+        fetch(`http://localhost:5000/fares?from=${this.origin}&to=${this.destination}`),
+        fetch(`http://localhost:5000/route?from=${this.origin}&to=${this.destination}`),
+        fetch(`http://localhost:5000/time?from=${this.origin}&to=${this.destination}`)
+      ]);
+      
+      const fareData = await fareRes.json();
+      console.log(fareData);
+      const routeData = await routeRes.json();
+      const timeData = await timeRes.json();
+
+      this.fare = fareData.fare;
+      this.route = routeData;
+      this.time = timeData.time;
     },
   },
 };
 </script>
-
-<style scoped>
-div > label {
-  margin-right: 15px;
-  font-weight: bold;
-}
-
-span{
-  font-weight: bold;
-}
-
-select {
-  margin-right: 20px;
-}
-</style>
