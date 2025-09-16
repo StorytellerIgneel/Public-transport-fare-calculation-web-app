@@ -14,9 +14,9 @@ def get_db_connection():
     return sqlite3.connect(DATABASE, check_same_thread=False)
 
 def seed_db():
-    fares = pd.read_csv("src/components/backend/db_scripts/Fare_melted.csv")
-    times = pd.read_csv("src/components/backend/db_scripts/Time_melted.csv")
-    stations = pd.read_csv("src/components/backend/db_scripts/stations_with_coords.csv")
+    fares = pd.read_csv("src/components/backend/Flask/db_scripts/Fare_melted.csv")
+    times = pd.read_csv("src/components/backend/Flask/db_scripts/Time_melted.csv")
+    stations = pd.read_csv("src/components/backend/Flask/db_scripts/stations_with_coords.csv")
     with closing(get_db_connection()) as conn:
         cursor = conn.cursor()
         fares.to_sql("fares", conn, if_exists="append", index=False)
