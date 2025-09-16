@@ -1,17 +1,14 @@
 from flask import Flask, request
 from flask_cors import CORS
-from flask_socketio import SocketIO, emit, join_room, leave_room
+from flask_socketio import SocketIO, emit
 from .models import Train
-from datetime import datetime
-import os
-from db_scripts import database
-import re
+import eventlet
 import time
 import random
 
 app = Flask(__name__)
 CORS (app)
-#app.config['SECRET_KEY'] = 'your_secret_key'
+
 socketio = SocketIO(app, cors_allowed_origins="*")  # Allow all origins for testing
 
 #train init
@@ -59,9 +56,8 @@ def init_data_generator_socketio(io: SocketIO):
                 print(f"Train {train.train_id} at station {train.current_station} -> sent update")
 
                 #every 2-5 seconds sleep
-                time.sleep(random.randint(2,5))
-
                 train.current_station += train.dir
+                eventlet.sleep(random.randint(2, 5))
 
     # Handle client disconnect
     @socketio.on('disconnect')
