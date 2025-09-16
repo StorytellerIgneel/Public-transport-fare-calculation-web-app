@@ -33,46 +33,66 @@ def get_fare():
     else:
         return jsonify({"error": "Fare not found"}), 404
 
+
 @routes_bp.route("/route", methods=["GET"])
 def get_route():
-    from_station = request.args.get("from")
-    to_station = request.args.get("to")
+    from_id = request.args.get("from", type=int)
+    to_id = request.args.get("to", type=int)
 
-    # Validate stations
-    station_query = "SELECT id, station_name, lat, lon FROM stations WHERE station_name = ?"
-    origin = fetch_one(station_query, (from_station,))
-    destination = fetch_one(station_query, (to_station,))
+    if from_id is None or to_id is None:
+        return jsonify({"error": "Missing 'from' or 'to' parameter"}), 400
 
-    if not origin or not destination:
-        return jsonify({"error": "Invalid station(s)"}), 404
+    # --- Fetch stations in path (simple linear traversal) ---
+    if from_id < to_id:
+        station_query = """
+            SELECT id, station, line FROM stations
+            WHERE id BETWEEN ? AND ?
+            ORDER BY id ASC
+        """
+    else:
+        station_query = """
+            SELECT id, station, line FROM stations
+            WHERE id BETWEEN ? AND ?
+            ORDER BY id DESC
+        """
 
-    # Get fare
+    station_rows = fetch_all(station_query, (from_id, to_id))
+
+    if not station_rows:
+        return jsonify({"error": "No stations found for given IDs"}), 404
+
+    path = []
+    last_line = station_rows[0][2]  # starting line
+
+    for station_id, station_name, line_name in station_rows:
+        display_name = station_name
+
+        # Detect interchange: same station name exists with multiple lines
+        dup_query = "SELECT COUNT(*) FROM stations WHERE station = ?"
+        dup_count = fetch_one(dup_query, (station_name,))[0]
+
+        if dup_count > 1:  # it's an interchange station
+            display_name = f"{station_name} ({line_name})"
+            if line_name != last_line:
+                path.append(f"<-- switched from {last_line} to {line_name} -->")
+
+        # Detect line switch (moving to new line after interchange)
+        elif last_line != line_name and station_id != station_rows[0][0]:
+            display_name = f"{station_name} ({line_name})"
+
+        path.append(display_name)
+        last_line = line_name
+
+    # --- Get fare using IDs ---
     fare_query = """
         SELECT fare FROM fares
-        WHERE origin_station = ? AND destination_station = ?
+        WHERE origin_id = ? AND destination_id = ?
     """
-    fare = fetch_one(fare_query, (from_station, to_station))
-
-    if not fare:
-        return jsonify({"error": "No direct fare found"}), 404
-
-    # For now, just return direct route (you can expand to multiple hops later)
-    path = [from_station, to_station]
+    fare = fetch_one(fare_query, (from_id, to_id))
+    total_fare = float(fare[0]) if fare else None
 
     return jsonify({
-        "origin": {
-            "id": origin[0],
-            "name": origin[1],
-            "lat": origin[2],
-            "lon": origin[3]
-        },
-        "destination": {
-            "id": destination[0],
-            "name": destination[1],
-            "lat": destination[2],
-            "lon": destination[3]
-        },
         "path": path,
         "total_hops": len(path) - 1,
-        "total_fare": float(fare[0])
+        "total_fare": total_fare
     }), 200
