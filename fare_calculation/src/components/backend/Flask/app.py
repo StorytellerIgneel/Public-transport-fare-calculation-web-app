@@ -12,7 +12,11 @@ socketio = SocketIO(app, cors_allowed_origins="*")
 # init_chatbot_socketio(socketio)
 # # init_community_socketio(socketio)
 
+
 init_data_generator_socketio(socketio)
+
+# Register blueprint for RESTful APIs
+app.register_blueprint(routes_bp)
 
 # #register blueprint for RESTfuls
 # app.register_blueprint(auth_bp, url_prefix="/auth")
