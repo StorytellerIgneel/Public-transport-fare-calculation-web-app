@@ -2,12 +2,16 @@
   <div>
     <label>Origin:</label>
     <select v-model="origin">
-      <option v-for="s in stations" :key="s.id" :value="s.id">{{ s.name }}</option>
+      <option v-for="s in stations" :key="s[0]" :value="s[0]">
+        {{ s[1]}}
+      </option>
     </select>
 
     <label>Destination:</label>
     <select v-model="destination">
-      <option v-for="s in stations" :key="s.id" :value="s.id">{{ s.name }}</option>
+      <option v-for="s in stations" :key="s[0]" :value="s[0]">
+        {{ s[1] }}
+      </option>
     </select>
 
     <button @click="getRoute">Get Route</button>
@@ -21,24 +25,41 @@ export default {
   name: "RoutePlanner",
   data() {
     return {
-      stations: [],
+      stations: null,
       origin: null,
       destination: null,
       fare: null,
     };
   },
   async mounted() {
-    // Replace with API call
-    const res = await fetch("/stations.json");
-    this.stations = await res.json();
+    const res = await fetch(`http://localhost:5000/stations`);
+    const data = await res.json();
+    this.stations = data.station;
+
+    if(this.stations && this.stations.length > 0){
+      this.origin = this.stations[0][0];
+      this.destination = this.stations[1][0];
+    }
+
   },
   methods: {
     async getRoute() {
-      // later: fetch(`/route?from=${this.origin}&to=${this.destination}`)
-      const res = await fetch(`/fare.json`); 
+      const res = await fetch(
+        `http://localhost:5000/fares?from=${this.origin}&to=${this.destination}`
+      );
       const data = await res.json();
-      this.fare = data.price;
-    }
-  }
+      this.fare = data.fare;
+    },
+  },
 };
 </script>
+
+<style scoped>
+div > label {
+  margin-right: 15px;
+}
+
+select {
+  margin-right: 20px;
+}
+</style>

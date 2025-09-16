@@ -3,17 +3,17 @@
     <LTileLayer :url="url" :attribution="attribution" />
     <LCircleMarker
       v-for="station in stations"
-      :key="station.id"
-      :lat-lng="[station.Latitude, station.Longitude]"
+      :key="station[0]"
+      :lat-lng="[station[2], station[3]]"
       :radius="6"
-      :color="station.Line === 'KJL' ? 'red' : 'green'"
-      :fillColor="station.Line === 'KJL' ? 'red' : 'green'"
+      :color="station[4] === 'KJL' ? 'red' : 'green'"
+      :fillColor="station[4] === 'KJL' ? 'red' : 'green'"
       :fillOpacity="0.9"
     >
       <LPopup>
-        <b>{{ station.station }}</b
+        <b>{{ station[1]}}</b
         ><br />
-        Line: {{ station.Line }}
+        Line: {{ station[4] }}
       </LPopup>
     </LCircleMarker>
 
@@ -21,7 +21,11 @@
     <LPolyline v-if="lrtCoords.length > 0" :lat-lngs="lrtCoords" color="red" />
 
     <!-- MRT Sungai Buloh–Kajang Line (SBK) -->
-    <LPolyline v-if="mrtCoords.length > 0" :lat-lngs="mrtCoords" color="green" />
+    <LPolyline
+      v-if="mrtCoords.length > 0"
+      :lat-lngs="mrtCoords"
+      color="green"
+    />
   </LMap>
 </template>
 
@@ -32,7 +36,6 @@ import L from "leaflet";
 import markerIcon2x from "leaflet/dist/images/marker-icon-2x.png";
 import markerIcon from "leaflet/dist/images/marker-icon.png";
 import markerShadow from "leaflet/dist/images/marker-shadow.png";
-import station from "../assets/stations.json";
 import { LPopup } from "@vue-leaflet/vue-leaflet";
 import { LPolyline } from "@vue-leaflet/vue-leaflet";
 import { LCircleMarker } from "@vue-leaflet/vue-leaflet";
@@ -54,14 +57,25 @@ export default {
       url: "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
       attribution:
         '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
-      stations: station,
-      lrtCoords: station
-        .filter((s) => s.Line === "KJL")
-        .map((s) => [s.Latitude, s.Longitude]),
-      mrtCoords: station
-        .filter((s) => s.Line === "SBK")
-        .map((s) => [s.Latitude, s.Longitude]),
+      stations: null,
+      lrtCoords: null,
+      mrtCoords: null
     };
+  },
+  async mounted() {
+    const res = await fetch(`http://localhost:5000/stations`);
+    const data = await res.json();
+    this.stations = data.station;
+
+    if (this.stations && this.stations.length > 0) {
+      this.lrtCoords = this.stations
+        .filter((s) => s[4] === "KJL")
+        .map((s) => [s[2], s[3]]);
+
+      this.mrtCoords = this.stations
+        .filter((s) => s[4] === "SBK")
+        .map((s) => [s[2], s[3]]);
+    }
   },
 };
 </script>
