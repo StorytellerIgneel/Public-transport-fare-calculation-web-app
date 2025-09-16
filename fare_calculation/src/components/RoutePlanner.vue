@@ -3,7 +3,7 @@
     <label>Origin:</label>
     <select v-model="origin">
       <option v-for="s in stations" :key="s[0]" :value="s[0]">
-        {{ s[1]}}
+        {{ s[1] }}
       </option>
     </select>
 
@@ -16,7 +16,7 @@
 
     <button @click="getRoute">Get Route</button>
 
-    <div v-if="fare">Fare: RM {{ fare }}</div>
+    <div v-if="fare"><span>Fare</span>: RM {{ fare }}</div>
   </div>
 </template>
 
@@ -36,11 +36,10 @@ export default {
     const data = await res.json();
     this.stations = data.station;
 
-    if(this.stations && this.stations.length > 0){
+    if (this.stations && this.stations.length > 0) {
       this.origin = this.stations[0][0];
       this.destination = this.stations[1][0];
     }
-
   },
   methods: {
     async getRoute() {
@@ -57,6 +56,11 @@ export default {
 <style scoped>
 div > label {
   margin-right: 15px;
+  font-weight: bold;
+}
+
+span{
+  font-weight: bold;
 }
 
 select {
