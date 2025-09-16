@@ -1,4 +1,3 @@
-# client_tester.py
 import socketio
 
 # Create a Socket.IO client
@@ -7,23 +6,26 @@ sio = socketio.Client()
 # Handle connection
 @sio.event
 def connect():
-    print("Connected to server")
-    # Send starting station id (change this number as needed)
-    start_station_id = 1
-    print(f"Sending start station id: {start_station_id}")
-    sio.emit("train_update", start_station_id)
-
-# Handle incoming train updates
-@sio.on("train_update")
-def on_train_update(data):
-    print(f"Received update: {data}")
+    print("✅ Connected to server")
+    # Start getting train updates
+    sio.emit("start_updates")
 
 # Handle disconnection
 @sio.event
 def disconnect():
-    print("Disconnected from server")
+    print("❌ Disconnected from server")
+
+# Handle generic messages
+@sio.on("message")
+def handle_message(data):
+    print("📩 Message:", data)
+
+# Handle train updates
+@sio.on("train_update")
+def handle_train_update(data):
+    print(f"🚆 Train Update -> {data}")
 
 if __name__ == "__main__":
-    # Connect to your Flask-SocketIO server
+    # Adjust URL if your backend runs on another port/host
     sio.connect("http://localhost:5000")
     sio.wait()

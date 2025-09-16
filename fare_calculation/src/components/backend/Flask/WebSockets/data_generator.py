@@ -1,6 +1,7 @@
 from flask import Flask, request
 from flask_cors import CORS
 from flask_socketio import SocketIO, emit, join_room, leave_room
+from .models import Train
 from datetime import datetime
 import os
 from db_scripts import database
@@ -13,7 +14,14 @@ CORS (app)
 #app.config['SECRET_KEY'] = 'your_secret_key'
 socketio = SocketIO(app, cors_allowed_origins="*")  # Allow all origins for testing
 
+#train init
+train1 = Train(train_id="T1", line="KJL", current_station=1, dir=1, progress=0.0, timestamp=time.time())
+train2 = Train(train_id="T2", line="KJL", current_station=37, dir=-1, progress=0.0, timestamp=time.time())
+train3 = Train(train_id="T3", line="SBK", current_station=38, dir=1, progress=0.0, timestamp=time.time())
+train4 = Train(train_id="T4", line="SBK", current_station=68, dir=-1, progress=0.0, timestamp=time.time())
+
 stations = []
+Trains = [train1, train2, train3, train4]
 
 def init_data_generator_socketio(io: SocketIO):
     global socketio
@@ -25,27 +33,35 @@ def init_data_generator_socketio(io: SocketIO):
         print(f"Client {request.sid} connected") #request sid is auto assigned by socketio
         emit('message', {'msg': 'Connected to server'})
 
-    # Handle chat messages
-    @socketio.on('train_update')
-    def train_update(start_station_id):
-        current_index = stations.index(start_station_id)
-    
-        while (current_index < len(stations)):
-            #current station id
-            station_id = stations[current_index]
+    @socketio.on('start_updates')
+    def start_updates():
+        socketio.start_background_task(generate_train_updates)
 
-            data = {
-                "current_station_id" : station_id,
-                "timestamp": time.time()
-            }
+    def generate_train_updates():
+        while True:
+            for train in Trains:
+                #train1 going in the forward direction
+                if train.line == "KJL":
+                    if (train.dir == 1 and train.current_station == 37) or (train.dir == -1 and train.current_station == 1):
+                        train.dir = -(train.dir) #change direction
+                elif train.line == "SBK":
+                    if (train.dir == 1 and train.current_station == 68) or (train.dir == -1 and train.current_station == 38):
+                        train.dir = -(train.dir) #change direction
 
-            socketio.emit("train_update", data)
-            print(f"Train  at station {station_id} -> sent update")
+                data = {
+                    "train_id": train.train_id,
+                    "line": train.line,
+                    "current_station_id": train.current_station,
+                    "timestamp": time.time()
+                }
 
-            #every 2-5 seconds sleep
-            time.sleep(random.randint(2,5))
+                socketio.emit("train_update", data)
+                print(f"Train {train.train_id} at station {train.current_station} -> sent update")
 
-            current_index += 1
+                #every 2-5 seconds sleep
+                time.sleep(random.randint(2,5))
+
+                train.current_station += train.dir
 
     # Handle client disconnect
     @socketio.on('disconnect')
