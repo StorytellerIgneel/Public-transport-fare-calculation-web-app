@@ -16,7 +16,7 @@
 
     <button @click="getRoute">Get Route</button>
 
-    <RouteResult :route="route" />
+    <RouteResult :fare="fare" :route="route" :time="time"/>
   </div>
 </template>
 
@@ -31,7 +31,9 @@ export default {
       stations: null,
       origin: null,
       destination: null,
+      fare: null,
       route: null, // will hold the /route API result
+      time: null,
     };
   },
   async mounted() {
@@ -46,11 +48,20 @@ export default {
   },
   methods: {
     async getRoute() {
-      const res = await fetch(
-        `http://localhost:5000/route?from=${this.origin}&to=${this.destination}`
-      );
-      const data = await res.json();
-      this.route = data;
+      const [fareRes, routeRes, timeRes] = await Promise.all([
+        fetch(`http://localhost:5000/fares?from=${this.origin}&to=${this.destination}`),
+        fetch(`http://localhost:5000/route?from=${this.origin}&to=${this.destination}`),
+        fetch(`http://localhost:5000/time?from=${this.origin}&to=${this.destination}`)
+      ]);
+      
+      const fareData = await fareRes.json();
+      console.log(fareData);
+      const routeData = await routeRes.json();
+      const timeData = await timeRes.json();
+
+      this.fare = fareData.fare;
+      this.route = routeData;
+      this.time = timeData.time;
     },
   },
 };
