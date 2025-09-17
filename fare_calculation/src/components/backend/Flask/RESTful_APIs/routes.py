@@ -33,23 +33,6 @@ def get_fare():
     else:
         return jsonify({"error": "Fare not found"}), 404
 
-@routes_bp.route("/time", methods=["GET"])
-def get_time():
-    from_station = request.args.get("from")
-    to_station = request.args.get("to")
-
-    query = """
-        SELECT time
-        FROM times
-        WHERE origin_id = ? AND destination_id = ?
-    """
-
-    time = fetch_one(query, (from_station, to_station))
-
-    if time:
-        return jsonify({"time": time[0]}), 200
-    else:
-        return jsonify({"error": "Time not found"}), 404
 
 def load_stations():
     conn = get_db_connection()
