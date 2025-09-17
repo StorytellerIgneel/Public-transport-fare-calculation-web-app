@@ -2,7 +2,12 @@
 
 A real-time metro tracking application with a Flask backend and Vue.js frontend kiosk interface.
 ---
-
+# Root refers to fare_calculation in the documentation below
+```
+cd fare_calculation
+```
+to reach root
+---
 # Setup Instructions
 1. Backend dependencies
 
@@ -52,9 +57,8 @@ This starts the Flask server and the data generator together (via Blueprints).
 
 4. Frontend (Vue kiosk interface)
 
-From the frontend folder:
+From the root folder:
 ```
-cd frontend
 npm install
 npm run dev
 ```
