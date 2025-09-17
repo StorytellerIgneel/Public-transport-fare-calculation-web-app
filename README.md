@@ -1,8 +1,9 @@
-###Metro Tracking App###
+# Metro Tracking App 
 
 A real-time metro tracking application with a Flask backend and Vue.js frontend kiosk interface.
 ---
-###Setup Instructions###
+
+# Setup Instructions
 1. Backend dependencies
 
 Install required Python packages:
@@ -61,7 +62,7 @@ npm run dev
 Then open the displayed localhost URL in your browser to access the kiosk interface.
 
 ---
-###Project Structure###
+# Project Structure
 ```
 project-root/
 ├── frontend/                 # Vue.js kiosk interface
@@ -80,11 +81,9 @@ project-root/
 └── requirements.txt
 ```
 ---
-Accessing the Kiosk
-
+# Accessing the Kiosk
 
 Run both backend and frontend as described above.
-
 Open the frontend’s local dev server URL (usually http://localhost:5173 for Vite-based Vue apps).
-
 The kiosk will connect to the Flask backend in real-time.
+---
