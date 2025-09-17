@@ -37,17 +37,7 @@ def fetch_one(query, params=()):
         cur = conn.cursor()
         cur.execute(query, params)
         return cur.fetchone()
-    
-# example for fetch one usage 
-# def get_fare(origin, destination):
-#     query = """
-#         SELECT fare 
-#         FROM fares 
-#         WHERE origin_station = ? AND destination_station = ?
-#     """
-#     row = fetch_one(query, (origin, destination))
-#     return row[0] if row else None
-    
+      
 def fetch_all(query, params=()):
     with closing(get_db_connection()) as conn:
         cur = conn.cursor()
@@ -60,20 +50,5 @@ def get_last_row(query, params=()):
         cur.execute(query, params)
         conn.commit()
         return cur.lastrowid
-
-def update_password(email, new_password):
-    hashed_password = generate_password_hash(new_password)
-    sql_update = "UPDATE users SET password = ? WHERE email = ?"
-    #sql_update = "UPDATE users SET password = ? WHERE email = ?"
-
-    try:
-        with get_db_connection() as conn:
-            cursor = conn.cursor()
-            cursor.execute(sql_update, (hashed_password, email))
-            conn.commit()
-            return cursor.rowcount  # Number of rows affected
-    except Exception as e:
-        print(f"Database error: {e}")
-        return -1  # Indicates error
 
 # seed_db()
