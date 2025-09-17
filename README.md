@@ -1,40 +1,42 @@
-Metro Tracking App
+###Metro Tracking App###
 
 A real-time metro tracking application with a Flask backend and Vue.js frontend kiosk interface.
-
-Setup Instructions
+---
+###Setup Instructions###
 1. Backend dependencies
 
 Install required Python packages:
 
-pip install -r requirements.txt
+```
+pip install -r requirement.txt 
+```
 
+The requirement.txt is located at the root of the project. 
+(or manually if needed: pip install geopy Flask Flask-Cors Flask-SocketIO eventlet)
 
-(or manually if needed: pip install geopy Flask Flask-Cors Flask-SocketIO eventlet ```)
-
-### 2. Database (SQLite)  
+2. Database (SQLite)  
 - The app uses **SQLite**.  
 - A `database.sqlite3` file is already included under:  
-
-
 src/components/backend/Flask/db_scripts/
 
 - No manual setup is required — the backend will detect and use it automatically.  
 
-#### Reinitialize database (optional)  
-If you want to reset or reseed the database:  
-1. Go to the same folder:
-2. 
- ```bash
- cd src/components/backend/Flask/db_scripts
-```
-Open db.py and run the seed_db() function.
-
-```
-python db.py
-```
-
-Make sure the CSV files remain in their original location — they are required for seeding.
+   #### Reinitialize database (optional) 
+   ---
+   If you want to reset or reseed the database:  
+   1. Go to the same folder:
+   2. 
+    ```bash
+    cd src/components/backend/Flask/db_scripts
+   ```
+   Open db.py and run the seed_db() function.
+   
+   ```
+   python db.py
+   ```
+   
+   Make sure the CSV files remain in their original location — they are required for seeding.
+   ---
 
 3. Run backend (Flask + Data Generator)
 
@@ -58,7 +60,9 @@ npm run dev
 
 Then open the displayed localhost URL in your browser to access the kiosk interface.
 
-Project Structure
+---
+###Project Structure###
+```
 project-root/
 ├── frontend/                 # Vue.js kiosk interface
 │   ├── package.json
@@ -74,8 +78,10 @@ project-root/
 │               │   └── *.csv (for seeding)
 │               └── ...
 └── requirements.txt
-
+```
+---
 Accessing the Kiosk
+
 
 Run both backend and frontend as described above.
 
