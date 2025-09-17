@@ -66,25 +66,6 @@ npm run dev
 Then open the displayed localhost URL in your browser to access the kiosk interface.
 
 ---
-# Project Structure
-```
-project-root/
-├── frontend/                 # Vue.js kiosk interface
-│   ├── package.json
-│   └── ...
-├── src/
-│   └── components/
-│       └── backend/
-│           └── Flask/
-│               ├── app.py    # Main Flask app entry point
-│               ├── db_scripts/
-│               │   ├── database.sqlite3
-│               │   ├── db.py
-│               │   └── *.csv (for seeding)
-│               └── ...
-└── requirements.txt
-```
----
 # Accessing the Kiosk
 
 Run both backend and frontend as described above.
